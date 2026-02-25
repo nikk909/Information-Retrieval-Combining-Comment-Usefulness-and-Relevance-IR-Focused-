@@ -1,0 +1,862 @@
+{
+  "kind": "youtube#searchListResponse",
+  "etag": "7-FcFcIvL-PbtKRp2J9GWeQKTtQ",
+  "nextPageToken": "CAoQAA",
+  "regionCode": "DE",
+  "pageInfo": {
+    "totalResults": 1000000,
+    "resultsPerPage": 25
+  },
+  "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "i-Qmnr3THeE5CW3bd57iLTJdV6A",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "0m2VIsoPSsk"
+      },
+      "snippet": {
+        "publishedAt": "2025-11-23T17:51:26Z",
+        "channelId": "UClEWtMDCXO-_FXS15aAh_pg",
+        "title": "This $269 Battery Powered Projector Is Unbelievable – XGIMI Vibe One",
+        "description": "Experience the XGIMI Vibe One (Battery Powered) — the ultra-portable, 1080p smart projector that combines streaming power, ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/0m2VIsoPSsk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/0m2VIsoPSsk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/0m2VIsoPSsk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Unboxing Plus",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-11-23T17:51:26Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "J6YUUBHJQ_hoYOJnCpCEHfKzvPA",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "uY-TTXxjDpU"
+      },
+      "snippet": {
+        "publishedAt": "2023-08-31T14:51:22Z",
+        "channelId": "UCMiJRAwDNSNzuYeN2uWa0pA",
+        "title": "This Home Projector is AWESOME",
+        "description": "The world's first long-throw home theater with Dolby Vision - XGIMI Horizon Ultra Amazon US: https://amzn.to/3EbmxmS Amazon ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/uY-TTXxjDpU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/uY-TTXxjDpU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/uY-TTXxjDpU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Mrwhosetheboss",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-08-31T14:51:22Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "vCVeYKS-vBJhO2QJs6uYP8b_S_Y",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "X1AWwCsbEkk"
+      },
+      "snippet": {
+        "publishedAt": "2025-06-26T13:01:03Z",
+        "channelId": "UCcSyKAcYUZLmGcLSIM4M_4Q",
+        "title": "The Best Portable Projector with Built-in Speakers",
+        "description": "The best portable projector @DevDoesReviews has seen this year ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/X1AWwCsbEkk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/X1AWwCsbEkk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/X1AWwCsbEkk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "XGIMI Tech",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-06-26T13:01:03Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "CWpN70lXvvl4m2uTs7hYIbae-Ho",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "YHvNf5dNU4g"
+      },
+      "snippet": {
+        "publishedAt": "2025-11-24T03:55:13Z",
+        "channelId": "UC-fsR9vJRgzMKEuxyzCKPAA",
+        "title": "XGIMI Vibe One In-Depth Review - Best Sub $200 Portable Projector?",
+        "description": "Buy XGIMI Vibe One (Battery Powered) Google TV 1080p Portable Projector at Amazon @ https://amzn.to/4a8tGFM XGIMI US ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/YHvNf5dNU4g/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/YHvNf5dNU4g/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/YHvNf5dNU4g/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Jayce Ooi",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-11-24T03:55:13Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "s-9ggTkObB8jEPe3vYxLrdzOcts",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "hQDwpXfJXYI"
+      },
+      "snippet": {
+        "publishedAt": "2026-02-04T21:04:53Z",
+        "channelId": "UCdBK94H6oZT2Q7l0-b0xmMg",
+        "title": "Rich people will hate this projector - XGIMI Horizon 20 Max",
+        "description": "Grab an AUKEY MagFusion 1X, the Qi2.2 wireless charger that sticks to surfaces: https://bit.ly/4qiCRc2 Projectors are known for ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/hQDwpXfJXYI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/hQDwpXfJXYI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/hQDwpXfJXYI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "ShortCircuit",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-02-04T21:04:53Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "2uT9oH-MNHG6Ek0cR3tuF9sVSyU",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "vj3oMlLamTc"
+      },
+      "snippet": {
+        "publishedAt": "2023-11-08T07:00:23Z",
+        "channelId": "UCucH3yH6DOOl1iKJbZs7k5Q",
+        "title": "💡How to cast the screen of your iOS device with #XGIMI #projector?  🤔#portableprojector",
+        "description": "How to cast the screen of your iOS device with XGIMI projector? Check and follow the steps in the video. #XGIMI ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/vj3oMlLamTc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/vj3oMlLamTc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/vj3oMlLamTc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "XGIMI Australia",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-11-08T07:00:23Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "5Z_4UpojcyFF_FQdxvMCzykIwPM",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "Nd2n6aShA_8"
+      },
+      "snippet": {
+        "publishedAt": "2025-08-12T14:13:16Z",
+        "channelId": "UCgGVpfIKCrsV5vivVyXhVhA",
+        "title": "XGIMI MoGo 4 Laser Portable Projector Unboxing!",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Nd2n6aShA_8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Nd2n6aShA_8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Nd2n6aShA_8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Daniel Sin",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-08-12T14:13:16Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "S8n0L1yb0JBGdnLC6vatESnwLYw",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "NvbCCQBsO90"
+      },
+      "snippet": {
+        "publishedAt": "2025-10-22T13:15:52Z",
+        "channelId": "UCaDBRJTQhIg_QhCkW7SxWGQ",
+        "title": "XGIMI Horizon 20 Max Hands-On: Best Projector for Your Home?",
+        "description": "The new XGIMI Horizon 20 Max has some impressive specs. Here's what it's like to use it and why it might be the best projector for ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/NvbCCQBsO90/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/NvbCCQBsO90/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/NvbCCQBsO90/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "TheUnlockr",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-10-22T13:15:52Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "csVyG1ZyhfMYs3DunppooUNHm2I",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "HTaXu_jTFjI"
+      },
+      "snippet": {
+        "publishedAt": "2023-10-16T03:59:36Z",
+        "channelId": "UCfdx5wdmJHFwyWv3W3W0DhA",
+        "title": "XGIMI HORIZON Ultra &amp; VIVIDSTORM 100&quot; 3D ALR Screen reviews@nittas_homeandstyle #hometheater",
+        "description": "vividstorm #vividstormscreen #lasertv #alrscreen #projector #projectorscreen #hometheatre #holiday #home #homemovie ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/HTaXu_jTFjI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/HTaXu_jTFjI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/HTaXu_jTFjI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "projection screen Vividstorm",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-10-16T03:59:36Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "CxZ-Jofa_PLXer9baAxKy4SWvnU",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "IXZco3Q8EkA"
+      },
+      "snippet": {
+        "publishedAt": "2025-10-15T21:12:22Z",
+        "channelId": "UC0eKwS8DVnNNCeSl4cbkLxg",
+        "title": "Having a good projector is ELITE.",
+        "description": "Having a good projector is ELITE #ad @XGIMITech #xgimi #HORIZON20MAX #HORIZON20SERIES Head to the link in bio to ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/IXZco3Q8EkA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/IXZco3Q8EkA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/IXZco3Q8EkA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "mattykay",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-10-15T21:12:22Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "V5QgRt1JOhehIYjj4v692UcqXQw",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "Tmhahg_NZbE"
+      },
+      "snippet": {
+        "publishedAt": "2025-10-28T14:14:21Z",
+        "channelId": "UCtYJT2feifBiVsxSC1S1Jwg",
+        "title": "XGIMI Horizon 20 MAX - Best Projector for 2025??",
+        "description": "Check out the HORIZON 20 Series starting at $1189 https://bit.ly/4mXSgvK Get $600 OFF on the HORIZON 20 Max now: ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Tmhahg_NZbE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Tmhahg_NZbE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Tmhahg_NZbE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "JSL Review",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-10-28T14:14:21Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "4mtX6ogBPCrny4AVfpZyNr4M5Hg",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "9QqnfJ0-I_s"
+      },
+      "snippet": {
+        "publishedAt": "2025-11-06T16:14:00Z",
+        "channelId": "UC2gyzKcHbYfqoXA5xbyGXtQ",
+        "title": "This Projector Shouldn’t Cost Under $1500 – The Ultimate Value King",
+        "description": "The best projector for MOST people falls into the $800-1500 sweet spot before the diminishing returns of high end home theater ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/9QqnfJ0-I_s/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/9QqnfJ0-I_s/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/9QqnfJ0-I_s/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "The Hook Up",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-11-06T16:14:00Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "LX4iE2vIQHlj11Zrlk4ITJxeZeo",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "SPPILgmtSZA"
+      },
+      "snippet": {
+        "publishedAt": "2024-10-18T22:03:45Z",
+        "channelId": "UCcSyKAcYUZLmGcLSIM4M_4Q",
+        "title": "Choosing the Right Projector: XGIMI Buyer&#39;s Guide",
+        "description": "Hey everyone! In this video, we're walking you through XGIMI's 2024 lineup, highlighting key features of our Elfin Flip, MoGo 3 Pro ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/SPPILgmtSZA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/SPPILgmtSZA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/SPPILgmtSZA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "XGIMI Tech",
+        "liveBroadcastContent": "none",
+        "publishTime": "2024-10-18T22:03:45Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "IfGR4JiLOLUbFGXOrZ1tjWc6l5M",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "ww0LABMFAng"
+      },
+      "snippet": {
+        "publishedAt": "2023-08-31T15:00:50Z",
+        "channelId": "UC7HgtDweBhkleTOjNo_w8sQ",
+        "title": "XGIMI Horizon Ultra - World’s First Long-Throw Projector with Dolby Vision",
+        "description": "Come Watch the Full Video - https://youtu.be/yfmJ7Un081I Check out my Amazon Storefront for more videos and product ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ww0LABMFAng/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ww0LABMFAng/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ww0LABMFAng/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "ModernDayTech",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-08-31T15:00:50Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "PTP_0lbRKaKocAYAXulVzAQ-GoQ",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "rxFyXkX5lcM"
+      },
+      "snippet": {
+        "publishedAt": "2025-06-29T21:02:45Z",
+        "channelId": "UCb_jwxnmrG9EHU0sQDaAfgg",
+        "title": "Why You Should Buy an XGIMI 4K Projector",
+        "description": "Our review of the XGIMI HORIZON S Max 4K laser dual-light engine home theater projector is coming. This video projector is ideal ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/rxFyXkX5lcM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/rxFyXkX5lcM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/rxFyXkX5lcM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Smart Home Brothers",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-06-29T21:02:45Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "tqPbMa6YpnjBLItwRJQFR-1Le7U",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "sPp9XkI9W7g"
+      },
+      "snippet": {
+        "publishedAt": "2025-01-03T01:49:18Z",
+        "channelId": "UCcSyKAcYUZLmGcLSIM4M_4Q",
+        "title": "Minimalist Design Meets Maximum Holiday Magic: MoGo 3 Pro in Action!",
+        "description": "Minimalist design meets maximum performance: @minimalasimple shows us why the MoGo 3 Pro is a must-have this Christmas!",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/sPp9XkI9W7g/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/sPp9XkI9W7g/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/sPp9XkI9W7g/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "XGIMI Tech",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-01-03T01:49:18Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "cTyQVPDomPH2qNmGkcet-nEWxPI",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "pckIw6OHjVs"
+      },
+      "snippet": {
+        "publishedAt": "2024-05-20T17:43:41Z",
+        "channelId": "UCPL1sZ6OzZAqL6jwI7hKvrw",
+        "title": "My fav Amazon Tech Product of 2024 🔥 #xgimi #xgimitech #amazonfinds #portableprojector #mogo2pro",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/pckIw6OHjVs/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/pckIw6OHjVs/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/pckIw6OHjVs/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Gift Gecko",
+        "liveBroadcastContent": "none",
+        "publishTime": "2024-05-20T17:43:41Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "_qJT-qmWW8NHpsJFHAKXNFHK6wc",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "5NM0WzpNb20"
+      },
+      "snippet": {
+        "publishedAt": "2025-06-13T15:30:37Z",
+        "channelId": "UCik8xvfR6s8GQ74QNEGNzwg",
+        "title": "XGIMI MoGo 4 Review | Buy or Skip?! #buyorskip #projector",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/5NM0WzpNb20/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/5NM0WzpNb20/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/5NM0WzpNb20/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Tom’s Guide",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-06-13T15:30:37Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "-yNc0IIfR288Ks8ulZgc_LNhOgk",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "aHxNOusUY1Y"
+      },
+      "snippet": {
+        "publishedAt": "2025-10-26T19:10:49Z",
+        "channelId": "UC9nEupA3xAtmXA3Swq-Izgw",
+        "title": "UNBOXING THE XGIMI HORIZON 20 #unboxing #xgimi #xgimihorizon20 #xgimitech #projector @XGIMITech",
+        "description": "projector #xgimi #film #dolbyatmos #4k #homecinema #shorts #imaxenhanced #dtsx #apartment #hometheater XGIMI HORIZON ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/aHxNOusUY1Y/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/aHxNOusUY1Y/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/aHxNOusUY1Y/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Steve the Tech Bro",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-10-26T19:10:49Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "hspS4WNbgWMPY_WPxnnnFtUAbvQ",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "nCG3_e0QVSw"
+      },
+      "snippet": {
+        "publishedAt": "2023-04-20T05:27:11Z",
+        "channelId": "UC3ncoE32SQ2beDZIVbISLLA",
+        "title": "A great all in one projector: XGIMI Horizon 📽️",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/nCG3_e0QVSw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/nCG3_e0QVSw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/nCG3_e0QVSw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Tashbunny",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-04-20T05:27:11Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "HnD-eDAyv70j1XEG4-uVyyF57VQ",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "YYCrE8f0Wfo"
+      },
+      "snippet": {
+        "publishedAt": "2025-03-24T14:36:02Z",
+        "channelId": "UCU4xqrR6oX1FTggJ8bVRWhQ",
+        "title": "Worth The Hype? XGIMI Elfin Flip Projector Unboxing",
+        "description": "Watch our full review video of the XGIMI Elfin Flip projector: https://youtu.be/59smnW2GfpU EU Store Product Page: ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/YYCrE8f0Wfo/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/YYCrE8f0Wfo/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/YYCrE8f0Wfo/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Tech Brothers",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-03-24T14:36:02Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "ipQiBAmhASumVXbQ6A4cRyOXch4",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "8MuSStMOTpM"
+      },
+      "snippet": {
+        "publishedAt": "2023-11-28T23:31:17Z",
+        "channelId": "UC3984ZY5M9jgjYM4S_cSsaQ",
+        "title": "Is that water? @ParisRhone  just opened the new SP005 4K projector. #parisrhone #sp005",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/8MuSStMOTpM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/8MuSStMOTpM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/8MuSStMOTpM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Jimmy",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-11-28T23:31:17Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "nGWnAcxDvDxzuzcqfNBAymIeczg",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "aVCxnxNyWFY"
+      },
+      "snippet": {
+        "publishedAt": "2025-10-24T21:55:04Z",
+        "channelId": "UCaP1PNnr055fOt89JPry51w",
+        "title": "XGIMI Horizon 20 Max // The New Standard for 4K Home Projectors!",
+        "description": "Check out the HORIZON 20 Series starting at $1189 https://bit.ly/4nTBiAk Get $600 OFF on the HORIZON 20 Max now ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/aVCxnxNyWFY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/aVCxnxNyWFY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/aVCxnxNyWFY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Justin Tse",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-10-24T21:55:04Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "AaZA_X0ZKIpMpCI2GEtJe8Bv5jQ",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "ocaSxhJA4Fg"
+      },
+      "snippet": {
+        "publishedAt": "2025-06-12T13:01:26Z",
+        "channelId": "UCik8xvfR6s8GQ74QNEGNzwg",
+        "title": "$799 for a Portable Projector! - Is the XGIMI MoGo 4 Laser Worth It?",
+        "description": "off XGIMI MoGo 4 Laser - https://hawk.ly/m/xgimi-mogo-4-laser/i/tomsguide-youtube-xgimi-mogo-4-laser XGIMI MoGo 4 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ocaSxhJA4Fg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ocaSxhJA4Fg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ocaSxhJA4Fg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Tom’s Guide",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-06-12T13:01:26Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "EwJwHkVhLCY9sHPWJicKY15ZBB8",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "0vBT1TkX-wA"
+      },
+      "snippet": {
+        "publishedAt": "2025-06-12T14:32:58Z",
+        "channelId": "UCzlXf-yUIaOpOjEjPrOO9TA",
+        "title": "XGIMI MoGo 4 - Next-Gen PORTABLE Projectors! [Unboxing &amp; Impressions]",
+        "description": "Unboxing the 2025 XGIMI MoGo 4 & MoGo 4 Laser - The Perfect Portable Projectors? ▷US 【M4 Laser XGIMI ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/0vBT1TkX-wA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/0vBT1TkX-wA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/0vBT1TkX-wA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "The Tech Chap",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-06-12T14:32:58Z"
+      }
+    }
+  ]
+}

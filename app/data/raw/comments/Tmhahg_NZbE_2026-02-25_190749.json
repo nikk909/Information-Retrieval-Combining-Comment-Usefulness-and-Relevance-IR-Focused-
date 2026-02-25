@@ -1,0 +1,214 @@
+{
+  "kind": "youtube#commentThreadListResponse",
+  "etag": "46fzDYG9rXv1lIlvi6m_SkpTorY",
+  "pageInfo": {
+    "totalResults": 6,
+    "resultsPerPage": 100
+  },
+  "items": [
+    {
+      "kind": "youtube#commentThread",
+      "etag": "9v4Wa-lQ78l153MXHcPbtmvv8Bg",
+      "id": "Ugx6AfaSTlWMdQVSEmh4AaABAg",
+      "snippet": {
+        "channelId": "UCtYJT2feifBiVsxSC1S1Jwg",
+        "videoId": "Tmhahg_NZbE",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "nofYXDMBoZjTD02riBPMF_swNXc",
+          "id": "Ugx6AfaSTlWMdQVSEmh4AaABAg",
+          "snippet": {
+            "channelId": "UCtYJT2feifBiVsxSC1S1Jwg",
+            "videoId": "Tmhahg_NZbE",
+            "textDisplay": "Check out the HORIZON 20 Series starting at $1,189 https://bit.ly/4mXSgvK\nGet $600 OFF on the HORIZON 20 Max now: https://amzn.to/46Xbk7v\nUse code [XGIMI0TA] for 30% OFF on HORIZON 20 Pro and code [XGIMI7LK] for 30% OFF on HORIZON 20; Both codes apply via this link: https://amzn.to/3W4V93c\nVividstorm ALR Screen+Horizon 20 Max bundle is now $1499 off: https://amzn.to/3L2dETr",
+            "textOriginal": "Check out the HORIZON 20 Series starting at $1,189 https://bit.ly/4mXSgvK\nGet $600 OFF on the HORIZON 20 Max now: https://amzn.to/46Xbk7v\nUse code [XGIMI0TA] for 30% OFF on HORIZON 20 Pro and code [XGIMI7LK] for 30% OFF on HORIZON 20; Both codes apply via this link: https://amzn.to/3W4V93c\nVividstorm ALR Screen+Horizon 20 Max bundle is now $1499 off: https://amzn.to/3L2dETr",
+            "authorDisplayName": "@JSLReview",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/txIES7kkj0YdJ_VbEAR4AxxzT7Oufl9vSuBCBxv54hKR9b6JhYsonQoHKRrAD-6hkH_PCmLBmNk=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/@JSLReview",
+            "authorChannelId": {
+              "value": "UCtYJT2feifBiVsxSC1S1Jwg"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 11,
+            "publishedAt": "2025-10-27T20:11:43Z",
+            "updatedAt": "2025-10-27T20:11:43Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "l84urav6y0X5-q7eZdWdWpDfjPA",
+      "id": "Ugx1IOHG8bBi5JyR9Ap4AaABAg",
+      "snippet": {
+        "channelId": "UCtYJT2feifBiVsxSC1S1Jwg",
+        "videoId": "Tmhahg_NZbE",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "OYCFwYuZxOdXi5rV4SSAK0Ob3Qs",
+          "id": "Ugx1IOHG8bBi5JyR9Ap4AaABAg",
+          "snippet": {
+            "channelId": "UCtYJT2feifBiVsxSC1S1Jwg",
+            "videoId": "Tmhahg_NZbE",
+            "textDisplay": "Does it have a color wheel?",
+            "textOriginal": "Does it have a color wheel?",
+            "authorDisplayName": "@EVAEVA-dd5zq",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIdro_knBnhTOeMlbiP80xwc2hynGz0Ew0MdNtlIwOr_-yE=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/@EVAEVA-dd5zq",
+            "authorChannelId": {
+              "value": "UCz4KiBEBU9TuSXsguC5j91Q"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2025-12-18T17:14:28Z",
+            "updatedAt": "2025-12-18T17:14:28Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "NQFXcl59LXsCNcluds4VSf5-9bw",
+      "id": "UgxsIUkxUHDmjhi8dex4AaABAg",
+      "snippet": {
+        "channelId": "UCtYJT2feifBiVsxSC1S1Jwg",
+        "videoId": "Tmhahg_NZbE",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "LjpMoUyN_hn9nmQI9WP4zqGlnG4",
+          "id": "UgxsIUkxUHDmjhi8dex4AaABAg",
+          "snippet": {
+            "channelId": "UCtYJT2feifBiVsxSC1S1Jwg",
+            "videoId": "Tmhahg_NZbE",
+            "textDisplay": "4:04 that’s not what I’d call a ton of daylight tho.",
+            "textOriginal": "4:04 that’s not what I’d call a ton of daylight tho.",
+            "authorDisplayName": "@substance90",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIdro_kWQhfFnrYXPsdWtVd50C0arQNRzwsX-xGu47bzd2JbeCg=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/@substance90",
+            "authorChannelId": {
+              "value": "UCSm_CRMEMg2QzKuGwJWdmPQ"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 1,
+            "publishedAt": "2025-12-11T21:09:33Z",
+            "updatedAt": "2025-12-11T21:09:33Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "dmwXTE5WxxBse9S9RlBmpJlxhAs",
+      "id": "Ugx_BqH5FQSxwBomCLF4AaABAg",
+      "snippet": {
+        "channelId": "UCtYJT2feifBiVsxSC1S1Jwg",
+        "videoId": "Tmhahg_NZbE",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "gCR7OiBu4SC0iIxX1u3SeW4y8TU",
+          "id": "Ugx_BqH5FQSxwBomCLF4AaABAg",
+          "snippet": {
+            "channelId": "UCtYJT2feifBiVsxSC1S1Jwg",
+            "videoId": "Tmhahg_NZbE",
+            "textDisplay": "La VRR est actif uniquement que pour les jeux en 1080P… les affirmations publicitaires concernant le jeu en 4K sur ce projecteur sont surtout une arnaque marketing 👎🏻",
+            "textOriginal": "La VRR est actif uniquement que pour les jeux en 1080P… les affirmations publicitaires concernant le jeu en 4K sur ce projecteur sont surtout une arnaque marketing 👎🏻",
+            "authorDisplayName": "@bylaurentbeguevideography341",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/bMvhu6EOvp1ecgeeruvaPsYaxdCWpMX4rf0j3XcG_5ANHaeID86ytFUxjys_1c724OK9J39i0A=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/@bylaurentbeguevideography341",
+            "authorChannelId": {
+              "value": "UCFo22JEGElTiEuZOmebjQWQ"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 2,
+            "publishedAt": "2025-11-25T09:12:43Z",
+            "updatedAt": "2025-11-25T09:12:43Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "0Bzva-CnQy69yF6UaRONrGgG-qw",
+      "id": "Ugy61C2lzTXdbgbkicJ4AaABAg",
+      "snippet": {
+        "channelId": "UCtYJT2feifBiVsxSC1S1Jwg",
+        "videoId": "Tmhahg_NZbE",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "6fv6Wz8osHw_RkdUI0HnG8s8kvk",
+          "id": "Ugy61C2lzTXdbgbkicJ4AaABAg",
+          "snippet": {
+            "channelId": "UCtYJT2feifBiVsxSC1S1Jwg",
+            "videoId": "Tmhahg_NZbE",
+            "textDisplay": "How’s the rainbow effect? Do they have anything to help hide it?",
+            "textOriginal": "How’s the rainbow effect? Do they have anything to help hide it?",
+            "authorDisplayName": "@randychesbro6220",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIdro_kaswG4pQVMQir37CQ5y28D94utrsU50KJLuWpl9GFk6w=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/@randychesbro6220",
+            "authorChannelId": {
+              "value": "UCUgZpBPGBLSeyQZ69UaBM0g"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 4,
+            "publishedAt": "2025-11-06T22:40:41Z",
+            "updatedAt": "2025-11-06T22:40:41Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "i-bBAAx5YrfDPPY3WUSYHXqCaa8",
+      "id": "UgzI5b24g-uXnXYcnIp4AaABAg",
+      "snippet": {
+        "channelId": "UCtYJT2feifBiVsxSC1S1Jwg",
+        "videoId": "Tmhahg_NZbE",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "Zu9N4yOkfTm6ccAZ7zmlC5f0fZI",
+          "id": "UgzI5b24g-uXnXYcnIp4AaABAg",
+          "snippet": {
+            "channelId": "UCtYJT2feifBiVsxSC1S1Jwg",
+            "videoId": "Tmhahg_NZbE",
+            "textDisplay": "Do you want to test Aurzen Projector? Please check your email to get more information.",
+            "textOriginal": "Do you want to test Aurzen Projector? Please check your email to get more information.",
+            "authorDisplayName": "@CeliaLee-w2m",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIdro_n68ziQLwlP2zE2AoW58ea3RWol98GNssqM9F9i2ODfKsPj4j3sBfuxm6Wo8-ppOXb3Jw=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/@CeliaLee-w2m",
+            "authorChannelId": {
+              "value": "UC3Je8DlsgfcYotvFJoTuyoA"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2025-10-29T02:38:09Z",
+            "updatedAt": "2025-10-29T02:38:09Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    }
+  ]
+}

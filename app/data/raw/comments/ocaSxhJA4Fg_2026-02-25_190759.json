@@ -1,0 +1,690 @@
+{
+  "kind": "youtube#commentThreadListResponse",
+  "etag": "UCwZYELyZsMHX80VbpX4eJqygRQ",
+  "pageInfo": {
+    "totalResults": 20,
+    "resultsPerPage": 100
+  },
+  "items": [
+    {
+      "kind": "youtube#commentThread",
+      "etag": "AdFTzDl8gSOFNmWo5fEDd5RjAVI",
+      "id": "UgyK7o_DMGRFNzZg9BN4AaABAg",
+      "snippet": {
+        "channelId": "UCik8xvfR6s8GQ74QNEGNzwg",
+        "videoId": "ocaSxhJA4Fg",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "BqD6gTHQeFg9VMVlrbZVO22sZKU",
+          "id": "UgyK7o_DMGRFNzZg9BN4AaABAg",
+          "snippet": {
+            "channelId": "UCik8xvfR6s8GQ74QNEGNzwg",
+            "videoId": "ocaSxhJA4Fg",
+            "textDisplay": "If you had one of these, where would you actually use it the most?",
+            "textOriginal": "If you had one of these, where would you actually use it the most?",
+            "authorDisplayName": "@PaulAntill",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIdro_kKAOi_Ux0kHAXawtFzm2bu9nXGkPFSNWA2laWdPi2QlWs=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/@PaulAntill",
+            "authorChannelId": {
+              "value": "UChdborI635HtMhaavNOG6Dg"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 6,
+            "publishedAt": "2025-06-12T13:25:36Z",
+            "updatedAt": "2025-06-12T13:25:36Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 3,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "1aFj4hKZ_xhJEqyDUQprfBTO8mc",
+      "id": "UgwDotKJSx3EzGVAF014AaABAg",
+      "snippet": {
+        "channelId": "UCik8xvfR6s8GQ74QNEGNzwg",
+        "videoId": "ocaSxhJA4Fg",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "bXs2lpVVTk86gHIsHi5oDXQkwTs",
+          "id": "UgwDotKJSx3EzGVAF014AaABAg",
+          "snippet": {
+            "channelId": "UCik8xvfR6s8GQ74QNEGNzwg",
+            "videoId": "ocaSxhJA4Fg",
+            "textDisplay": "Is it good for plays station 5 gaming",
+            "textOriginal": "Is it good for plays station 5 gaming",
+            "authorDisplayName": "@sunilshinde5658",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIdro_kLBcMzoohA1mHUAv64LQbmWouODwvPOYICGHLTtEU=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/@sunilshinde5658",
+            "authorChannelId": {
+              "value": "UCIRRKE7sfoPry_dAeSIxCBA"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2026-01-27T13:52:58Z",
+            "updatedAt": "2026-01-27T13:52:58Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "AEuKdaynFoBvy5i-50tWaKv8guk",
+      "id": "UgwNxLwfv77UQ6JGS3R4AaABAg",
+      "snippet": {
+        "channelId": "UCik8xvfR6s8GQ74QNEGNzwg",
+        "videoId": "ocaSxhJA4Fg",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "AnnQA66sQI2wY-UDHLN1EM4e2UM",
+          "id": "UgwNxLwfv77UQ6JGS3R4AaABAg",
+          "snippet": {
+            "channelId": "UCik8xvfR6s8GQ74QNEGNzwg",
+            "videoId": "ocaSxhJA4Fg",
+            "textDisplay": "Buying those in china cost only 200€ which is a steal",
+            "textOriginal": "Buying those in china cost only 200€ which is a steal",
+            "authorDisplayName": "@obihz2415",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/UtaY75VNI0zpFLwx-yxNvj0D05sQGHf8zKlM3nGp780zMgCKXQERxIp5wuriNArtj1U-Tbxobg=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/@obihz2415",
+            "authorChannelId": {
+              "value": "UCcj12gXUS1Orv40N6xk3SMw"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 2,
+            "publishedAt": "2025-12-28T20:53:36Z",
+            "updatedAt": "2025-12-28T20:53:36Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "KQKlzZFNgDknyooVVMl2TFkxQyc",
+      "id": "UgwDJa-wDw4UMz9VLqF4AaABAg",
+      "snippet": {
+        "channelId": "UCik8xvfR6s8GQ74QNEGNzwg",
+        "videoId": "ocaSxhJA4Fg",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "oFRqv9WnVFIMWs-FccUDulpdiYY",
+          "id": "UgwDJa-wDw4UMz9VLqF4AaABAg",
+          "snippet": {
+            "channelId": "UCik8xvfR6s8GQ74QNEGNzwg",
+            "videoId": "ocaSxhJA4Fg",
+            "textDisplay": "Super fair review!",
+            "textOriginal": "Super fair review!",
+            "authorDisplayName": "@theRecoverJourney",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/RL1vQIkF0u-VzwEnSydVs7lyHh6gfPj_g8io8jYekArHvRmikgaNorWPtGFtEuVN_7bBgqW0Hg=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/@theRecoverJourney",
+            "authorChannelId": {
+              "value": "UClEW-EDt-peVyZYeQd90OBw"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 1,
+            "publishedAt": "2025-12-14T16:46:24Z",
+            "updatedAt": "2025-12-14T16:46:24Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "z9hBNpTXUcQTARgHvgJDYhUcNrI",
+      "id": "UgzZuFwSpg__qIfUTud4AaABAg",
+      "snippet": {
+        "channelId": "UCik8xvfR6s8GQ74QNEGNzwg",
+        "videoId": "ocaSxhJA4Fg",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "j-T6qJTO49WAie9eHW2_1sOfQ4k",
+          "id": "UgzZuFwSpg__qIfUTud4AaABAg",
+          "snippet": {
+            "channelId": "UCik8xvfR6s8GQ74QNEGNzwg",
+            "videoId": "ocaSxhJA4Fg",
+            "textDisplay": "how is this compared to mogo 2 pro? in terms of image quality?",
+            "textOriginal": "how is this compared to mogo 2 pro? in terms of image quality?",
+            "authorDisplayName": "@pera7777",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIdro_mzVVpUZLVSyffjziTGzkKbWAYgj1T68otYg8nOJ9JKF5Jcx3v_FmvtuVtiTkxDnRhXpA=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/@pera7777",
+            "authorChannelId": {
+              "value": "UCF4lbmaTgtahRTMLKKRWWkg"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2025-12-07T12:03:03Z",
+            "updatedAt": "2025-12-07T12:03:03Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "DU_rcW19f6bSgxWSWf320TKve7w",
+      "id": "UgyF1g-q8vAGBiYRx5V4AaABAg",
+      "snippet": {
+        "channelId": "UCik8xvfR6s8GQ74QNEGNzwg",
+        "videoId": "ocaSxhJA4Fg",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "oFMU5iW9-ZMm02BNOMn0HqZxAlI",
+          "id": "UgyF1g-q8vAGBiYRx5V4AaABAg",
+          "snippet": {
+            "channelId": "UCik8xvfR6s8GQ74QNEGNzwg",
+            "videoId": "ocaSxhJA4Fg",
+            "textDisplay": "Does it charge by usb c?",
+            "textOriginal": "Does it charge by usb c?",
+            "authorDisplayName": "@Moniq29uk",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/kNh_1dLx8DzXNA0BLqyPsAbiohoy_9ClEpq4DYsYSIX51fL5AdYCyqDRGeDUx6S5OrH89E3PYQ=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/@Moniq29uk",
+            "authorChannelId": {
+              "value": "UCtI5dPhOCSjU08IYVh4evzw"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2025-11-20T18:21:12Z",
+            "updatedAt": "2025-11-20T18:21:12Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "nlO2HftuvFBNuF3Ddj7KswJFU28",
+      "id": "UgyZY1hxpadRT2kmkRd4AaABAg",
+      "snippet": {
+        "channelId": "UCik8xvfR6s8GQ74QNEGNzwg",
+        "videoId": "ocaSxhJA4Fg",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "JIPd266sOgst9utDFTSYxYJ0-Mc",
+          "id": "UgyZY1hxpadRT2kmkRd4AaABAg",
+          "snippet": {
+            "channelId": "UCik8xvfR6s8GQ74QNEGNzwg",
+            "videoId": "ocaSxhJA4Fg",
+            "textDisplay": "How does this compare to the Anker Nebula Capsule 3 Laser? \n\nSeems like a logical price point competitor, but it’s difficult to understand the differences when they use different metrics, e.g. ISO vs ANSI lumens…",
+            "textOriginal": "How does this compare to the Anker Nebula Capsule 3 Laser? \n\nSeems like a logical price point competitor, but it’s difficult to understand the differences when they use different metrics, e.g. ISO vs ANSI lumens…",
+            "authorDisplayName": "@carguysteve",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIdro_mbaPDHA7W4kiZv2PDmEdRXpp9ehfKlXTO6OGeB4T2Qj46a=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/@carguysteve",
+            "authorChannelId": {
+              "value": "UCb8AsjeWeWeqly6pu8N0UQg"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 1,
+            "publishedAt": "2025-09-30T21:52:10Z",
+            "updatedAt": "2025-09-30T21:52:10Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "sor_QosGW_REKZYg0f6JJX25rNg",
+      "id": "Ugzw0pcPuz_F01DQFOl4AaABAg",
+      "snippet": {
+        "channelId": "UCik8xvfR6s8GQ74QNEGNzwg",
+        "videoId": "ocaSxhJA4Fg",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "0SroT8XaD6hErrflg5lIt22-jOg",
+          "id": "Ugzw0pcPuz_F01DQFOl4AaABAg",
+          "snippet": {
+            "channelId": "UCik8xvfR6s8GQ74QNEGNzwg",
+            "videoId": "ocaSxhJA4Fg",
+            "textDisplay": "Thank you!!!  That is a genuine review and well explained.  All the other reviews I came across seems like they are pay for.",
+            "textOriginal": "Thank you!!!  That is a genuine review and well explained.  All the other reviews I came across seems like they are pay for.",
+            "authorDisplayName": "@leinat.dddddddddddd",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/b_qYBMEmo81YpXEKev4Q6NHaO6QguONTyVjRokBqPqd-KQXAIt-W4VFGdCScqoWCFbszm-LpfEQ=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/@leinat.dddddddddddd",
+            "authorChannelId": {
+              "value": "UCygbSKYG31dn5CiPC7J70Ig"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 12,
+            "publishedAt": "2025-09-23T08:34:39Z",
+            "updatedAt": "2025-09-23T08:34:39Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 1,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "m-ohcbCTFAJDiVr5-eJspEwNrcs",
+      "id": "UgzXX9sLQxnpLvj6rF94AaABAg",
+      "snippet": {
+        "channelId": "UCik8xvfR6s8GQ74QNEGNzwg",
+        "videoId": "ocaSxhJA4Fg",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "cqBAnLr9pVohdBt6keZvMiEct8o",
+          "id": "UgzXX9sLQxnpLvj6rF94AaABAg",
+          "snippet": {
+            "channelId": "UCik8xvfR6s8GQ74QNEGNzwg",
+            "videoId": "ocaSxhJA4Fg",
+            "textDisplay": "Does anyone know if the adapter is able to be swapped? Want to buy a U S version, but when moving outbid the country to Europe, swap for a UK version without purchasing another unit",
+            "textOriginal": "Does anyone know if the adapter is able to be swapped? Want to buy a U S version, but when moving outbid the country to Europe, swap for a UK version without purchasing another unit",
+            "authorDisplayName": "@prettybaby80",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIdro_kPl-2kkdmhmkhi7G1jLv-mt-VFwswSMXJ5zh7UnwJS7A=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/@prettybaby80",
+            "authorChannelId": {
+              "value": "UCEXzWVlwBAJC01NsI5alsYw"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2025-09-20T16:11:09Z",
+            "updatedAt": "2025-09-20T16:11:09Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "8mPYcoRO-QXP_AfwUSkUjp-bi04",
+      "id": "UgzTIpltHK_l5a2ion94AaABAg",
+      "snippet": {
+        "channelId": "UCik8xvfR6s8GQ74QNEGNzwg",
+        "videoId": "ocaSxhJA4Fg",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "5-0erq4eFWks2nXP7vDaC5tl5Co",
+          "id": "UgzTIpltHK_l5a2ion94AaABAg",
+          "snippet": {
+            "channelId": "UCik8xvfR6s8GQ74QNEGNzwg",
+            "videoId": "ocaSxhJA4Fg",
+            "textDisplay": "This or jmgo n1s se?",
+            "textOriginal": "This or jmgo n1s se?",
+            "authorDisplayName": "@Enceladus335",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/sqvW9YHdzU7VnONdlR2ZQmhcvp2jyYe2c_o77IfT_sm49oFtmLGt01GcZ6wxfr6G9lEas0tFqA=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/@Enceladus335",
+            "authorChannelId": {
+              "value": "UCUgP9w_v9pwwRsJaY8bCs7A"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2025-09-11T12:00:04Z",
+            "updatedAt": "2025-09-11T12:00:04Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "9PvbvVm90yCdJ49uYk_KHiNwB58",
+      "id": "UgxQrg-OdPOxfjWt3np4AaABAg",
+      "snippet": {
+        "channelId": "UCik8xvfR6s8GQ74QNEGNzwg",
+        "videoId": "ocaSxhJA4Fg",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "mt0ojiqRB9cXSbfJRbZZEEHqPHA",
+          "id": "UgxQrg-OdPOxfjWt3np4AaABAg",
+          "snippet": {
+            "channelId": "UCik8xvfR6s8GQ74QNEGNzwg",
+            "videoId": "ocaSxhJA4Fg",
+            "textDisplay": "AI written script damnnnn",
+            "textOriginal": "AI written script damnnnn",
+            "authorDisplayName": "@wren1831",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/AGqiivkegfJLM2838SXPGJd7Qm7Rebegrh6Kojtbsc9vza5zn-yRwcJyAVGm71FCxRjqDK2671Y=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/@wren1831",
+            "authorChannelId": {
+              "value": "UCkfP5driW7I7iyrbzP6_xIw"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 1,
+            "publishedAt": "2025-08-10T08:00:56Z",
+            "updatedAt": "2025-08-10T08:00:56Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "PFX3Fo526Oxe8AT0z-HJADxMznA",
+      "id": "Ugyu0sxoA7CKFDMqRSJ4AaABAg",
+      "snippet": {
+        "channelId": "UCik8xvfR6s8GQ74QNEGNzwg",
+        "videoId": "ocaSxhJA4Fg",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "oJtck2d2O0W941jzs6vOnMO91mI",
+          "id": "Ugyu0sxoA7CKFDMqRSJ4AaABAg",
+          "snippet": {
+            "channelId": "UCik8xvfR6s8GQ74QNEGNzwg",
+            "videoId": "ocaSxhJA4Fg",
+            "textDisplay": "3:53 Why do you keep swiping your hand over the projection?",
+            "textOriginal": "3:53 Why do you keep swiping your hand over the projection?",
+            "authorDisplayName": "@Maltbrew",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/kZCOKUdE4ACPuLwLo7cYUlnNTabfRhltD6vCKINQwFDzHs1vwkqO__WfIzMgZ4ZCAgCi8-K3nQw=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/@Maltbrew",
+            "authorChannelId": {
+              "value": "UCpc4WO9kQQ2UXCJvhHWfLSQ"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2025-07-12T19:29:16Z",
+            "updatedAt": "2025-07-12T19:29:16Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 1,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "KnXfV6Xicg4EDAaQ7UoG2IfJ4MI",
+      "id": "UgxgwKbrRifSZZ8L3Xd4AaABAg",
+      "snippet": {
+        "channelId": "UCik8xvfR6s8GQ74QNEGNzwg",
+        "videoId": "ocaSxhJA4Fg",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "465-3uinFptD0d6-E6KHh-twWVQ",
+          "id": "UgxgwKbrRifSZZ8L3Xd4AaABAg",
+          "snippet": {
+            "channelId": "UCik8xvfR6s8GQ74QNEGNzwg",
+            "videoId": "ocaSxhJA4Fg",
+            "textDisplay": "Can’t decide between the mogo 4 laser or the JMGO N1S 4k. I know not really comparable as the JMGO will have the better picture and combat ambient light better but like the idea of having the battery and portability of the Mogo 4 laser. Will mainly be used for outdoor movie nights but wonder if the brightness of the mogo 4 would be an issue if street lights are around",
+            "textOriginal": "Can’t decide between the mogo 4 laser or the JMGO N1S 4k. I know not really comparable as the JMGO will have the better picture and combat ambient light better but like the idea of having the battery and portability of the Mogo 4 laser. Will mainly be used for outdoor movie nights but wonder if the brightness of the mogo 4 would be an issue if street lights are around",
+            "authorDisplayName": "@John-vh1fk",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIdro_mmjh9B8Alg1Wc_ouYubl5aDftL1b6W1ylbUDywk0I=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/@John-vh1fk",
+            "authorChannelId": {
+              "value": "UCcCuNmLeyLr_N20-eE7YB9w"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 2,
+            "publishedAt": "2025-07-10T14:54:29Z",
+            "updatedAt": "2025-07-10T14:54:29Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "VgqXFRgk0Dz8XLyfjTnmecT4UdI",
+      "id": "UgyQbj7YNZX1Bv21Yul4AaABAg",
+      "snippet": {
+        "channelId": "UCik8xvfR6s8GQ74QNEGNzwg",
+        "videoId": "ocaSxhJA4Fg",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "tlA-ISe2wLPB9DSLDP_Yi7A0Xj0",
+          "id": "UgyQbj7YNZX1Bv21Yul4AaABAg",
+          "snippet": {
+            "channelId": "UCik8xvfR6s8GQ74QNEGNzwg",
+            "videoId": "ocaSxhJA4Fg",
+            "textDisplay": "Why it is 799 but now cost around 973 usd",
+            "textOriginal": "Why it is 799 but now cost around 973 usd",
+            "authorDisplayName": "@timothysreply",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIdro_nM8r77Y7Us-1FW6dv-MFAEOgqP10cph49FkxXDnpVClwNGEIdM5zdTUyEgLLRRse4Z7A=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/@timothysreply",
+            "authorChannelId": {
+              "value": "UCRMeYNhqBDe1iuz3dVrVUdw"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2025-07-05T05:39:49Z",
+            "updatedAt": "2025-07-05T05:39:49Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "GrAjDIbkgxO8ZVCZfKoYRq6cttM",
+      "id": "UgwOBxgZ_Oy2Y44RpMV4AaABAg",
+      "snippet": {
+        "channelId": "UCik8xvfR6s8GQ74QNEGNzwg",
+        "videoId": "ocaSxhJA4Fg",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "szD0rMELhup-JQ_f3cT0dyVaG2Q",
+          "id": "UgwOBxgZ_Oy2Y44RpMV4AaABAg",
+          "snippet": {
+            "channelId": "UCik8xvfR6s8GQ74QNEGNzwg",
+            "videoId": "ocaSxhJA4Fg",
+            "textDisplay": "Not travel friendly with that built in battery. You have to take it in your carry-on...",
+            "textOriginal": "Not travel friendly with that built in battery. You have to take it in your carry-on...",
+            "authorDisplayName": "@xnoxno-official",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/fcd3ZRqIiPO-YsV2z5SkSZ7X9MCvIQ0mC6ruVqJ0073n_9_DW_Agz6ECzPQH6fCuCFiuJ9YC=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/@xnoxno-official",
+            "authorChannelId": {
+              "value": "UCH2x4t6N22uTdV5p-BZiZyg"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 2,
+            "publishedAt": "2025-06-29T20:42:48Z",
+            "updatedAt": "2025-06-29T20:42:48Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 1,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "xJacOKPCBT41OpKgLeoykrNMk_Q",
+      "id": "Ugyc2saCGsFn9drYyQl4AaABAg",
+      "snippet": {
+        "channelId": "UCik8xvfR6s8GQ74QNEGNzwg",
+        "videoId": "ocaSxhJA4Fg",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "qYVsJwE9Rm4iQ28BlDaEYuByi_A",
+          "id": "Ugyc2saCGsFn9drYyQl4AaABAg",
+          "snippet": {
+            "channelId": "UCik8xvfR6s8GQ74QNEGNzwg",
+            "videoId": "ocaSxhJA4Fg",
+            "textDisplay": "Wish somebody could gift me this projector 😢",
+            "textOriginal": "Wish somebody could gift me this projector 😢",
+            "authorDisplayName": "@KinzangDendup-b4h",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/3D0nMFVI50_0hwEpQyLdWNMR3J9idC0QlXd1ggRlO1qriPmLuGPubmGZlROQ9OX4vQX3q57ddYo=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/@KinzangDendup-b4h",
+            "authorChannelId": {
+              "value": "UCbIe_oWXvYy6JG9l2BrYd2w"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 1,
+            "publishedAt": "2025-06-22T04:47:04Z",
+            "updatedAt": "2025-06-22T04:47:04Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "S3zES-lyQ-62nFzikQw42lD-f5U",
+      "id": "UgxAMQRDHa7-qJPUnCF4AaABAg",
+      "snippet": {
+        "channelId": "UCik8xvfR6s8GQ74QNEGNzwg",
+        "videoId": "ocaSxhJA4Fg",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "7vGi9kw8ej8-HDaKV85fiavfSqQ",
+          "id": "UgxAMQRDHa7-qJPUnCF4AaABAg",
+          "snippet": {
+            "channelId": "UCik8xvfR6s8GQ74QNEGNzwg",
+            "videoId": "ocaSxhJA4Fg",
+            "textDisplay": "Could these projectors be connected to speakers for example like the Sonos sound system?",
+            "textOriginal": "Could these projectors be connected to speakers for example like the Sonos sound system?",
+            "authorDisplayName": "@DaedraLyn",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/Vy2XGdcUXerNTNwj3Fie18CzflnANJRHaMyNgAB2m4bJSrMlv2z7bPaT-SmFgWLn0Ju1A1lK=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/@DaedraLyn",
+            "authorChannelId": {
+              "value": "UC-OpR8pRQrjEfTKlMHlseiQ"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 3,
+            "publishedAt": "2025-06-20T21:32:49Z",
+            "updatedAt": "2025-06-20T21:32:49Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 1,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "9-iMz_wtmUDEuEVFcLAa9TGxzCE",
+      "id": "UgztSfAeeYE5_8ErxMd4AaABAg",
+      "snippet": {
+        "channelId": "UCik8xvfR6s8GQ74QNEGNzwg",
+        "videoId": "ocaSxhJA4Fg",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "PlvQo55DUWl6BThdCTDIbMaZ5FY",
+          "id": "UgztSfAeeYE5_8ErxMd4AaABAg",
+          "snippet": {
+            "channelId": "UCik8xvfR6s8GQ74QNEGNzwg",
+            "videoId": "ocaSxhJA4Fg",
+            "textDisplay": "I was really thinking of pulling the trigger but the price is insane. I'm a casual watcher so I'll get something less expensive and start up from there. Great video tho, it did help iwth my decision",
+            "textOriginal": "I was really thinking of pulling the trigger but the price is insane. I'm a casual watcher so I'll get something less expensive and start up from there. Great video tho, it did help iwth my decision",
+            "authorDisplayName": "@MM-bw1lo",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIdro_k7C-jNrJgD37_cbjqkq1CcXk2jzIHpYH843YcM0QI=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/@MM-bw1lo",
+            "authorChannelId": {
+              "value": "UC2HHwGiEex50_4poRfqqcXg"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 4,
+            "publishedAt": "2025-06-17T10:18:40Z",
+            "updatedAt": "2025-06-17T10:18:40Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 2,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "9mEYer8pCjW9-pVVga92AAmxMcs",
+      "id": "UgxTjP-vNYXeNCnI1CR4AaABAg",
+      "snippet": {
+        "channelId": "UCik8xvfR6s8GQ74QNEGNzwg",
+        "videoId": "ocaSxhJA4Fg",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "inc8ToIZojiq5JyZKi3hzAhCR7c",
+          "id": "UgxTjP-vNYXeNCnI1CR4AaABAg",
+          "snippet": {
+            "channelId": "UCik8xvfR6s8GQ74QNEGNzwg",
+            "videoId": "ocaSxhJA4Fg",
+            "textDisplay": "I bought one recently and return it less than in a week. You should watch it only at night to have acceptable picture.",
+            "textOriginal": "I bought one recently and return it less than in a week. You should watch it only at night to have acceptable picture.",
+            "authorDisplayName": "@Umdis",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIdro_lVS-9vbDbMqqk2l8uvYAcBTzqgSuR44-hrZMcM35v0vkE=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/@Umdis",
+            "authorChannelId": {
+              "value": "UCYWq4iKyS0T8JTj-9N8vkcg"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 2,
+            "publishedAt": "2025-06-12T19:27:39Z",
+            "updatedAt": "2025-06-12T19:27:39Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 4,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "_9fACyLlgp9qIUxkShVoBdKZOyo",
+      "id": "UgxZChGNoxN42nxQVUx4AaABAg",
+      "snippet": {
+        "channelId": "UCik8xvfR6s8GQ74QNEGNzwg",
+        "videoId": "ocaSxhJA4Fg",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "j90WU1NbB8YSb2xvn8Hi7sad_ZE",
+          "id": "UgxZChGNoxN42nxQVUx4AaABAg",
+          "snippet": {
+            "channelId": "UCik8xvfR6s8GQ74QNEGNzwg",
+            "videoId": "ocaSxhJA4Fg",
+            "textDisplay": "Wanted to upgrade but the features vs price comparison , Still mogo 2 pro feels better. Feels like the newer models are overpriced.",
+            "textOriginal": "Wanted to upgrade but the features vs price comparison , Still mogo 2 pro feels better. Feels like the newer models are overpriced.",
+            "authorDisplayName": "@KathaTimroMero",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/CSHxyzDjaSmz3HprCl5iIj6R6k_VMTg5fhjL8GIAb2fV-1SQLQHV7gJUQSTHv_mBkNCBgkZEYA=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/@KathaTimroMero",
+            "authorChannelId": {
+              "value": "UCdR6xGZaGrEyXN856iLKXcQ"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 9,
+            "publishedAt": "2025-06-12T14:37:00Z",
+            "updatedAt": "2025-06-19T04:43:51Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    }
+  ]
+}

@@ -1,0 +1,265 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>YouTube reviews search engine</title>
+  <script src="https://cdn.tailwindcss.com"></script>
+</head>
+<body class="font-sans m-0 p-4 flex gap-6 min-h-screen">
+  <aside class="w-64 shrink-0 border-r border-gray-200 pr-4">
+    <div class="text-base font-semibold mb-3">history</div>
+    <ul id="history-list" class="list-none p-0 m-0">
+      {% for item in history %}
+      <li class="mb-1.5">
+        <a href="{{ url_for('index', history_file=item.csv_file) }}" class="block py-2 px-2.5 rounded bg-gray-100 hover:bg-gray-200 text-sm text-inherit no-underline overflow-hidden text-ellipsis whitespace-nowrap">
+          <div class="truncate">{{ item.keyword or '(no keyword)' }}</div>
+          <div class="text-xs text-gray-500 mt-0.5">{{ item.timestamp or '' }}</div>
+        </a>
+      </li>
+      {% else %}
+      <li class="text-gray-500 text-sm">No history yet.</li>
+      {% endfor %}
+    </ul>
+  </aside>
+  <div class="flex-1 min-w-0 max-w-4xl">
+    <div class="flex flex-col items-center mb-6">
+      <h1 class="text-xl mb-4">YouTube comment search</h1>
+      <form action="{{ url_for('index') }}" method="get" class="flex gap-2 w-full max-w-md">
+        <input type="text" name="keyword" value="{{ keyword_preserve }}" placeholder="Enter keyword, e.g. xiaomi projector 1s" class="flex-1 py-2 px-3 border border-gray-300 rounded text-base" />
+        <button type="submit" class="py-2 px-5 rounded bg-red-600 text-white hover:bg-red-700 cursor-pointer">Search</button>
+      </form>
+    </div>
+    {% if error %}
+    <div class="text-red-600 mb-3 text-sm">{{ error }}</div>
+    {% endif %}
+    {% if query %}
+    <div class="text-gray-600 text-sm mb-3">Keyword: &quot;{{ query }}&quot;, {{ total }} comment(s)</div>
+    {% endif %}
+    <ul class="list-none p-0 m-0">
+      {% for row in rows %}
+      <li class="border border-gray-200 rounded-lg p-3 mb-2.5 bg-gray-50">
+        {% if row.author %}
+        <div class="text-sm text-gray-600 mb-1.5">{{ row.author }}</div>
+        {% endif %}
+        <div class="mb-2 whitespace-pre-wrap break-words">{{ row.text }}</div>
+        <div class="text-sm flex items-center gap-3 flex-wrap">
+          <span class="inline-flex items-center gap-1 text-red-500" title="Likes">
+            <svg class="w-4 h-4" fill="currentColor" viewBox="0 0 20 20" aria-hidden="true"><path fill-rule="evenodd" d="M3.172 5.172a4 4 0 015.656 0L10 6.343l1.172-1.171a4 4 0 115.656 5.656L10 17.657l-6.828-6.829a4 4 0 010-5.656z" clip-rule="evenodd"/></svg>
+            <span>{{ row.like_count | default(0) }}</span>
+          </span>
+          <a href="{{ row.video_url }}" target="_blank" rel="noopener" class="text-red-600 no-underline hover:underline">
+            {% if row.video_title and row.video_title.strip() %}
+              {{ (row.video_title[:50] + '…') if row.video_title|length > 50 else row.video_title }}
+            {% else %}
+              Watch on YouTube
+            {% endif %}
+          </a>
+        </div>
+      </li>
+      {% else %}
+        {% if not error and not keyword_preserve and not history_file_preserve %}
+        <li class="text-gray-500 text-sm">Enter a keyword to search, or choose an item from the history on the left.</li>
+        {% elif not error %}
+        <li class="text-gray-500 text-sm">No comment data.</li>
+        {% endif %}
+      {% endfor %}
+    </ul>
+    {% if total_pages > 1 %}
+    <div class="flex items-center gap-2 mt-4 flex-wrap">
+      {% if page > 1 %}
+      <a href="{{ url_for('index', page=page-1, keyword=keyword_preserve or none, history_file=history_file_preserve or none) }}" class="py-1.5 px-3 text-sm">Prev</a>
+      {% endif %}
+      <span class="py-1.5 px-3 text-sm text-gray-600">Page {{ page }} / {{ total_pages }} ({{ total }} total)</span>
+      {% if page < total_pages %}
+      <a href="{{ url_for('index', page=page+1, keyword=keyword_preserve or none, history_file=history_file_preserve or none) }}" class="py-1.5 px-3 text-sm">Next</a>
+      {% endif %}
+    </div>
+    {% endif %}
+  </div>
+  <div id="bm25-column" class="flex-1 min-w-0 max-w-4xl border-l border-gray-200 pl-6" data-current-file="{{ current_file }}">
+    <div class="flex flex-col items-center mb-6">
+      <h2 class="text-xl mb-4">Retrieve within current results (BM25)</h2>
+      <div class="flex gap-2 w-full max-w-md">
+        <input type="text" id="bm25-query" placeholder="Enter keyword to search within current results" class="flex-1 py-2 px-3 border border-gray-300 rounded text-base" />
+        <button type="button" id="bm25-btn" class="py-2 px-5 rounded bg-red-600 text-white hover:bg-red-700 cursor-pointer">Retrieve</button>
+      </div>
+    </div>
+    <div id="bm25-hint" class="text-gray-500 text-sm mb-3 hidden">Search or select a history item first, then enter a keyword here to retrieve.</div>
+    <p id="bm25-ranking-desc" class="text-gray-600 text-sm mb-2 hidden">Results are ranked by: &lambda; &times; BM25(text relevance) + (1&minus;&lambda;) &times; normalized likes.</p>
+    <div id="bm25-meta" class="text-gray-600 text-sm mb-3 hidden"></div>
+    <div id="bm25-error" class="text-red-600 mb-3 text-sm hidden"></div>
+    <ul id="bm25-list" class="list-none p-0 m-0"></ul>
+    <div id="bm25-pagination" class="flex items-center gap-2 mt-4 flex-wrap hidden"></div>
+  </div>
+  <script>
+    (function() {
+      var BM25_PER_PAGE = 20;
+      var col = document.getElementById('bm25-column');
+      var currentFile = (col && col.getAttribute('data-current-file')) || '';
+      var hint = document.getElementById('bm25-hint');
+      var meta = document.getElementById('bm25-meta');
+      var errEl = document.getElementById('bm25-error');
+      var listEl = document.getElementById('bm25-list');
+      var paginationEl = document.getElementById('bm25-pagination');
+      var input = document.getElementById('bm25-query');
+      var btn = document.getElementById('bm25-btn');
+      var bm25Results = [];
+      var bm25Query = '';
+      var bm25Page = 1;
+      var bm25Lambda = 0.7;
+      var bm25QueryTerms = [];
+
+      function showErr(msg) {
+        errEl.textContent = msg || '';
+        errEl.classList.toggle('hidden', !msg);
+        listEl.innerHTML = '';
+        meta.classList.add('hidden');
+        paginationEl.classList.add('hidden');
+        var descEl = document.getElementById('bm25-ranking-desc');
+        if (descEl) descEl.classList.add('hidden');
+      }
+      function escapeRegex(s) {
+        return String(s).replace(/[.*+?^${}()|[\]\\]/g, '\\$&');
+      }
+      function highlightTerms(rawText, terms) {
+        if (!rawText) return '';
+        var escaped = escapeHtml(rawText);
+        if (!terms || !terms.length) return escaped;
+        terms.forEach(function(t) {
+          var re = new RegExp(escapeRegex(t), 'gi');
+          escaped = escaped.replace(re, function(m) { return '<mark class="bg-yellow-200 rounded">' + m + '</mark>'; });
+        });
+        return escaped;
+      }
+      function renderOneItem(r) {
+        var li = document.createElement('li');
+        li.className = 'border border-gray-200 rounded-lg p-3 mb-2.5 bg-gray-50';
+        var title = (r.video_title && r.video_title.trim()) ? (r.video_title.length > 50 ? r.video_title.slice(0, 50) + '…' : r.video_title) : 'Watch on YouTube';
+        var snippetHtml = highlightTerms(r.snippet || r.text || '', bm25QueryTerms);
+        var likeCount = r.like_count != null ? r.like_count : 0;
+        var heartSpan = '<span class="inline-flex items-center gap-1 text-red-500 mr-2" title="Likes"><svg class="w-4 h-4" fill="currentColor" viewBox="0 0 20 20" aria-hidden="true"><path fill-rule="evenodd" d="M3.172 5.172a4 4 0 015.656 0L10 6.343l1.172-1.171a4 4 0 115.656 5.656L10 17.657l-6.828-6.829a4 4 0 010-5.656z" clip-rule="evenodd"/></svg><span>' + likeCount + '</span></span>';
+        var scoreLine = '';
+        if (r.bm25_score != null && r.fused_score != null) {
+          scoreLine = '<div class="text-xs text-gray-500 mt-1">BM25: ' + r.bm25_score + ' &middot; Likes: ' + likeCount + ' &middot; Fused: ' + r.fused_score + '</div>';
+        } else if (r.score != null) {
+          scoreLine = '<div class="text-xs text-gray-500 mt-1">Score: ' + r.score + '</div>';
+        }
+        li.innerHTML = '<div class="mb-2 whitespace-pre-wrap break-words">' + snippetHtml + '</div>' +
+          '<div class="text-sm flex items-center gap-3 flex-wrap">' + heartSpan +
+          '<a href="' + escapeAttr(r.video_url || '') + '" target="_blank" rel="noopener" class="text-red-600 no-underline hover:underline">' + escapeHtml(title) + '</a></div>' + scoreLine;
+        return li;
+      }
+      function renderPage() {
+        listEl.innerHTML = '';
+        var total = bm25Results.length;
+        var totalPages = Math.max(1, Math.ceil(total / BM25_PER_PAGE));
+        bm25Page = Math.min(Math.max(1, bm25Page), totalPages);
+        var start = (bm25Page - 1) * BM25_PER_PAGE;
+        var slice = bm25Results.slice(start, start + BM25_PER_PAGE);
+        slice.forEach(function(r) { listEl.appendChild(renderOneItem(r)); });
+        renderPagination(total, totalPages);
+      }
+      function renderPagination(total, totalPages) {
+        if (totalPages <= 1) {
+          paginationEl.classList.add('hidden');
+          paginationEl.innerHTML = '';
+          return;
+        }
+        paginationEl.classList.remove('hidden');
+        var prev = bm25Page > 1 ? '<a href="javascript:void(0)" class="bm25-prev py-1.5 px-3 text-sm">Prev</a>' : '';
+        var next = bm25Page < totalPages ? '<a href="javascript:void(0)" class="bm25-next py-1.5 px-3 text-sm">Next</a>' : '';
+        paginationEl.innerHTML = prev +
+          '<span class="py-1.5 px-3 text-sm text-gray-600">Page ' + bm25Page + ' / ' + totalPages + ' (' + total + ' total)</span>' + next;
+        var prevBtn = paginationEl.querySelector('.bm25-prev');
+        var nextBtn = paginationEl.querySelector('.bm25-next');
+        if (prevBtn) prevBtn.addEventListener('click', function() { bm25Page--; renderPage(); });
+        if (nextBtn) nextBtn.addEventListener('click', function() { bm25Page++; renderPage(); });
+      }
+      function showResults(query, results, lambdaVal, queryTerms) {
+        errEl.classList.add('hidden');
+        bm25Results = results || [];
+        bm25Query = query || '';
+        bm25Lambda = typeof lambdaVal === 'number' ? lambdaVal : 0.7;
+        bm25QueryTerms = Array.isArray(queryTerms) ? queryTerms : [];
+        bm25Page = 1;
+        meta.textContent = 'Query: "' + bm25Query + '", ' + bm25Results.length + ' result(s)';
+        meta.classList.remove('hidden');
+        var descEl = document.getElementById('bm25-ranking-desc');
+        if (descEl) {
+          descEl.textContent = 'Results are ranked by: \u03BB \u00D7 BM25(text relevance) + (1\u2212\u03BB) \u00D7 normalized likes (\u03BB=' + bm25Lambda + ').';
+          descEl.classList.remove('hidden');
+        }
+        if (!bm25Results.length) {
+          listEl.innerHTML = '<li class="text-gray-500 text-sm">No matches.</li>';
+          paginationEl.classList.add('hidden');
+          if (descEl) descEl.classList.add('hidden');
+          return;
+        }
+        renderPage();
+      }
+      function escapeHtml(s) {
+        if (!s) return '';
+        var div = document.createElement('div');
+        div.textContent = s;
+        return div.innerHTML;
+      }
+      function escapeAttr(s) {
+        if (!s) return '';
+        return String(s).replace(/&/g, '&amp;').replace(/"/g, '&quot;').replace(/'/g, '&#39;').replace(/</g, '&lt;').replace(/>/g, '&gt;');
+      }
+
+      function refreshHistory() {
+        var ul = document.getElementById('history-list');
+        if (!ul) return;
+        fetch('/history').then(function(r) { return r.json(); }).then(function(data) {
+          var items = data.items || [];
+          var html = '';
+          items.forEach(function(item) {
+            var file = item.csv_file || '';
+            var keyword = item.keyword || '(no keyword)';
+            var ts = item.timestamp || '';
+            html += '<li class="mb-1.5"><a href="?history_file=' + escapeAttr(file) + '" class="block py-2 px-2.5 rounded bg-gray-100 hover:bg-gray-200 text-sm text-inherit no-underline overflow-hidden text-ellipsis whitespace-nowrap"><div class="truncate">' + escapeHtml(keyword) + '</div><div class="text-xs text-gray-500 mt-0.5">' + escapeHtml(ts) + '</div></a></li>';
+          });
+          if (!items.length) html = '<li class="text-gray-500 text-sm">No history yet.</li>';
+          ul.innerHTML = html;
+        }).catch(function() {});
+      }
+
+      if (!currentFile) {
+        hint.classList.remove('hidden');
+      } else {
+        hint.classList.add('hidden');
+      }
+
+      if (btn && input) {
+        btn.addEventListener('click', function() {
+          if (!currentFile) {
+            showErr('Search or select a history item first, then use BM25 retrieve.');
+            return;
+          }
+          var q = input.value.trim();
+          if (!q) {
+            showErr('Please enter a search keyword.');
+            return;
+          }
+          showErr('');
+          listEl.innerHTML = '<li class="text-gray-500 text-sm">Searching…</li>';
+          fetch('/retrieve?q=' + encodeURIComponent(q) + '&file=' + encodeURIComponent(currentFile) + '&top_k=100')
+            .then(function(res) { return res.json(); })
+            .then(function(data) {
+              if (data.error) {
+                showErr(data.error);
+                return;
+              }
+              showResults(data.query || q, data.results || [], data.lambda, data.query_terms);
+            })
+            .catch(function() { showErr('Request failed'); });
+        });
+        input.addEventListener('keydown', function(e) { if (e.key === 'Enter') btn.click(); });
+      }
+      refreshHistory();
+    })();
+  </script>
+</body>
+</html>

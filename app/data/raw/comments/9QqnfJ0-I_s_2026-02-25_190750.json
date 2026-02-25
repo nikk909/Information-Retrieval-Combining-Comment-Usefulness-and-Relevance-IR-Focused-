@@ -1,0 +1,3411 @@
+{
+  "kind": "youtube#commentThreadListResponse",
+  "etag": "61uIcpSsVz5pVjOhmtan0GqDOnw",
+  "nextPageToken": "Z2V0X25ld2VzdF9maXJzdC0tQ2dnSWdBUVZGN2ZST0JJRkNLZ2dHQUFTQlFpSUlCZ0FFZ1VJaHlBWUFCSUZDSWtnR0FBU0JRaWRJQmdCSWcwS0N3aTVsNVBKQmhEZ29yQTg=",
+  "pageInfo": {
+    "totalResults": 100,
+    "resultsPerPage": 100
+  },
+  "items": [
+    {
+      "kind": "youtube#commentThread",
+      "etag": "bIOr_DenOEjSKDsbIVxchZTNzwc",
+      "id": "UgxnT8ofkC-SRyczCn14AaABAg",
+      "snippet": {
+        "channelId": "UC2gyzKcHbYfqoXA5xbyGXtQ",
+        "videoId": "9QqnfJ0-I_s",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "2DS5ysG0AOogeh68kPcuGYrlZOI",
+          "id": "UgxnT8ofkC-SRyczCn14AaABAg",
+          "snippet": {
+            "channelId": "UC2gyzKcHbYfqoXA5xbyGXtQ",
+            "videoId": "9QqnfJ0-I_s",
+            "textDisplay": "Video Correction:  The Epson LifeStudio Flex Plus is actually an RGB LED light source, not a single laser.  I must have mixed up my file names when I pulled them off of my spectrometer.",
+            "textOriginal": "Video Correction:  The Epson LifeStudio Flex Plus is actually an RGB LED light source, not a single laser.  I must have mixed up my file names when I pulled them off of my spectrometer.",
+            "authorDisplayName": "@TheHookUp",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIdro_mi-teyXb9uLA0l8G_vMFzZmL5c4UW79YX6ZlVcpSyXW3g=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/@TheHookUp",
+            "authorChannelId": {
+              "value": "UC2gyzKcHbYfqoXA5xbyGXtQ"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 51,
+            "publishedAt": "2025-11-07T00:00:12Z",
+            "updatedAt": "2025-11-07T00:00:12Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 6,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "hPyEQCZIWMP4p5j6nMQTI_ImRfc",
+      "id": "Ugzg-VxB9MVP7jL-CE54AaABAg",
+      "snippet": {
+        "channelId": "UC2gyzKcHbYfqoXA5xbyGXtQ",
+        "videoId": "9QqnfJ0-I_s",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "h40ozxu-KYw3yPGnj4QkRr-AtE0",
+          "id": "Ugzg-VxB9MVP7jL-CE54AaABAg",
+          "snippet": {
+            "channelId": "UC2gyzKcHbYfqoXA5xbyGXtQ",
+            "videoId": "9QqnfJ0-I_s",
+            "textDisplay": "This is crazy I was about to buy the epson flex plus. But its bad apparently. To obad.",
+            "textOriginal": "This is crazy I was about to buy the epson flex plus. But its bad apparently. To obad.",
+            "authorDisplayName": "@denverboyd9953",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIdro_nsptLTcFLcQsq-cZ_T3cGiAordZP7JALMhzkafJY8=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/@denverboyd9953",
+            "authorChannelId": {
+              "value": "UCFwlnkIQBwzy-aKilDcF2JQ"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2026-02-21T17:11:35Z",
+            "updatedAt": "2026-02-21T17:11:35Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 1,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "wwp5rGzxcHWfXUs_t_hMBxnVaok",
+      "id": "UgyYXLz_jlZmjwYW5Dh4AaABAg",
+      "snippet": {
+        "channelId": "UC2gyzKcHbYfqoXA5xbyGXtQ",
+        "videoId": "9QqnfJ0-I_s",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "XgpwG-34aJ_pVr9vNPynrRprAsA",
+          "id": "UgyYXLz_jlZmjwYW5Dh4AaABAg",
+          "snippet": {
+            "channelId": "UC2gyzKcHbYfqoXA5xbyGXtQ",
+            "videoId": "9QqnfJ0-I_s",
+            "textDisplay": "How is the LG Cinebeam Q?",
+            "textOriginal": "How is the LG Cinebeam Q?",
+            "authorDisplayName": "@rayb8870",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIdro_lawf9yWTQpDKE0MLo3587nhlwH_ppxDQse0Bw_-WWV25kHUsQnoRSTBnBBFdxj69wZBg=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/@rayb8870",
+            "authorChannelId": {
+              "value": "UCIKJDoEPn8KDa1UBzUEqjSA"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2026-02-21T08:58:16Z",
+            "updatedAt": "2026-02-21T08:58:16Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 1,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "JwmB-0mPHbP0Zvlm058MCxrEoAI",
+      "id": "UgxHVwuIAhJbLrBv7ll4AaABAg",
+      "snippet": {
+        "channelId": "UC2gyzKcHbYfqoXA5xbyGXtQ",
+        "videoId": "9QqnfJ0-I_s",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "3olm7KXAD897ntIB1XLERMFBJzs",
+          "id": "UgxHVwuIAhJbLrBv7ll4AaABAg",
+          "snippet": {
+            "channelId": "UC2gyzKcHbYfqoXA5xbyGXtQ",
+            "videoId": "9QqnfJ0-I_s",
+            "textDisplay": "Got Valerion Streammaster Plus (1650 lumens) for $950 on their site, game changer in this price range.",
+            "textOriginal": "Got Valerion Streammaster Plus (1650 lumens) for $950 on their site, game changer in this price range.",
+            "authorDisplayName": "@aks_sisters",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIdro_li0yM6cYLIOWjD11MRFrJBTyO1UpGuxl0HXyI_Shaix_AohWC1X6iVYA2plRVEmtsyaw=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/@aks_sisters",
+            "authorChannelId": {
+              "value": "UCgE07RHMCYOpvfjbEzBzBag"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2026-02-17T22:45:28Z",
+            "updatedAt": "2026-02-17T22:45:28Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "TpuWN8IiHSzqIBjJEOIs2j47smE",
+      "id": "Ugx0kF1Fma5M65tBCvt4AaABAg",
+      "snippet": {
+        "channelId": "UC2gyzKcHbYfqoXA5xbyGXtQ",
+        "videoId": "9QqnfJ0-I_s",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "FW8_HdG77-InAdcz6i08W3chjLA",
+          "id": "Ugx0kF1Fma5M65tBCvt4AaABAg",
+          "snippet": {
+            "channelId": "UC2gyzKcHbYfqoXA5xbyGXtQ",
+            "videoId": "9QqnfJ0-I_s",
+            "textDisplay": "Where is Nebula😢",
+            "textOriginal": "Where is Nebula😢",
+            "authorDisplayName": "@dibyasankhakundu9147",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIdro_n-B9VTy6kKRRf-tRGVXv1tL_CFpUVklE0DZBEREDM55A=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/@dibyasankhakundu9147",
+            "authorChannelId": {
+              "value": "UC41JzcBMjeUieADU5rBaERg"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2026-02-17T01:10:39Z",
+            "updatedAt": "2026-02-17T01:10:39Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 4,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "t8BQGUsmBtRVhwezahPO4V8jTOI",
+      "id": "Ugwl-ySbISyqc7EzNu14AaABAg",
+      "snippet": {
+        "channelId": "UC2gyzKcHbYfqoXA5xbyGXtQ",
+        "videoId": "9QqnfJ0-I_s",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "tVSUUx4R64hfkAyAdLf_bpndkIw",
+          "id": "Ugwl-ySbISyqc7EzNu14AaABAg",
+          "snippet": {
+            "channelId": "UC2gyzKcHbYfqoXA5xbyGXtQ",
+            "videoId": "9QqnfJ0-I_s",
+            "textDisplay": "Does the xgimi dynamic contrast has been fixed since ?",
+            "textOriginal": "Does the xgimi dynamic contrast has been fixed since ?",
+            "authorDisplayName": "@Bruno-vz8vk",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIdro_l5rUorsrrpeFTqUX6UI7V-5Y8VLLMLZ6BoPeT3r0ERE2Y=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/@Bruno-vz8vk",
+            "authorChannelId": {
+              "value": "UCFRAXN5YL6qB7u4zthDNs2g"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2026-02-14T09:36:55Z",
+            "updatedAt": "2026-02-14T09:36:55Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 3,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "E1LxxBKQry2EhYuzVeegQP7p_y4",
+      "id": "UgyB_ezeGpKlb54HQkJ4AaABAg",
+      "snippet": {
+        "channelId": "UC2gyzKcHbYfqoXA5xbyGXtQ",
+        "videoId": "9QqnfJ0-I_s",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "fVZH5iUn7XODqwKkbngvnEsrw0A",
+          "id": "UgyB_ezeGpKlb54HQkJ4AaABAg",
+          "snippet": {
+            "channelId": "UC2gyzKcHbYfqoXA5xbyGXtQ",
+            "videoId": "9QqnfJ0-I_s",
+            "textDisplay": "Just sold my Xgimi Mogo 3 Pro and ordered a Valerion Plus for $800 (got a discount coupon), thanks for helping me decide!",
+            "textOriginal": "Just sold my Xgimi Mogo 3 Pro and ordered a Valerion Plus for $800 (got a discount coupon), thanks for helping me decide!",
+            "authorDisplayName": "@s0ullessh1ll",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/DxBUpy42NrnMzjTtiE8IqmSKtcIu6ligND1On0eOome16tV05g_rZAtBJ8JLt08Cb_ZRNVgk=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/@s0ullessh1ll",
+            "authorChannelId": {
+              "value": "UChJOUuadx_XPHDBBiPmQ_Hg"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2026-02-10T02:50:13Z",
+            "updatedAt": "2026-02-10T02:50:13Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "sKbmsB77QQfgS-pZmaguUvBj63o",
+      "id": "UgzZHBoREokGMzWaBOZ4AaABAg",
+      "snippet": {
+        "channelId": "UC2gyzKcHbYfqoXA5xbyGXtQ",
+        "videoId": "9QqnfJ0-I_s",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "WsIYU-b2j724mi0qUrS6N6RE8hM",
+          "id": "UgzZHBoREokGMzWaBOZ4AaABAg",
+          "snippet": {
+            "channelId": "UC2gyzKcHbYfqoXA5xbyGXtQ",
+            "videoId": "9QqnfJ0-I_s",
+            "textDisplay": "WOW. This has to be one of the best tech review video.",
+            "textOriginal": "WOW. This has to be one of the best tech review video.",
+            "authorDisplayName": "@Dfinisher_007",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/DtqJW6fVzke99sI8haV7Su1NqA9AUiNh-CIhmHDB0i_olMBNeixNZluT1oKMsbNJJv8mua_ynhQ=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/@Dfinisher_007",
+            "authorChannelId": {
+              "value": "UCcNXCjR4x0nvcCMVQDvFwFg"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 3,
+            "publishedAt": "2026-02-07T20:50:03Z",
+            "updatedAt": "2026-02-07T20:50:03Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "bbTg7J3mH34mw_Ck2ykLkuzhI5Y",
+      "id": "UgzW7i0K0k73sfWqFQN4AaABAg",
+      "snippet": {
+        "channelId": "UC2gyzKcHbYfqoXA5xbyGXtQ",
+        "videoId": "9QqnfJ0-I_s",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "om7E0TOuClYk24gmEbzVjw3yVP8",
+          "id": "UgzW7i0K0k73sfWqFQN4AaABAg",
+          "snippet": {
+            "channelId": "UC2gyzKcHbYfqoXA5xbyGXtQ",
+            "videoId": "9QqnfJ0-I_s",
+            "textDisplay": "What do you think about horlat projectors??",
+            "textOriginal": "What do you think about horlat projectors??",
+            "authorDisplayName": "@samadasif7141",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIdro_mhKbZ3C3ei_pLLUpSDpXq_R9hr0d5bgzhZm9C1MJfjaA=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/@samadasif7141",
+            "authorChannelId": {
+              "value": "UCkAGcx0et6UmMIEMfuvFmMw"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2026-02-05T01:03:53Z",
+            "updatedAt": "2026-02-05T01:03:53Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 1,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "wIfhKoKRQ_sdW8lfG2vkoaouDgs",
+      "id": "UgyyUUgWlMGDnNIETd14AaABAg",
+      "snippet": {
+        "channelId": "UC2gyzKcHbYfqoXA5xbyGXtQ",
+        "videoId": "9QqnfJ0-I_s",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "6xjxIK4ctt8AJIzbJueZncupTLk",
+          "id": "UgyyUUgWlMGDnNIETd14AaABAg",
+          "snippet": {
+            "channelId": "UC2gyzKcHbYfqoXA5xbyGXtQ",
+            "videoId": "9QqnfJ0-I_s",
+            "textDisplay": "Would appreciate an honest answer....I am doubting between the xgimi 20 base and pro....  the price here in the netherlands is around 400 euro's more....which is stretching my budget.... and here is the question... how much sharper as it goes for image quality,  is the pro compared to the base? Hope you can help me make a decision! Thanks up front!",
+            "textOriginal": "Would appreciate an honest answer....I am doubting between the xgimi 20 base and pro....  the price here in the netherlands is around 400 euro's more....which is stretching my budget.... and here is the question... how much sharper as it goes for image quality,  is the pro compared to the base? Hope you can help me make a decision! Thanks up front!",
+            "authorDisplayName": "@actie-reactie",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIdro_mRimhjUPu3U_6tGG39fjQ4yZuZP0s1HUINSqfdbAM=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/@actie-reactie",
+            "authorChannelId": {
+              "value": "UCcHrHoqmcv7l3JlIUMOjlnA"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2026-02-03T16:24:51Z",
+            "updatedAt": "2026-02-03T16:24:51Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "7n8EZK6tg4ZBGaz6GTIreuM8P5g",
+      "id": "UgwjJ0Mg2IQYebOKVUZ4AaABAg",
+      "snippet": {
+        "channelId": "UC2gyzKcHbYfqoXA5xbyGXtQ",
+        "videoId": "9QqnfJ0-I_s",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "Kex-gFoz7zXNsUvLX9LmxVDWbkk",
+          "id": "UgwjJ0Mg2IQYebOKVUZ4AaABAg",
+          "snippet": {
+            "channelId": "UC2gyzKcHbYfqoXA5xbyGXtQ",
+            "videoId": "9QqnfJ0-I_s",
+            "textDisplay": "Stupid question: At 12:02 you show optical lens shift/zoom, but the white area stays the same. Is that just the projector screen, or does the lighted area stay fixed no matter what, even for optical shift/zoom adjustments?",
+            "textOriginal": "Stupid question: At 12:02 you show optical lens shift/zoom, but the white area stays the same. Is that just the projector screen, or does the lighted area stay fixed no matter what, even for optical shift/zoom adjustments?",
+            "authorDisplayName": "@torarnv",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIdro_lBqsZu98Ad84_GDu6Zn2CZpqnS0vdH0psoLU_aqAnduAun=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/@torarnv",
+            "authorChannelId": {
+              "value": "UCZ8GIYqM52gUwUQtJq06rdA"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2026-02-02T01:02:47Z",
+            "updatedAt": "2026-02-02T01:02:47Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "pzOHePGmuRUgIVb09XEj0mqP8as",
+      "id": "UgySQJCGhozg8lfWuvp4AaABAg",
+      "snippet": {
+        "channelId": "UC2gyzKcHbYfqoXA5xbyGXtQ",
+        "videoId": "9QqnfJ0-I_s",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "t3QEDTtfbfdSx1JOboEDM87aPnE",
+          "id": "UgySQJCGhozg8lfWuvp4AaABAg",
+          "snippet": {
+            "channelId": "UC2gyzKcHbYfqoXA5xbyGXtQ",
+            "videoId": "9QqnfJ0-I_s",
+            "textDisplay": "@thehookup I am curious how these results would change if at all in a room with moderate ambient light. I am looking for a projector I can use during the day. So maximum lumens is a large priority.",
+            "textOriginal": "@thehookup I am curious how these results would change if at all in a room with moderate ambient light. I am looking for a projector I can use during the day. So maximum lumens is a large priority.",
+            "authorDisplayName": "@darranaga",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIdro_ksxOS8AyBHGarzv1qS0SdbUhlu6V4O4rQF6RjuFibKiBQ=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/@darranaga",
+            "authorChannelId": {
+              "value": "UCdALS1DRO87Hia4H2MSfUdQ"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2026-02-02T00:56:14Z",
+            "updatedAt": "2026-02-02T00:56:14Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "RHGiApML9FtezPrYBgBGLOhaxVw",
+      "id": "Ugzr4fGmfpzfLvJiwOh4AaABAg",
+      "snippet": {
+        "channelId": "UC2gyzKcHbYfqoXA5xbyGXtQ",
+        "videoId": "9QqnfJ0-I_s",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "BrO3lTzsX4CeXwBfrTS_Hs5rup4",
+          "id": "Ugzr4fGmfpzfLvJiwOh4AaABAg",
+          "snippet": {
+            "channelId": "UC2gyzKcHbYfqoXA5xbyGXtQ",
+            "videoId": "9QqnfJ0-I_s",
+            "textDisplay": "Great video and review! Best ever seen! Great stuff like this has to be complimented valued much more next to all the flashy \"buy this, buy that!\" Crap on the Internet. This is really the needle in a hoepile",
+            "textOriginal": "Great video and review! Best ever seen! Great stuff like this has to be complimented valued much more next to all the flashy \"buy this, buy that!\" Crap on the Internet. This is really the needle in a hoepile",
+            "authorDisplayName": "@ExtMusician",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIdro_kGhic0uFxOwYdGKovQu8E7LzNL3LH8dY4L08F8vFcDnA=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/@ExtMusician",
+            "authorChannelId": {
+              "value": "UCj0KZzeoibnH_LWlJUb6LfA"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2026-02-01T23:36:59Z",
+            "updatedAt": "2026-02-01T23:36:59Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "W2gPQ86uZPqVqKX_487AxplCTjc",
+      "id": "UgxCPg5cKqXdw5pwdSt4AaABAg",
+      "snippet": {
+        "channelId": "UC2gyzKcHbYfqoXA5xbyGXtQ",
+        "videoId": "9QqnfJ0-I_s",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "spmG2oz-MZWhplsPQ9rzUnaueIA",
+          "id": "UgxCPg5cKqXdw5pwdSt4AaABAg",
+          "snippet": {
+            "channelId": "UC2gyzKcHbYfqoXA5xbyGXtQ",
+            "videoId": "9QqnfJ0-I_s",
+            "textDisplay": "Amazing video, currently on Amazon Spain the Xgmi 20 is 1.439€ and the Hisense M2 pro is 899€, for that much of a price difference the Hisense feels like a deal for sure",
+            "textOriginal": "Amazing video, currently on Amazon Spain the Xgmi 20 is 1.439€ and the Hisense M2 pro is 899€, for that much of a price difference the Hisense feels like a deal for sure",
+            "authorDisplayName": "@alevaldesve",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIdro_lqqIyGBpPMKzKXqnSLBVCK1zaptBpdCkXueTpMXoanvf0=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/@alevaldesve",
+            "authorChannelId": {
+              "value": "UCjdLVAsvjYfxfXj9sKioe-Q"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 1,
+            "publishedAt": "2026-02-01T14:52:36Z",
+            "updatedAt": "2026-02-01T14:52:36Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "RfqpNKLKDpzuI1TAze1UsaQq6xU",
+      "id": "UgyuZNxUYnp0WWl0Bjx4AaABAg",
+      "snippet": {
+        "channelId": "UC2gyzKcHbYfqoXA5xbyGXtQ",
+        "videoId": "9QqnfJ0-I_s",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "sapEQcXlxeZ7Rl3SEJkPp2YAXFw",
+          "id": "UgyuZNxUYnp0WWl0Bjx4AaABAg",
+          "snippet": {
+            "channelId": "UC2gyzKcHbYfqoXA5xbyGXtQ",
+            "videoId": "9QqnfJ0-I_s",
+            "textDisplay": "I appreciate this video, and you seem to be the only expert on the internet who actually tests these things, but what about the 500-1000 range? \nThe sub 500 ones all have pretty glaring downsides, while the 1000+ one are just too much for what I want it to do. \nInformation about projectors in that range is very bad, with people only recommending projectors that only exist on US 2nd hand marketplaces. \n\nAre there no good projectors in that range, or what is the reason why there's almost zero information?",
+            "textOriginal": "I appreciate this video, and you seem to be the only expert on the internet who actually tests these things, but what about the 500-1000 range? \nThe sub 500 ones all have pretty glaring downsides, while the 1000+ one are just too much for what I want it to do. \nInformation about projectors in that range is very bad, with people only recommending projectors that only exist on US 2nd hand marketplaces. \n\nAre there no good projectors in that range, or what is the reason why there's almost zero information?",
+            "authorDisplayName": "@jondebeer6863",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/NciDXV1hf4IXJGcuaA3OA-aXZk5Oxvt5SauQNqW-WyZfIswI4vJfyGp-znNFwdIDUrapHsth3g=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/@jondebeer6863",
+            "authorChannelId": {
+              "value": "UC-8O8ndl39s7vjCj-31hEjg"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2026-02-01T09:53:08Z",
+            "updatedAt": "2026-02-01T09:53:08Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "z1TFCEtaXgoQNwEhWIcj3XXU5vE",
+      "id": "UgxpE2tgdg04dMTGPYt4AaABAg",
+      "snippet": {
+        "channelId": "UC2gyzKcHbYfqoXA5xbyGXtQ",
+        "videoId": "9QqnfJ0-I_s",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "gYFnB-I6DuBtmznjlLrW5qvd1TQ",
+          "id": "UgxpE2tgdg04dMTGPYt4AaABAg",
+          "snippet": {
+            "channelId": "UC2gyzKcHbYfqoXA5xbyGXtQ",
+            "videoId": "9QqnfJ0-I_s",
+            "textDisplay": "I have an older LG HU80KSW, would this XGIMI 20 be an upgrade or equal?",
+            "textOriginal": "I have an older LG HU80KSW, would this XGIMI 20 be an upgrade or equal?",
+            "authorDisplayName": "@jorihaar",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIdro_m3zQbVC_7VCKpaqeVniHYuz7ftOXVcKao-PX0cv6gfZA=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/@jorihaar",
+            "authorChannelId": {
+              "value": "UC3PrXs2ltVM-XQLHVZGR3fg"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2026-01-31T13:53:39Z",
+            "updatedAt": "2026-01-31T13:53:39Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "PDhtKQ_RSNufYnSyAGOE1prwyf0",
+      "id": "Ugye9Bp6pZaVu2DsUZV4AaABAg",
+      "snippet": {
+        "channelId": "UC2gyzKcHbYfqoXA5xbyGXtQ",
+        "videoId": "9QqnfJ0-I_s",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "e2n7nhekvnMx2BzJYu2saZBMGKE",
+          "id": "Ugye9Bp6pZaVu2DsUZV4AaABAg",
+          "snippet": {
+            "channelId": "UC2gyzKcHbYfqoXA5xbyGXtQ",
+            "videoId": "9QqnfJ0-I_s",
+            "textDisplay": "I just purchased the epson studio flex plus:,( after watching this I wish I would’ve waited and purchased something else",
+            "textOriginal": "I just purchased the epson studio flex plus:,( after watching this I wish I would’ve waited and purchased something else",
+            "authorDisplayName": "@brumalnorth2512",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/j9ubifhlPBxiQa02mpgOE-tMH-2dEBJHNkt9Qx-n1KRTyHZcy19EoXRKqoRGmRDNY4uRAmfp=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/@brumalnorth2512",
+            "authorChannelId": {
+              "value": "UCQGSIXtGuJXTkxc3ICLgIQA"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2026-01-29T16:35:19Z",
+            "updatedAt": "2026-01-29T16:35:19Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "73nD_Jm05jxVrus2lNKsRl15V3A",
+      "id": "Ugxu1ClGrf0Vpj1yGst4AaABAg",
+      "snippet": {
+        "channelId": "UC2gyzKcHbYfqoXA5xbyGXtQ",
+        "videoId": "9QqnfJ0-I_s",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "e9gE7bu-6g0awYan0PIRKxfJTW8",
+          "id": "Ugxu1ClGrf0Vpj1yGst4AaABAg",
+          "snippet": {
+            "channelId": "UC2gyzKcHbYfqoXA5xbyGXtQ",
+            "videoId": "9QqnfJ0-I_s",
+            "textDisplay": "Up here in Canada. The valerion plus is 1400$can. And the xgimi 20 is 2900$. Its not even close . The nexigo is 1500$can. The xgimi should not be in this category.",
+            "textOriginal": "Up here in Canada. The valerion plus is 1400$can. And the xgimi 20 is 2900$. Its not even close . The nexigo is 1500$can. The xgimi should not be in this category.",
+            "authorDisplayName": "@xilbus",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIdro_k0FWRfm0u1X0zZFz7bNn0Wcu7IjQwaIRpZh3v0ugQ=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/@xilbus",
+            "authorChannelId": {
+              "value": "UCGa4qPVquc7rBc9Trn712pg"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2026-01-28T13:28:11Z",
+            "updatedAt": "2026-01-28T13:28:11Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "9ZlpaFjgTmV3UktPDJ1eBjl1DfY",
+      "id": "Ugx6o-C1VuBGaPaEStZ4AaABAg",
+      "snippet": {
+        "channelId": "UC2gyzKcHbYfqoXA5xbyGXtQ",
+        "videoId": "9QqnfJ0-I_s",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "wTFBXvSXHQvNMOj8XolKtftYbAg",
+          "id": "Ugx6o-C1VuBGaPaEStZ4AaABAg",
+          "snippet": {
+            "channelId": "UC2gyzKcHbYfqoXA5xbyGXtQ",
+            "videoId": "9QqnfJ0-I_s",
+            "textDisplay": "@TheHookUp, how do you measure noise levels (what distance and placement)? I'm doing some measurements myself and wanted to keep them comparable.",
+            "textOriginal": "@TheHookUp, how do you measure noise levels (what distance and placement)? I'm doing some measurements myself and wanted to keep them comparable.",
+            "authorDisplayName": "@simivb",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIdro_liancJZbWALRH9F0PEZgaB0CilkFqJ5kn2A2bZ9hY=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/@simivb",
+            "authorChannelId": {
+              "value": "UCITJP9vEwBV4B-Adu2vNS0Q"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2026-01-28T08:05:30Z",
+            "updatedAt": "2026-01-28T08:05:30Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "8e_G5r_w0qrKO8XyzxRtdxeT6WA",
+      "id": "UgxGujIpBz14slqiyj94AaABAg",
+      "snippet": {
+        "channelId": "UC2gyzKcHbYfqoXA5xbyGXtQ",
+        "videoId": "9QqnfJ0-I_s",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "fYA6ny9sYGhp8CO5pLxGU3K12v0",
+          "id": "UgxGujIpBz14slqiyj94AaABAg",
+          "snippet": {
+            "channelId": "UC2gyzKcHbYfqoXA5xbyGXtQ",
+            "videoId": "9QqnfJ0-I_s",
+            "textDisplay": "Another awesome video!! \nI purchased the jmgo n1 ultra on kickstarter just under 3 years ago. Already 2 dead pixels.\n\nI also had a dead pixel issue with my previous projector optoma uhd50x. \n\nWorried to purchase another \"4k\" projector, using the same dmd chip as im told most projectors at that price point do.",
+            "textOriginal": "Another awesome video!! \nI purchased the jmgo n1 ultra on kickstarter just under 3 years ago. Already 2 dead pixels.\n\nI also had a dead pixel issue with my previous projector optoma uhd50x. \n\nWorried to purchase another \"4k\" projector, using the same dmd chip as im told most projectors at that price point do.",
+            "authorDisplayName": "@mattmoe3466",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIdro_muMG3P3L0X_maKUxE69ov-rNtXkx9kRP_IPMPpQGg=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/@mattmoe3466",
+            "authorChannelId": {
+              "value": "UCQ4MZLOq1jiJhm0oz1nSPBA"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2026-01-28T07:46:41Z",
+            "updatedAt": "2026-01-28T07:46:41Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "k4tk_dRifBI1RTddvFDzBELgvi4",
+      "id": "UgxndjVJy_uROLvLHyl4AaABAg",
+      "snippet": {
+        "channelId": "UC2gyzKcHbYfqoXA5xbyGXtQ",
+        "videoId": "9QqnfJ0-I_s",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "rfZ0pLxT1hXUKPjLl6nqOm9wMOQ",
+          "id": "UgxndjVJy_uROLvLHyl4AaABAg",
+          "snippet": {
+            "channelId": "UC2gyzKcHbYfqoXA5xbyGXtQ",
+            "videoId": "9QqnfJ0-I_s",
+            "textDisplay": "Do you have any experience with xgimi support? I really want to get this projector in just worried about their customer support. I’ve heard horror stories",
+            "textOriginal": "Do you have any experience with xgimi support? I really want to get this projector in just worried about their customer support. I’ve heard horror stories",
+            "authorDisplayName": "@Slitka",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIdro_kcibh8qMEIy-vExJ1qsXklpJOSxVjxJUEEGhh55raP9g=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/@Slitka",
+            "authorChannelId": {
+              "value": "UCXkG6_1w8HU9g_34hrr5MJA"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2026-01-27T22:02:56Z",
+            "updatedAt": "2026-01-27T22:02:56Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "XgffParAE-79dWDiUeKab13HGME",
+      "id": "UgysUa1VdRwlegMmSfR4AaABAg",
+      "snippet": {
+        "channelId": "UC2gyzKcHbYfqoXA5xbyGXtQ",
+        "videoId": "9QqnfJ0-I_s",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "hhd68OTV8WlfLpyxDdJ3RM0HtyQ",
+          "id": "UgysUa1VdRwlegMmSfR4AaABAg",
+          "snippet": {
+            "channelId": "UC2gyzKcHbYfqoXA5xbyGXtQ",
+            "videoId": "9QqnfJ0-I_s",
+            "textDisplay": "Fantastic video thank you",
+            "textOriginal": "Fantastic video thank you",
+            "authorDisplayName": "@smashinghappydays",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIdro_lsdsHO7i9VMd5rVSV3D6MEsZjKBhBWNiLx9bLve6c=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/@smashinghappydays",
+            "authorChannelId": {
+              "value": "UCevBeqs0QeuX6UTyFORr2-A"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2026-01-25T09:56:41Z",
+            "updatedAt": "2026-01-25T09:56:41Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "NNFlT-qU5wBE-O71cavSV3UBcTU",
+      "id": "Ugy885JgjxDi3Hm2fmZ4AaABAg",
+      "snippet": {
+        "channelId": "UC2gyzKcHbYfqoXA5xbyGXtQ",
+        "videoId": "9QqnfJ0-I_s",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "pF3RixQvitFdIlAhNcN_hTI2wcs",
+          "id": "Ugy885JgjxDi3Hm2fmZ4AaABAg",
+          "snippet": {
+            "channelId": "UC2gyzKcHbYfqoXA5xbyGXtQ",
+            "videoId": "9QqnfJ0-I_s",
+            "textDisplay": "i wish we had a UK youtube reviewer who was an indepth as this.  Unfortunately the UK prices are way higher than the US prices :(",
+            "textOriginal": "i wish we had a UK youtube reviewer who was an indepth as this.  Unfortunately the UK prices are way higher than the US prices :(",
+            "authorDisplayName": "@Zerinth",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIdro_nhM247_PPFXAH45gkdaZrg_sYxFyeXwnKqAvfqd7YG8w=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/@Zerinth",
+            "authorChannelId": {
+              "value": "UCk23Qj0j5uyAgphzk-tTJxw"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2026-01-24T20:08:59Z",
+            "updatedAt": "2026-01-24T20:08:59Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "nvzgem-cahEEChpXjNnq5RChFqs",
+      "id": "UgxHMb8Rix4hkwpIUtF4AaABAg",
+      "snippet": {
+        "channelId": "UC2gyzKcHbYfqoXA5xbyGXtQ",
+        "videoId": "9QqnfJ0-I_s",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "2ECfxDt1-FBkiOEh1bv2mkknJIU",
+          "id": "UgxHMb8Rix4hkwpIUtF4AaABAg",
+          "snippet": {
+            "channelId": "UC2gyzKcHbYfqoXA5xbyGXtQ",
+            "videoId": "9QqnfJ0-I_s",
+            "textDisplay": "Can i use XGIMI Horizon 20 to project on my ceiling as smooth as the hisense m2 pro? Which is better on this part please @thehookup",
+            "textOriginal": "Can i use XGIMI Horizon 20 to project on my ceiling as smooth as the hisense m2 pro? Which is better on this part please @thehookup",
+            "authorDisplayName": "@lucienelkhoury7522",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIdro_koOzsHH1avOD4TLR6CDv7kMwvNaVH01jsq4J6C0sPcfgU=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/@lucienelkhoury7522",
+            "authorChannelId": {
+              "value": "UC43RFq2qWoWTBABnzw5N6ww"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2026-01-24T11:17:24Z",
+            "updatedAt": "2026-01-24T11:17:24Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "N6aWMAfhu1_BtB7iOnN7N-XEGIs",
+      "id": "Ugzw7faZ3e8ZuQw5Bdp4AaABAg",
+      "snippet": {
+        "channelId": "UC2gyzKcHbYfqoXA5xbyGXtQ",
+        "videoId": "9QqnfJ0-I_s",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "2Rd4mdnqDKPWjmC8Xz8lwvH9ddo",
+          "id": "Ugzw7faZ3e8ZuQw5Bdp4AaABAg",
+          "snippet": {
+            "channelId": "UC2gyzKcHbYfqoXA5xbyGXtQ",
+            "videoId": "9QqnfJ0-I_s",
+            "textDisplay": "its such a shame the Horizon 20 is over $3200 here in Canada.",
+            "textOriginal": "its such a shame the Horizon 20 is over $3200 here in Canada.",
+            "authorDisplayName": "@griptears",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/9o6OSj7PcZvxuPwikTX6Kfp5kkrZ_rPSKJlVCXhxW9k2Am_AkeDn1L0oBHva5ndOdfubQ2gRGA=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/@griptears",
+            "authorChannelId": {
+              "value": "UC9D6I-1cYSGvq1NSF-_c-Zw"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 1,
+            "publishedAt": "2026-01-23T06:02:49Z",
+            "updatedAt": "2026-01-23T06:02:49Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 1,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "ns7vF4qrA75Zqh5k9CV0PHcim_c",
+      "id": "Ugw_XTEyxxxm5P784wN4AaABAg",
+      "snippet": {
+        "channelId": "UC2gyzKcHbYfqoXA5xbyGXtQ",
+        "videoId": "9QqnfJ0-I_s",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "ziuzXvDkLRIO_DP_a2oTPJS0nOM",
+          "id": "Ugw_XTEyxxxm5P784wN4AaABAg",
+          "snippet": {
+            "channelId": "UC2gyzKcHbYfqoXA5xbyGXtQ",
+            "videoId": "9QqnfJ0-I_s",
+            "textDisplay": "For me it's always interesting if a projector supports 2k 120hz, it's usually described that it supports 4k 60 or fullhd 240. But I think most people would play games in 2k 120 hz",
+            "textOriginal": "For me it's always interesting if a projector supports 2k 120hz, it's usually described that it supports 4k 60 or fullhd 240. But I think most people would play games in 2k 120 hz",
+            "authorDisplayName": "@efaefafeasfseaf3904",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIdro_lNT6zFLM6lRjkTQzMW5wpq3MJSfVBScD4twmsjisFnrSMsdeYivqQHoujpGOGgNFTu2Q=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/@efaefafeasfseaf3904",
+            "authorChannelId": {
+              "value": "UCSdwNc2FvBle4R7y0-kmNAw"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2026-01-22T22:47:46Z",
+            "updatedAt": "2026-01-22T22:47:46Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "Tl3nxRI7VEvC2AdMyx7aXA3pxLU",
+      "id": "UgyYZ2sMGTc4BRAM20Z4AaABAg",
+      "snippet": {
+        "channelId": "UC2gyzKcHbYfqoXA5xbyGXtQ",
+        "videoId": "9QqnfJ0-I_s",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "KsKPAJcU2p2nF_HgU3Mod_bFSjg",
+          "id": "UgyYZ2sMGTc4BRAM20Z4AaABAg",
+          "snippet": {
+            "channelId": "UC2gyzKcHbYfqoXA5xbyGXtQ",
+            "videoId": "9QqnfJ0-I_s",
+            "textDisplay": "Hello sir thks to u i got the streamaster plus and im in love with it\n\nFor the moment im using a white wall but im asking for someone who wants the best image quality or contrast \n\nIf i used an ALR screen will it improve m'y viewing expérience ?\n\nI see alr black diamond and alr grey cristal im lost with all of those names 😅\n\nTy for your time sir \n\nU r the best ❤",
+            "textOriginal": "Hello sir thks to u i got the streamaster plus and im in love with it\n\nFor the moment im using a white wall but im asking for someone who wants the best image quality or contrast \n\nIf i used an ALR screen will it improve m'y viewing expérience ?\n\nI see alr black diamond and alr grey cristal im lost with all of those names 😅\n\nTy for your time sir \n\nU r the best ❤",
+            "authorDisplayName": "@kassemballout2262",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIdro_m2JGUogNm3PqBOH-B9xTNs-IERt0hgiJOAJtXqQqE=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/@kassemballout2262",
+            "authorChannelId": {
+              "value": "UCHwtm-IRofUJmbWjNTHuxsA"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2026-01-21T08:39:33Z",
+            "updatedAt": "2026-01-21T08:39:33Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "4Y--LH1zwtEzduK3MFFC77YDBZk",
+      "id": "UgwrMNj5ZvmgwZ40PI14AaABAg",
+      "snippet": {
+        "channelId": "UC2gyzKcHbYfqoXA5xbyGXtQ",
+        "videoId": "9QqnfJ0-I_s",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "Lg3pBEALzvwpo3Z5WIY0U5PS71E",
+          "id": "UgwrMNj5ZvmgwZ40PI14AaABAg",
+          "snippet": {
+            "channelId": "UC2gyzKcHbYfqoXA5xbyGXtQ",
+            "videoId": "9QqnfJ0-I_s",
+            "textDisplay": "Been waiting for the Horizon 20 to release in Australia, sadly it’s launched at $4000 AUD (~$2700 USD). \n\nIs the M2 pro a much better deal at $1700 AUD (~$1150 USD) - been as low as $1000 AUD. Do you think the M2 pro would be usable in daytime in a room with blinds shut ?",
+            "textOriginal": "Been waiting for the Horizon 20 to release in Australia, sadly it’s launched at $4000 AUD (~$2700 USD). \n\nIs the M2 pro a much better deal at $1700 AUD (~$1150 USD) - been as low as $1000 AUD. Do you think the M2 pro would be usable in daytime in a room with blinds shut ?",
+            "authorDisplayName": "@philtibbits2861",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIdro_mudJBOukNXf6EwU9s9qkSmrQeXVMInDb6nJZWhI4Ee75BBlCMMDWOLtD2fTJpyUniYrg=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/@philtibbits2861",
+            "authorChannelId": {
+              "value": "UCDMig28Wdk7DEs5zieeRykw"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2026-01-20T21:40:56Z",
+            "updatedAt": "2026-01-20T21:40:56Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 2,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "YgXS7TyVFIfkXgUd9qjA5nyDlqU",
+      "id": "UgzpgPxq8KxBN6FT0Gl4AaABAg",
+      "snippet": {
+        "channelId": "UC2gyzKcHbYfqoXA5xbyGXtQ",
+        "videoId": "9QqnfJ0-I_s",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "d9Ah58DPPbuKbmfkMedIPHbqpQw",
+          "id": "UgzpgPxq8KxBN6FT0Gl4AaABAg",
+          "snippet": {
+            "channelId": "UC2gyzKcHbYfqoXA5xbyGXtQ",
+            "videoId": "9QqnfJ0-I_s",
+            "textDisplay": "İs the GP520 to go with a 120”  vividstorm ALR longthrow screen for like 2600€? Or a triple laser like horizon 20 (pro) or valerion pro (2)with a white 120” elitescreens for the same price range?",
+            "textOriginal": "İs the GP520 to go with a 120”  vividstorm ALR longthrow screen for like 2600€? Or a triple laser like horizon 20 (pro) or valerion pro (2)with a white 120” elitescreens for the same price range?",
+            "authorDisplayName": "@muharremuzel6106",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIdro_ky7YoJYmUR29-ylZVXgtfyQETSUlhh5kVnm4eFXOQ=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/@muharremuzel6106",
+            "authorChannelId": {
+              "value": "UCRBJwszWJI2TQ6d0VIdDgxQ"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2026-01-20T21:15:32Z",
+            "updatedAt": "2026-01-20T21:15:32Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "rbv-IZWKx1YKy7EJ_bnorDJOXZg",
+      "id": "UgxuzCDRNKps-KzKfpt4AaABAg",
+      "snippet": {
+        "channelId": "UC2gyzKcHbYfqoXA5xbyGXtQ",
+        "videoId": "9QqnfJ0-I_s",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "HH0P5dllglYEkwjygnaAMcVz3f8",
+          "id": "UgxuzCDRNKps-KzKfpt4AaABAg",
+          "snippet": {
+            "channelId": "UC2gyzKcHbYfqoXA5xbyGXtQ",
+            "videoId": "9QqnfJ0-I_s",
+            "textDisplay": "Thanks for the great video! Which would you chose between the Valerion StreamMaster Plus and the XGIMI Horizon S Pro?",
+            "textOriginal": "Thanks for the great video! Which would you chose between the Valerion StreamMaster Plus and the XGIMI Horizon S Pro?",
+            "authorDisplayName": "@jakeward9088",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIdro_k2U_ZfdsKflvy3IXvEsqh7Wj4tGPSHeUB35oobV10=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/@jakeward9088",
+            "authorChannelId": {
+              "value": "UCbCPFS6PGfacUnuROL8XUBA"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2026-01-20T16:26:37Z",
+            "updatedAt": "2026-01-20T16:26:37Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 1,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "yy2-widelJfmx6SAthSObdXO00M",
+      "id": "UgyR9XfBzY0KHvzAdR94AaABAg",
+      "snippet": {
+        "channelId": "UC2gyzKcHbYfqoXA5xbyGXtQ",
+        "videoId": "9QqnfJ0-I_s",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "YuLDnrj-p15IPgkWDnweVoXSWp8",
+          "id": "UgyR9XfBzY0KHvzAdR94AaABAg",
+          "snippet": {
+            "channelId": "UC2gyzKcHbYfqoXA5xbyGXtQ",
+            "videoId": "9QqnfJ0-I_s",
+            "textDisplay": "Thank you for this review. One question though. Why convert 24fps to 60fps?",
+            "textOriginal": "Thank you for this review. One question though. Why convert 24fps to 60fps?",
+            "authorDisplayName": "@theremalian",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIdro_mlWR2mqxfclXQFfsqw5tywq0m85lzaU0vmk6sZ4dg=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/@theremalian",
+            "authorChannelId": {
+              "value": "UCbaBLIC1RacmMhzOq4S-reQ"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2026-01-20T12:39:31Z",
+            "updatedAt": "2026-01-20T12:39:31Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 2,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "WZzVN9Knl84SX8DO7ShmHYEOHDk",
+      "id": "Ugwy8jibwhvBZ7Ct5vl4AaABAg",
+      "snippet": {
+        "channelId": "UC2gyzKcHbYfqoXA5xbyGXtQ",
+        "videoId": "9QqnfJ0-I_s",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "Hb1yuxUxF1SHHl5tqFZ0RjnNAtQ",
+          "id": "Ugwy8jibwhvBZ7Ct5vl4AaABAg",
+          "snippet": {
+            "channelId": "UC2gyzKcHbYfqoXA5xbyGXtQ",
+            "videoId": "9QqnfJ0-I_s",
+            "textDisplay": "Plus 2 now has anti RBE. All the valerion projectors have it now🎉",
+            "textOriginal": "Plus 2 now has anti RBE. All the valerion projectors have it now🎉",
+            "authorDisplayName": "@I_AM.......",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIdro_ltG5Vixvi3d0Yh00mrIlUB2on93_zWY8hkMojmBpX9mvBiNJjt4vNgL5Rn8XCPf9bnFg=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/@I_AM.......",
+            "authorChannelId": {
+              "value": "UCn2wGjIvSNey3AKcly9NrIA"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 1,
+            "publishedAt": "2026-01-19T05:40:54Z",
+            "updatedAt": "2026-01-19T05:40:54Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 1,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "5l4eTdQB2YRqasZpflzRI7-2IXc",
+      "id": "UgwctVk4TW5EfrtGswt4AaABAg",
+      "snippet": {
+        "channelId": "UC2gyzKcHbYfqoXA5xbyGXtQ",
+        "videoId": "9QqnfJ0-I_s",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "XzAjJ1sp0PBKaEeyzu-lqHzitA8",
+          "id": "UgwctVk4TW5EfrtGswt4AaABAg",
+          "snippet": {
+            "channelId": "UC2gyzKcHbYfqoXA5xbyGXtQ",
+            "videoId": "9QqnfJ0-I_s",
+            "textDisplay": "Hisense M2 Pro vs Nexigo Trivision Ultra or the new JMGO N3 Ultra (chinese version) which would you pick?",
+            "textOriginal": "Hisense M2 Pro vs Nexigo Trivision Ultra or the new JMGO N3 Ultra (chinese version) which would you pick?",
+            "authorDisplayName": "@Tymoteusz-h8x",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIdro_ntIewhqHLJ0jb4i8htlVqSetwgNKRcHmRn-O7k5fEhFy5geBaAVhx4v3nsZfmDVAxzbw=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/@Tymoteusz-h8x",
+            "authorChannelId": {
+              "value": "UC28B1Qp67n0xWgUjC8ybncg"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2026-01-16T10:10:36Z",
+            "updatedAt": "2026-01-16T10:10:36Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "i2W_NVQBvaLFXsF8D43viSguIvs",
+      "id": "UgwjZEYORqVyb7sQU_54AaABAg",
+      "snippet": {
+        "channelId": "UC2gyzKcHbYfqoXA5xbyGXtQ",
+        "videoId": "9QqnfJ0-I_s",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "6QTJQNZ1VVPtKxx4lL2Os-xUpoA",
+          "id": "UgwjZEYORqVyb7sQU_54AaABAg",
+          "snippet": {
+            "channelId": "UC2gyzKcHbYfqoXA5xbyGXtQ",
+            "videoId": "9QqnfJ0-I_s",
+            "textDisplay": "Would love to see a video on pure blackout home cinema fixed projectors that do not cost $5000!",
+            "textOriginal": "Would love to see a video on pure blackout home cinema fixed projectors that do not cost $5000!",
+            "authorDisplayName": "@rgrif9441",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIdro_lAyCmPuPTcTtYpOA4QnUiNiel5MSi2UOypDgNoiTtaAGtGVrLt1wtS6foazk69LW0x-w=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/@rgrif9441",
+            "authorChannelId": {
+              "value": "UCvEFnERkuMwccvsm1TjudRw"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2026-01-15T11:19:56Z",
+            "updatedAt": "2026-01-15T11:19:56Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "jNJb0XZhz3Bobc_PO1snukUBY-k",
+      "id": "UgweByEUxqlIEQ28KJl4AaABAg",
+      "snippet": {
+        "channelId": "UC2gyzKcHbYfqoXA5xbyGXtQ",
+        "videoId": "9QqnfJ0-I_s",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "no_LK5C9eqB6rFx1C8-S4CWxWq4",
+          "id": "UgweByEUxqlIEQ28KJl4AaABAg",
+          "snippet": {
+            "channelId": "UC2gyzKcHbYfqoXA5xbyGXtQ",
+            "videoId": "9QqnfJ0-I_s",
+            "textDisplay": "Any recommendations for a budget projector up to 1000$ that will be in a constant black out (no windows) room and no need to be portable. Sound quality does not need to be good as I plan to connect to a soundbar. I was thinking of getting a pre-owned benq of some kind. Also does not need to have amazing keystone or autofocus as will be fixed. Also will be using a fire stick so does not need to have great in built options. I know the nexigo pj40 is constantly recommended on this channel but I was looking for something with a bit more quality. Will only be used for watching movies.",
+            "textOriginal": "Any recommendations for a budget projector up to 1000$ that will be in a constant black out (no windows) room and no need to be portable. Sound quality does not need to be good as I plan to connect to a soundbar. I was thinking of getting a pre-owned benq of some kind. Also does not need to have amazing keystone or autofocus as will be fixed. Also will be using a fire stick so does not need to have great in built options. I know the nexigo pj40 is constantly recommended on this channel but I was looking for something with a bit more quality. Will only be used for watching movies.",
+            "authorDisplayName": "@rgrif9441",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIdro_lAyCmPuPTcTtYpOA4QnUiNiel5MSi2UOypDgNoiTtaAGtGVrLt1wtS6foazk69LW0x-w=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/@rgrif9441",
+            "authorChannelId": {
+              "value": "UCvEFnERkuMwccvsm1TjudRw"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2026-01-15T11:18:28Z",
+            "updatedAt": "2026-01-15T11:18:28Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 2,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "IyoHUcmUO246sG_f_dLeYm6wtr8",
+      "id": "Ugy9_xlg48qG3ERMVnx4AaABAg",
+      "snippet": {
+        "channelId": "UC2gyzKcHbYfqoXA5xbyGXtQ",
+        "videoId": "9QqnfJ0-I_s",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "sY0b-cNx2T_5DcdOtD8RUCT5Jyk",
+          "id": "Ugy9_xlg48qG3ERMVnx4AaABAg",
+          "snippet": {
+            "channelId": "UC2gyzKcHbYfqoXA5xbyGXtQ",
+            "videoId": "9QqnfJ0-I_s",
+            "textDisplay": "Thanks man, this was really well done. Great format, right to the good stuff.",
+            "textOriginal": "Thanks man, this was really well done. Great format, right to the good stuff.",
+            "authorDisplayName": "@JimmyJames-om2uw",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIdro_l_uNDBcWRo1xTvmpT9kVoHfUmRJjOHTtXR7HppSfnaqhnZ=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/@JimmyJames-om2uw",
+            "authorChannelId": {
+              "value": "UCAtew30edeAWYlAmf_tQLzg"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2026-01-14T20:40:45Z",
+            "updatedAt": "2026-01-14T20:40:45Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "3GOJUyP-iSjReKEEpk_vMPBRGv8",
+      "id": "UgyzxDNOtjY0BYf-Whl4AaABAg",
+      "snippet": {
+        "channelId": "UC2gyzKcHbYfqoXA5xbyGXtQ",
+        "videoId": "9QqnfJ0-I_s",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "SRIYVCZnWDUdychqIoqtGyWA5ZI",
+          "id": "UgyzxDNOtjY0BYf-Whl4AaABAg",
+          "snippet": {
+            "channelId": "UC2gyzKcHbYfqoXA5xbyGXtQ",
+            "videoId": "9QqnfJ0-I_s",
+            "textDisplay": "Jmgo n1s 4k vs Hisense m2pro .....which is better....?🙏",
+            "textOriginal": "Jmgo n1s 4k vs Hisense m2pro .....which is better....?🙏",
+            "authorDisplayName": "@BiswanathBala-i5h",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIdro_nWyPWxkLouOOka6GuHM8izDlE_yXnC5xTup5HP8T7CMeTZxq27qge_MoyYv6lzf2FRtw=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/@BiswanathBala-i5h",
+            "authorChannelId": {
+              "value": "UCU1FMRKv-WHc4lvXjeXj0yQ"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2026-01-14T14:01:35Z",
+            "updatedAt": "2026-01-14T14:01:35Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 2,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "ob4goFBvoFSaP-o-dFuyWpkYBJs",
+      "id": "UgyCHljnWQ_pOFC59Bx4AaABAg",
+      "snippet": {
+        "channelId": "UC2gyzKcHbYfqoXA5xbyGXtQ",
+        "videoId": "9QqnfJ0-I_s",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "1owVm8_5RbZE-MgrgNBijjgj1Sk",
+          "id": "UgyCHljnWQ_pOFC59Bx4AaABAg",
+          "snippet": {
+            "channelId": "UC2gyzKcHbYfqoXA5xbyGXtQ",
+            "videoId": "9QqnfJ0-I_s",
+            "textDisplay": "I understand an update to the xgimi horizon 20 was done, do you have any idea if this fixed the contrast issue which a gave it a low score. Thanks",
+            "textOriginal": "I understand an update to the xgimi horizon 20 was done, do you have any idea if this fixed the contrast issue which a gave it a low score. Thanks",
+            "authorDisplayName": "@miniade1",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIdro_nacP9jD3Tv7pByU4mjg47Em4qkztmxA4dBzx3gL4BuHA=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/@miniade1",
+            "authorChannelId": {
+              "value": "UCeOqLhYbdU9m9cUniIoLyog"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2026-01-13T14:18:39Z",
+            "updatedAt": "2026-01-13T14:18:39Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "DGytAoVVTI3d4PTJPj6vLhThWp4",
+      "id": "UgxreYVfEhAMqwigDnB4AaABAg",
+      "snippet": {
+        "channelId": "UC2gyzKcHbYfqoXA5xbyGXtQ",
+        "videoId": "9QqnfJ0-I_s",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "xAF43CaXCDOFZhN7l1fKH5hejAs",
+          "id": "UgxreYVfEhAMqwigDnB4AaABAg",
+          "snippet": {
+            "channelId": "UC2gyzKcHbYfqoXA5xbyGXtQ",
+            "videoId": "9QqnfJ0-I_s",
+            "textDisplay": "The Valerion is currently available in Europe for just under €1,000. Can you tell me anything about the Valerion's offset? I can't find any information about it anywhere.\nMany thanks in advance.",
+            "textOriginal": "The Valerion is currently available in Europe for just under €1,000. Can you tell me anything about the Valerion's offset? I can't find any information about it anywhere.\nMany thanks in advance.",
+            "authorDisplayName": "@hackfleisch71",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/WmYZwWQH5BueKhXXSaVCs-HgBUv71AOXCUSskaor3uZa_RF_etJbp45JD7sNQwJ2TeQfepQQ5A=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/@hackfleisch71",
+            "authorChannelId": {
+              "value": "UCw5xCSrKOuZ7D-8KVo0UC3w"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 1,
+            "publishedAt": "2026-01-13T09:02:58Z",
+            "updatedAt": "2026-01-13T09:02:58Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 2,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "7ELWMZ9xBQUHmKRGDs2nPHd9HZM",
+      "id": "UgxN5rZSvLirYAv_43t4AaABAg",
+      "snippet": {
+        "channelId": "UC2gyzKcHbYfqoXA5xbyGXtQ",
+        "videoId": "9QqnfJ0-I_s",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "bWFo2zQRwwmEPnkOpFcojMcsaA4",
+          "id": "UgxN5rZSvLirYAv_43t4AaABAg",
+          "snippet": {
+            "channelId": "UC2gyzKcHbYfqoXA5xbyGXtQ",
+            "videoId": "9QqnfJ0-I_s",
+            "textDisplay": "The xgimi is 2600$ and the benq is 1000$ (cad) no wonder it performs better...",
+            "textOriginal": "The xgimi is 2600$ and the benq is 1000$ (cad) no wonder it performs better...",
+            "authorDisplayName": "@_multiverse_",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIdro_laiRHETocpOYTfU_2OWHY3gx6Kd2u0RAQE89F1Cj0hodlj=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/@_multiverse_",
+            "authorChannelId": {
+              "value": "UCKvZDWry2v1Un8keUDzJ0nw"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2026-01-11T21:25:50Z",
+            "updatedAt": "2026-01-11T21:25:50Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "qmRDe-bNWavGCz8Hq9n1YaheSsU",
+      "id": "UgyN3UI5esKPFDVBynZ4AaABAg",
+      "snippet": {
+        "channelId": "UC2gyzKcHbYfqoXA5xbyGXtQ",
+        "videoId": "9QqnfJ0-I_s",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "Rjrah3a9cGqHljrQPCEkb1_akmI",
+          "id": "UgyN3UI5esKPFDVBynZ4AaABAg",
+          "snippet": {
+            "channelId": "UC2gyzKcHbYfqoXA5xbyGXtQ",
+            "videoId": "9QqnfJ0-I_s",
+            "textDisplay": "@thehookup do you know if there is a huge difference between hisense m2 pro vs vidda m2 pro?",
+            "textOriginal": "@thehookup do you know if there is a huge difference between hisense m2 pro vs vidda m2 pro?",
+            "authorDisplayName": "@DawidGdybadz",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIdro_mrjO9OGCV3s4KL5FAO-JkZCuMMdHk-I8doHCLmp6C9osfz_JqGDDAT1lwVBwdRzZ35_w=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/@DawidGdybadz",
+            "authorChannelId": {
+              "value": "UCothPnfG-EuXbTFdeY30J5A"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2026-01-11T12:18:13Z",
+            "updatedAt": "2026-01-11T12:18:13Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 4,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "hn9kVoDFlLaGZ-v67-yDkyYPRZ0",
+      "id": "Ugz_3gDqQcCTAfNqxmN4AaABAg",
+      "snippet": {
+        "channelId": "UC2gyzKcHbYfqoXA5xbyGXtQ",
+        "videoId": "9QqnfJ0-I_s",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "PYzLKSczRjF1YsPznGU9GB-rzZ4",
+          "id": "Ugz_3gDqQcCTAfNqxmN4AaABAg",
+          "snippet": {
+            "channelId": "UC2gyzKcHbYfqoXA5xbyGXtQ",
+            "videoId": "9QqnfJ0-I_s",
+            "textDisplay": "Hi , can u make a video of best home theatre sound system for projector … top to bottm ….plz",
+            "textOriginal": "Hi , can u make a video of best home theatre sound system for projector … top to bottm ….plz",
+            "authorDisplayName": "@sharryPB26",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIdro_kXo9PaEtHJWN_Meak0AbkV7rl8vO92Pqe4iWBIqLBsc3k=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/@sharryPB26",
+            "authorChannelId": {
+              "value": "UC-ljoKVPPsRYrApTwMD8dsA"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2026-01-11T06:42:28Z",
+            "updatedAt": "2026-01-11T06:42:28Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "MZXcOjayutFP5ZFX7YBaKSzh5bc",
+      "id": "UgxVhOKP3UyX_kyfnr94AaABAg",
+      "snippet": {
+        "channelId": "UC2gyzKcHbYfqoXA5xbyGXtQ",
+        "videoId": "9QqnfJ0-I_s",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "B9yE82xH4QZ5qxM4PDc1P-vj3W0",
+          "id": "UgxVhOKP3UyX_kyfnr94AaABAg",
+          "snippet": {
+            "channelId": "UC2gyzKcHbYfqoXA5xbyGXtQ",
+            "videoId": "9QqnfJ0-I_s",
+            "textDisplay": "damn, partner was looking forward to get the epson... would you recommend it as a secondary screen for casual netflix streaming maybe play on the switch? as a secondary screen for her to keep busy while im on the desktop??? or are the jmgo & hisense better quality and value? cos then  i might need to do some convincing her out of that aesthetic lols \n\nps great video",
+            "textOriginal": "damn, partner was looking forward to get the epson... would you recommend it as a secondary screen for casual netflix streaming maybe play on the switch? as a secondary screen for her to keep busy while im on the desktop??? or are the jmgo & hisense better quality and value? cos then  i might need to do some convincing her out of that aesthetic lols \n\nps great video",
+            "authorDisplayName": "@arslanw4299",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIdro_mYIF9f0HAp9bBhzAsbfko_ywIbhYzjICnos0Olr6Bjrg=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/@arslanw4299",
+            "authorChannelId": {
+              "value": "UCJwK7N9XBHhuDm0bwoJa2hw"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 1,
+            "publishedAt": "2026-01-09T18:26:18Z",
+            "updatedAt": "2026-01-09T18:26:18Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "j8ENU8vWLrKRuKO_7gak0OYdtLM",
+      "id": "UgwrodaR8ExmJ9wD2ZN4AaABAg",
+      "snippet": {
+        "channelId": "UC2gyzKcHbYfqoXA5xbyGXtQ",
+        "videoId": "9QqnfJ0-I_s",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "IBWmfBcRyTInEMxXFOMafy3E86o",
+          "id": "UgwrodaR8ExmJ9wD2ZN4AaABAg",
+          "snippet": {
+            "channelId": "UC2gyzKcHbYfqoXA5xbyGXtQ",
+            "videoId": "9QqnfJ0-I_s",
+            "textDisplay": "You are incorrect as “bedside” stands.  \n\nI’ve got the Epson EF72. Although I am satisfied with the image and sound quality as a bedroom projector. I has a major downside. This is that while setting the projector on a nightstand it can’t project an image centered on the ceiling above your two-persons bed!\n\nYou can only achieve that when you place a thick book or some wooden blocks underneath the stand tilting the entire machine towards the bed!",
+            "textOriginal": "You are incorrect as “bedside” stands.  \n\nI’ve got the Epson EF72. Although I am satisfied with the image and sound quality as a bedroom projector. I has a major downside. This is that while setting the projector on a nightstand it can’t project an image centered on the ceiling above your two-persons bed!\n\nYou can only achieve that when you place a thick book or some wooden blocks underneath the stand tilting the entire machine towards the bed!",
+            "authorDisplayName": "@EAMCrusher",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIdro_l8OGU_i183g29GokWrDu4XxQ2EGxuxOKpxd9ZopYEZzQ=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/@EAMCrusher",
+            "authorChannelId": {
+              "value": "UCCNEAxE39-BJA03Sgozwrjg"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 1,
+            "publishedAt": "2026-01-08T21:48:39Z",
+            "updatedAt": "2026-01-08T21:48:39Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "Tf7TsWJJtH7XXhDO2se0Lgz-ZKI",
+      "id": "UgwNO8szx5t2ra4xkml4AaABAg",
+      "snippet": {
+        "channelId": "UC2gyzKcHbYfqoXA5xbyGXtQ",
+        "videoId": "9QqnfJ0-I_s",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "wR448_yZj9vnqI91zR-3yE_-cRs",
+          "id": "UgwNO8szx5t2ra4xkml4AaABAg",
+          "snippet": {
+            "channelId": "UC2gyzKcHbYfqoXA5xbyGXtQ",
+            "videoId": "9QqnfJ0-I_s",
+            "textDisplay": "I got a cheap projector on amazon and feel sick when watching. Does this mean i will feel sick with the ones reviewed in this video ?",
+            "textOriginal": "I got a cheap projector on amazon and feel sick when watching. Does this mean i will feel sick with the ones reviewed in this video ?",
+            "authorDisplayName": "@xilbus",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIdro_k0FWRfm0u1X0zZFz7bNn0Wcu7IjQwaIRpZh3v0ugQ=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/@xilbus",
+            "authorChannelId": {
+              "value": "UCGa4qPVquc7rBc9Trn712pg"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2026-01-08T02:13:59Z",
+            "updatedAt": "2026-01-08T02:13:59Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "hnctNMY8VztejWKBjK37zKrF3qM",
+      "id": "UgzPHJYai0bnPRZ848R4AaABAg",
+      "snippet": {
+        "channelId": "UC2gyzKcHbYfqoXA5xbyGXtQ",
+        "videoId": "9QqnfJ0-I_s",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "EkrpvuRjpX55WW1lv6RaZ46-EbQ",
+          "id": "UgzPHJYai0bnPRZ848R4AaABAg",
+          "snippet": {
+            "channelId": "UC2gyzKcHbYfqoXA5xbyGXtQ",
+            "videoId": "9QqnfJ0-I_s",
+            "textDisplay": "Alright, Bought a projector in this price class based on your recommendation.\nI was trying to keep it around a grand.\n\nI set out to buy the xgimi Horizon 20 hoping to get a deal.   Unfortunately , the price has gone up to about $1450.  Surprisingly, your number two pick on the list was down to $999 from $1499 at time of your video.  Amazon even had used like-new ones for $899. The last several times I took that option they sent me new stuff.  So I gambled and bought it.  Can't wait to try it.  I've never had a nice projector before.  My current one is a yaber k1.",
+            "textOriginal": "Alright, Bought a projector in this price class based on your recommendation.\nI was trying to keep it around a grand.\n\nI set out to buy the xgimi Horizon 20 hoping to get a deal.   Unfortunately , the price has gone up to about $1450.  Surprisingly, your number two pick on the list was down to $999 from $1499 at time of your video.  Amazon even had used like-new ones for $899. The last several times I took that option they sent me new stuff.  So I gambled and bought it.  Can't wait to try it.  I've never had a nice projector before.  My current one is a yaber k1.",
+            "authorDisplayName": "@lurewars",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/wxbxv-qJG6SDH_kK0tspuptQJidbMElIBbm_n63s7FvoQQZc9s0E8kPe8dWi0QO4Irlrqs6beA=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/@lurewars",
+            "authorChannelId": {
+              "value": "UCS7bhgq3Z2XiKori0PzaoDA"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2026-01-07T23:38:24Z",
+            "updatedAt": "2026-01-07T23:38:24Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 2,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "7iYAbZFSpWIjbeq-9if-dB3zxss",
+      "id": "UgyfXA108DYMo0dlLI14AaABAg",
+      "snippet": {
+        "channelId": "UC2gyzKcHbYfqoXA5xbyGXtQ",
+        "videoId": "9QqnfJ0-I_s",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "5dp52MqzN7a7eq4yc61uWAXEotA",
+          "id": "UgyfXA108DYMo0dlLI14AaABAg",
+          "snippet": {
+            "channelId": "UC2gyzKcHbYfqoXA5xbyGXtQ",
+            "videoId": "9QqnfJ0-I_s",
+            "textDisplay": "Hi, thank you for this excellent review it helped me solidify my choice of the JMGO, could you please tell me which colour mode you found to be the most colour accurate?",
+            "textOriginal": "Hi, thank you for this excellent review it helped me solidify my choice of the JMGO, could you please tell me which colour mode you found to be the most colour accurate?",
+            "authorDisplayName": "@mcp8063",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIdro_lYUT6e0Jsum5-itXXFj46aJVUSftVcOHhnI6c53BYE1A=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/@mcp8063",
+            "authorChannelId": {
+              "value": "UC38e5x4p5VKT9UlUJwVcQVA"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2026-01-07T14:50:22Z",
+            "updatedAt": "2026-01-07T14:50:22Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "9vZjCLdquq02EBwD5AzcQS1FJAE",
+      "id": "UgzZOxvKvKYT0QNnKUV4AaABAg",
+      "snippet": {
+        "channelId": "UC2gyzKcHbYfqoXA5xbyGXtQ",
+        "videoId": "9QqnfJ0-I_s",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "f1Xh_qkF2Kal5UTpozah8j3SEpw",
+          "id": "UgzZOxvKvKYT0QNnKUV4AaABAg",
+          "snippet": {
+            "channelId": "UC2gyzKcHbYfqoXA5xbyGXtQ",
+            "videoId": "9QqnfJ0-I_s",
+            "textDisplay": "streamaster plus at 899 us right now :)",
+            "textOriginal": "streamaster plus at 899 us right now :)",
+            "authorDisplayName": "@bullsclan2984",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIdro_ksQQl2B9h3YStUGVnbkEBwQ17nquLWhFzYP0HbtW3Fg4xF0T91e_MyLGpXuaKOx1LlOQ=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/@bullsclan2984",
+            "authorChannelId": {
+              "value": "UCYKCon1QK1ZuympE-FluVqA"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2026-01-07T10:41:02Z",
+            "updatedAt": "2026-01-07T10:41:02Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 1,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "01Vqg5HOciHtVBM8vJjDcxFcXWc",
+      "id": "Ugwj56a8S-J-Y-p1LEd4AaABAg",
+      "snippet": {
+        "channelId": "UC2gyzKcHbYfqoXA5xbyGXtQ",
+        "videoId": "9QqnfJ0-I_s",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "uA9ZFD-xVtIBdgo1UeZEQCvEFVw",
+          "id": "Ugwj56a8S-J-Y-p1LEd4AaABAg",
+          "snippet": {
+            "channelId": "UC2gyzKcHbYfqoXA5xbyGXtQ",
+            "videoId": "9QqnfJ0-I_s",
+            "textDisplay": "Would you the best for fps games?",
+            "textOriginal": "Would you the best for fps games?",
+            "authorDisplayName": "@miroiboii8936",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIdro_lTeiCkcuUBdfM3gJIFFkDh0CAZeIbnWBCSNjvtlXzD6G4=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/@miroiboii8936",
+            "authorChannelId": {
+              "value": "UCLgaQEJkwBwP7KoVg3c7NXA"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2026-01-05T06:24:18Z",
+            "updatedAt": "2026-01-05T06:24:18Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "Fdos7cst1qJYx5xTAg1wra7ONjw",
+      "id": "UgzkGacLHhCl4RAsHKd4AaABAg",
+      "snippet": {
+        "channelId": "UC2gyzKcHbYfqoXA5xbyGXtQ",
+        "videoId": "9QqnfJ0-I_s",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "ydowaidVwPiDCV7LqlPI7-bGSdo",
+          "id": "UgzkGacLHhCl4RAsHKd4AaABAg",
+          "snippet": {
+            "channelId": "UC2gyzKcHbYfqoXA5xbyGXtQ",
+            "videoId": "9QqnfJ0-I_s",
+            "textDisplay": "Hlo sir iam using Epson 880 home cinema now want to upgrade with gp520 .is it worthy?\nLove from Nepal🇳🇵❤",
+            "textOriginal": "Hlo sir iam using Epson 880 home cinema now want to upgrade with gp520 .is it worthy?\nLove from Nepal🇳🇵❤",
+            "authorDisplayName": "@nirojshrestha1409",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIdro_nPmhpPBIh-XVFi3gMfIBjAbzp8Uru0rEqDJWeLz6U=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/@nirojshrestha1409",
+            "authorChannelId": {
+              "value": "UCmOMRQKYFJxfZcTv2-wF8eQ"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2026-01-05T05:09:50Z",
+            "updatedAt": "2026-01-05T05:09:50Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "sCVFY0zV7BpRqYfreDIluvjQy7M",
+      "id": "Ugw_yNEUFN_sk_L5RhR4AaABAg",
+      "snippet": {
+        "channelId": "UC2gyzKcHbYfqoXA5xbyGXtQ",
+        "videoId": "9QqnfJ0-I_s",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "fEnz-UjwI7U8yztGDuV8Jr3D0bY",
+          "id": "Ugw_yNEUFN_sk_L5RhR4AaABAg",
+          "snippet": {
+            "channelId": "UC2gyzKcHbYfqoXA5xbyGXtQ",
+            "videoId": "9QqnfJ0-I_s",
+            "textDisplay": "OUTSTANDING testing! Thx for being so thorough! Really helps an analytical buyer like me. I’ll use your link as soon as I buy :)",
+            "textOriginal": "OUTSTANDING testing! Thx for being so thorough! Really helps an analytical buyer like me. I’ll use your link as soon as I buy :)",
+            "authorDisplayName": "@rono33",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIdro_k01FuENuN07VyrO3Dc8cpVRO2u-gfGkEA8EGXh8T95bKI=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/@rono33",
+            "authorChannelId": {
+              "value": "UCT_A3x1skrIGclqdWN5G5gg"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2026-01-03T20:05:07Z",
+            "updatedAt": "2026-01-03T20:05:07Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "FrzUPxwioTQK_0hiYfdS3AzvS9Q",
+      "id": "UgyQ8pUIQ-zrHwF6f2l4AaABAg",
+      "snippet": {
+        "channelId": "UC2gyzKcHbYfqoXA5xbyGXtQ",
+        "videoId": "9QqnfJ0-I_s",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "4A4UU9aG7esXJbHsmJvOiDc_z8A",
+          "id": "UgyQ8pUIQ-zrHwF6f2l4AaABAg",
+          "snippet": {
+            "channelId": "UC2gyzKcHbYfqoXA5xbyGXtQ",
+            "videoId": "9QqnfJ0-I_s",
+            "textDisplay": "Thank you so much for the great video! I watched all of your content carefully and noticed that some of the projectors featured are not available for purchase here in Europe.\n\nHowever, I found five models that are currently available online in Austria:\n\n✔ BenQ GV50\n✔ JMGO N1S\n✔ Dangbei Atom\n✔ Dangbei N2\n✔ Magcubic HY450",
+            "textOriginal": "Thank you so much for the great video! I watched all of your content carefully and noticed that some of the projectors featured are not available for purchase here in Europe.\n\nHowever, I found five models that are currently available online in Austria:\n\n✔ BenQ GV50\n✔ JMGO N1S\n✔ Dangbei Atom\n✔ Dangbei N2\n✔ Magcubic HY450",
+            "authorDisplayName": "@ferhatportakal8360",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/TOJDZgYeuK_gVYf7htzE9lt_yEeUxo1S_NoBMfPVlDXryvoNdQA1vJrF2ZGrjDaQQ7wCavoHyQ=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/@ferhatportakal8360",
+            "authorChannelId": {
+              "value": "UCAMbghn6IQdAzuMrP3W80Vg"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2026-01-02T21:54:55Z",
+            "updatedAt": "2026-01-02T21:54:55Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 1,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "BvFP5N6Hi6pWt6bRTFnW0hZ6_P4",
+      "id": "UgzQiHYhO9o8Q3BuBXF4AaABAg",
+      "snippet": {
+        "channelId": "UC2gyzKcHbYfqoXA5xbyGXtQ",
+        "videoId": "9QqnfJ0-I_s",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "YrwouU_Q251IizhOSQ7ZmCj9IFE",
+          "id": "UgzQiHYhO9o8Q3BuBXF4AaABAg",
+          "snippet": {
+            "channelId": "UC2gyzKcHbYfqoXA5xbyGXtQ",
+            "videoId": "9QqnfJ0-I_s",
+            "textDisplay": "@TheHookUp can you try reviewing Pixpaq Ray Gold projector?\n\nIt is a great projector at 300 dollars with all bells and whistles\n\nThankyou",
+            "textOriginal": "@TheHookUp can you try reviewing Pixpaq Ray Gold projector?\n\nIt is a great projector at 300 dollars with all bells and whistles\n\nThankyou",
+            "authorDisplayName": "@shivanshsharma7196",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIdro_mj7hVfpZHBo2b8-mv4JHDlHMbB5be3xD9ps8odw8ROr1Y=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/@shivanshsharma7196",
+            "authorChannelId": {
+              "value": "UC025s1QMbhQHpqhOxjnLv1Q"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2026-01-02T21:27:29Z",
+            "updatedAt": "2026-01-02T21:27:29Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "ukrROXat0SW9CfzQ81rW4yUfQiM",
+      "id": "Ugw2mKIDpxZ1hF4Jjm54AaABAg",
+      "snippet": {
+        "channelId": "UC2gyzKcHbYfqoXA5xbyGXtQ",
+        "videoId": "9QqnfJ0-I_s",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "ESOlJhXp8Kys_9HXjM3-bJdo2Is",
+          "id": "Ugw2mKIDpxZ1hF4Jjm54AaABAg",
+          "snippet": {
+            "channelId": "UC2gyzKcHbYfqoXA5xbyGXtQ",
+            "videoId": "9QqnfJ0-I_s",
+            "textDisplay": "How could the Xgimi win if the dark scenes with the purple tint were the worst of all projectors?",
+            "textOriginal": "How could the Xgimi win if the dark scenes with the purple tint were the worst of all projectors?",
+            "authorDisplayName": "@Youception",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIdro_nY7cTqUc4O1vo4FOEwXsGCF8WMVFJqxULvWa0hA3yvug=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/@Youception",
+            "authorChannelId": {
+              "value": "UCn79k6fB1e4cUzTa6pdWgjg"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2026-01-02T18:15:46Z",
+            "updatedAt": "2026-01-02T18:15:46Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 2,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "WExTu2DIBUdKlzI2qJNxps0hOwU",
+      "id": "UgybObSMA2g31MTgPn14AaABAg",
+      "snippet": {
+        "channelId": "UC2gyzKcHbYfqoXA5xbyGXtQ",
+        "videoId": "9QqnfJ0-I_s",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "SzixkfbxZHG7RN4ejxWFfveYBdM",
+          "id": "UgybObSMA2g31MTgPn14AaABAg",
+          "snippet": {
+            "channelId": "UC2gyzKcHbYfqoXA5xbyGXtQ",
+            "videoId": "9QqnfJ0-I_s",
+            "textDisplay": "I've never seen a tech comparison video this detailed, thorough, and decisive. THANK YOU. More than earned a subscription and will be checking the rest of your videos.",
+            "textOriginal": "I've never seen a tech comparison video this detailed, thorough, and decisive. THANK YOU. More than earned a subscription and will be checking the rest of your videos.",
+            "authorDisplayName": "@tareqameer",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIdro_n7SHbV4H-3fH_3bV2pyZplZSqqRqDtd84P0BQ84KUNBTMG=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/@tareqameer",
+            "authorChannelId": {
+              "value": "UC4ASd-2vDPRo1gmFOVNAO_w"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2026-01-01T19:29:51Z",
+            "updatedAt": "2026-01-01T19:29:51Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "OVzztS7JwIBi4c5CAAjczTtzHlw",
+      "id": "Ugy6VZQQLNAQpUn_hR94AaABAg",
+      "snippet": {
+        "channelId": "UC2gyzKcHbYfqoXA5xbyGXtQ",
+        "videoId": "9QqnfJ0-I_s",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "TS5Ttxaa1OJY12xxax09iP19D7M",
+          "id": "Ugy6VZQQLNAQpUn_hR94AaABAg",
+          "snippet": {
+            "channelId": "UC2gyzKcHbYfqoXA5xbyGXtQ",
+            "videoId": "9QqnfJ0-I_s",
+            "textDisplay": "would you choose the horizon 20 over the horizon s max ?",
+            "textOriginal": "would you choose the horizon 20 over the horizon s max ?",
+            "authorDisplayName": "@alion22",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIdro_llpHTxM6UfeGZEwZzd2TmxvUbxTjjhy0ePD0trw02d=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/@alion22",
+            "authorChannelId": {
+              "value": "UCEKb2VLy6ieQwgE4UQGH3ew"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2026-01-01T12:50:48Z",
+            "updatedAt": "2026-01-01T12:50:48Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "os8M87-KvsKk04PCaxPljD3Z-ww",
+      "id": "Ugzo4Hg_4yFL3tdbqph4AaABAg",
+      "snippet": {
+        "channelId": "UC2gyzKcHbYfqoXA5xbyGXtQ",
+        "videoId": "9QqnfJ0-I_s",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "1PfDgzjwBCtlHMYvEVENvFbpfF4",
+          "id": "Ugzo4Hg_4yFL3tdbqph4AaABAg",
+          "snippet": {
+            "channelId": "UC2gyzKcHbYfqoXA5xbyGXtQ",
+            "videoId": "9QqnfJ0-I_s",
+            "textDisplay": "You need a category from $500 to $100...",
+            "textOriginal": "You need a category from $500 to $100...",
+            "authorDisplayName": "@xChikyx",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIdro_n68xeT5jIdEUgaqloACziNIpalIla3_4QwOCX7-yvvEe4=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/@xChikyx",
+            "authorChannelId": {
+              "value": "UC6ox3KJoME4Dm1NjVjLYoGw"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 13,
+            "publishedAt": "2025-12-30T08:34:44Z",
+            "updatedAt": "2025-12-30T08:34:44Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "LZvCh0s4ACie0ySMSZxLg49Qe6U",
+      "id": "UgzullT3es79EaxEj7F4AaABAg",
+      "snippet": {
+        "channelId": "UC2gyzKcHbYfqoXA5xbyGXtQ",
+        "videoId": "9QqnfJ0-I_s",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "dX4oOXnMxXf1XCwBNSA7LYge1cU",
+          "id": "UgzullT3es79EaxEj7F4AaABAg",
+          "snippet": {
+            "channelId": "UC2gyzKcHbYfqoXA5xbyGXtQ",
+            "videoId": "9QqnfJ0-I_s",
+            "textDisplay": "I bought the Horizon 20 and am really happy with it's performance, hopefully with the DBLE fix making it even better...hopefully. I also have the Formovie V10 I purchased a few years ago after seeing the review here. Wish it had the Formovies industrial design as the Horizon casing is certainly not a looker. Otherwise, nice features for the price I paid. At the current price, I probably would not have purchased though, instead going with a Valerion.",
+            "textOriginal": "I bought the Horizon 20 and am really happy with it's performance, hopefully with the DBLE fix making it even better...hopefully. I also have the Formovie V10 I purchased a few years ago after seeing the review here. Wish it had the Formovies industrial design as the Horizon casing is certainly not a looker. Otherwise, nice features for the price I paid. At the current price, I probably would not have purchased though, instead going with a Valerion.",
+            "authorDisplayName": "@gp2024-d2r",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIdro_k-dJgGIezbiFTbn6n0OrW752lrp7k-iWLSA5UvMu8=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/@gp2024-d2r",
+            "authorChannelId": {
+              "value": "UCchYz0EqF-2Y50wjitgPZdw"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2025-12-29T19:17:35Z",
+            "updatedAt": "2025-12-30T21:00:33Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "fYAEOf4YJs75tIJnnwMeUxA6wnc",
+      "id": "Ugyc0kl84S8MI_JigoR4AaABAg",
+      "snippet": {
+        "channelId": "UC2gyzKcHbYfqoXA5xbyGXtQ",
+        "videoId": "9QqnfJ0-I_s",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "UDgl82_1kt0oze2f2bJXuIktGrI",
+          "id": "Ugyc0kl84S8MI_JigoR4AaABAg",
+          "snippet": {
+            "channelId": "UC2gyzKcHbYfqoXA5xbyGXtQ",
+            "videoId": "9QqnfJ0-I_s",
+            "textDisplay": "Hi can you give Canadian link for Horizon 20 ?",
+            "textOriginal": "Hi can you give Canadian link for Horizon 20 ?",
+            "authorDisplayName": "@Rama.S-x4y",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/NoSyyrNf0xE7AXTDPAyOwFWwEivH8jC0l4c2jMleKGiPRcPqCUlufhOv-lN6aa4TDXXlUM79DA=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/@Rama.S-x4y",
+            "authorChannelId": {
+              "value": "UCkdlqoPlh0g0Spv-Kmvsf8w"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2025-12-29T01:34:24Z",
+            "updatedAt": "2025-12-29T01:34:24Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "J2QeVHMuW2kgKpQf-WtfL6ZONzg",
+      "id": "Ugz3i5rPlxZkZzOo7Ph4AaABAg",
+      "snippet": {
+        "channelId": "UC2gyzKcHbYfqoXA5xbyGXtQ",
+        "videoId": "9QqnfJ0-I_s",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "Bjsj6fM1uH-r6P2HH0zYjfcX4hE",
+          "id": "Ugz3i5rPlxZkZzOo7Ph4AaABAg",
+          "snippet": {
+            "channelId": "UC2gyzKcHbYfqoXA5xbyGXtQ",
+            "videoId": "9QqnfJ0-I_s",
+            "textDisplay": "i really liked the Epson form a how it looks perspective. After this review i feel stupid choosing it, i guess the living room will have something uglier but of better quality",
+            "textOriginal": "i really liked the Epson form a how it looks perspective. After this review i feel stupid choosing it, i guess the living room will have something uglier but of better quality",
+            "authorDisplayName": "@NeminiParco-1",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIdro_nF1LHeVRFS4N2jUrk2aa3JK0Y5TLIdvpwaxcMpGy4=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/@NeminiParco-1",
+            "authorChannelId": {
+              "value": "UC-RkfHNEFIGvoggDFOae1DA"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2025-12-28T23:04:27Z",
+            "updatedAt": "2025-12-28T23:04:27Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "KnDh-axWei7siPawMPF_uw9p0uE",
+      "id": "UgzSrAO2-_hscMHvEt94AaABAg",
+      "snippet": {
+        "channelId": "UC2gyzKcHbYfqoXA5xbyGXtQ",
+        "videoId": "9QqnfJ0-I_s",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "6umuPYjGPiatKawGuIVSeMr0m7A",
+          "id": "UgzSrAO2-_hscMHvEt94AaABAg",
+          "snippet": {
+            "channelId": "UC2gyzKcHbYfqoXA5xbyGXtQ",
+            "videoId": "9QqnfJ0-I_s",
+            "textDisplay": "Yikes, as of December 25th 2025, the XGMI Horizon 20 price is now $1699 on Amazon",
+            "textOriginal": "Yikes, as of December 25th 2025, the XGMI Horizon 20 price is now $1699 on Amazon",
+            "authorDisplayName": "@JCThueson",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIdro_mLiRyNHWv2mr9zcZfYWNDz8MfroLzUcNOjAxDpUmVBgVo=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/@JCThueson",
+            "authorChannelId": {
+              "value": "UCCoV9RbVZjRpJ0yIupBuzVg"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 4,
+            "publishedAt": "2025-12-26T06:08:05Z",
+            "updatedAt": "2025-12-26T06:08:05Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 1,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "JKbllfdmy9H_KemTs313-OQqvBs",
+      "id": "UgyWCBSSc53-CViu8l54AaABAg",
+      "snippet": {
+        "channelId": "UC2gyzKcHbYfqoXA5xbyGXtQ",
+        "videoId": "9QqnfJ0-I_s",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "9VfEGIWAUP2SLNHhMtk6INSaN9w",
+          "id": "UgyWCBSSc53-CViu8l54AaABAg",
+          "snippet": {
+            "channelId": "UC2gyzKcHbYfqoXA5xbyGXtQ",
+            "videoId": "9QqnfJ0-I_s",
+            "textDisplay": "Love the reviews and all the data. Purchased the Horizon 20 and returned it 3 days later. The laser speckle on my Silver Ticket 1.0 gain screen was really bad. Went back to my 2021 Nebula Cosmos 4k. 1100 lumens. I feel like lumens are overrated. The horizon 20 was brighter but not as much as I would expect. \n\nI did not want to invest in a new screen that handles the laser better. \n\nStarting to think the projectors have a strong diminishing returns.",
+            "textOriginal": "Love the reviews and all the data. Purchased the Horizon 20 and returned it 3 days later. The laser speckle on my Silver Ticket 1.0 gain screen was really bad. Went back to my 2021 Nebula Cosmos 4k. 1100 lumens. I feel like lumens are overrated. The horizon 20 was brighter but not as much as I would expect. \n\nI did not want to invest in a new screen that handles the laser better. \n\nStarting to think the projectors have a strong diminishing returns.",
+            "authorDisplayName": "@mattcordonnier2248",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIdro_lX7yJHlJLd3VNrHkS-sz6hqpn8AdCQreSpK8A98n8=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/@mattcordonnier2248",
+            "authorChannelId": {
+              "value": "UCvN_T84CmeEmbpcY1SiRiug"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 1,
+            "publishedAt": "2025-12-23T19:38:10Z",
+            "updatedAt": "2025-12-23T19:38:10Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "oALsxnuqtBETg0lU2Y5gdz15hFc",
+      "id": "UgxpEe5FESWDTBl8ecV4AaABAg",
+      "snippet": {
+        "channelId": "UC2gyzKcHbYfqoXA5xbyGXtQ",
+        "videoId": "9QqnfJ0-I_s",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "PNd_ljkJFN7immvDp22v2DHYw30",
+          "id": "UgxpEe5FESWDTBl8ecV4AaABAg",
+          "snippet": {
+            "channelId": "UC2gyzKcHbYfqoXA5xbyGXtQ",
+            "videoId": "9QqnfJ0-I_s",
+            "textDisplay": "lol horizon 20 is 3k in my country... That's life",
+            "textOriginal": "lol horizon 20 is 3k in my country... That's life",
+            "authorDisplayName": "@ДмитрийБорисенко-щ9у",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIdro_nr_52GRi-fNcwxoeq2KN4t-gwpElLdzw-ql-Io_oo6t583OYTue1_CGDiS_6SKYUFj1Sk=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/@%D0%94%D0%BC%D0%B8%D1%82%D1%80%D0%B8%D0%B9%D0%91%D0%BE%D1%80%D0%B8%D1%81%D0%B5%D0%BD%D0%BA%D0%BE-%D1%899%D1%83",
+            "authorChannelId": {
+              "value": "UCam2Ke_f06J3SbJHkI8e-Gg"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 1,
+            "publishedAt": "2025-12-23T10:10:30Z",
+            "updatedAt": "2025-12-23T10:10:30Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 1,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "h69_yxtnNbDYc1CkOK1emDgN5ig",
+      "id": "UgwtK1z-l5yJNOlRemt4AaABAg",
+      "snippet": {
+        "channelId": "UC2gyzKcHbYfqoXA5xbyGXtQ",
+        "videoId": "9QqnfJ0-I_s",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "71NG6QwHfHDNiJ9qbiigoOM0wls",
+          "id": "UgwtK1z-l5yJNOlRemt4AaABAg",
+          "snippet": {
+            "channelId": "UC2gyzKcHbYfqoXA5xbyGXtQ",
+            "videoId": "9QqnfJ0-I_s",
+            "textDisplay": "Hisense M2 pro or  Benq gp520 or Xgimi horizon ultra ? which is a better projector ?\nValerion plus is not available in my country",
+            "textOriginal": "Hisense M2 pro or  Benq gp520 or Xgimi horizon ultra ? which is a better projector ?\nValerion plus is not available in my country",
+            "authorDisplayName": "@ARABINDASARKAR-v3g",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/GbpIMJ0sRAKUJdgqBqu8mw_krYgjpUojbpo1uC2Xxt_-1lZA7FZ2zD1CJ0gRhvpD-uTQtKsU=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/@ARABINDASARKAR-v3g",
+            "authorChannelId": {
+              "value": "UCtUBZAtY2lX-uo1MR8m6y2w"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2025-12-22T12:41:14Z",
+            "updatedAt": "2025-12-22T12:41:14Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 1,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "i0BmuQAh160FeP8D5yUs5x9OM1Q",
+      "id": "Ugy9zfMmlol8dSQFujN4AaABAg",
+      "snippet": {
+        "channelId": "UC2gyzKcHbYfqoXA5xbyGXtQ",
+        "videoId": "9QqnfJ0-I_s",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "Y-RgVvIBVeD1SAO2IJcUBv8cihY",
+          "id": "Ugy9zfMmlol8dSQFujN4AaABAg",
+          "snippet": {
+            "channelId": "UC2gyzKcHbYfqoXA5xbyGXtQ",
+            "videoId": "9QqnfJ0-I_s",
+            "textDisplay": "Hey, I'm trying to find your review on the new 2025 Wanbo Mozart 1 Pro New but it is nowhere to be found. What do you think of it as a projector and would you recommend anything else in image quality for that price? I'm looking mainly at using in a dark bedroom, projecting onto my wall.",
+            "textOriginal": "Hey, I'm trying to find your review on the new 2025 Wanbo Mozart 1 Pro New but it is nowhere to be found. What do you think of it as a projector and would you recommend anything else in image quality for that price? I'm looking mainly at using in a dark bedroom, projecting onto my wall.",
+            "authorDisplayName": "@TarekArnaout-u2w",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIdro_kOIcTa3ML__iCX2nBIn38bzJPiGmc-keigP-VSPVrrBDZs-MNU1B5OlxBkfnxQzKJY3g=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/@TarekArnaout-u2w",
+            "authorChannelId": {
+              "value": "UC58LmCtvOXyg3oLP82baRjA"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2025-12-22T11:52:18Z",
+            "updatedAt": "2025-12-22T11:52:18Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "FPTaO0BbV42BZO387ksopjRjxaQ",
+      "id": "UgzGHGBcz3B57XjUYzB4AaABAg",
+      "snippet": {
+        "channelId": "UC2gyzKcHbYfqoXA5xbyGXtQ",
+        "videoId": "9QqnfJ0-I_s",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "CP_wEKZkkgFMwdSTAAmCoMZotMI",
+          "id": "UgzGHGBcz3B57XjUYzB4AaABAg",
+          "snippet": {
+            "channelId": "UC2gyzKcHbYfqoXA5xbyGXtQ",
+            "videoId": "9QqnfJ0-I_s",
+            "textDisplay": "As always love your reviews! The only ones I really trust on YouTube. Quick question - as the XGIMI was such a clear winner, if you kept going up in price at which point do you think it would be beaten? Thanks and have a great Christmas.",
+            "textOriginal": "As always love your reviews! The only ones I really trust on YouTube. Quick question - as the XGIMI was such a clear winner, if you kept going up in price at which point do you think it would be beaten? Thanks and have a great Christmas.",
+            "authorDisplayName": "@sjc6717",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIdro_nTulAEiHojSOf7PPf_P_bvftV6Jh3JrGtC5lqFQ9o=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/@sjc6717",
+            "authorChannelId": {
+              "value": "UC3WQWC0ptQyY7OGRSijTu_A"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2025-12-21T17:04:41Z",
+            "updatedAt": "2025-12-21T17:04:41Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "HPnvnQbxcGfpiIiU9-Y3k8jtqgg",
+      "id": "UgxwmKYEXx6Yoeq3vhV4AaABAg",
+      "snippet": {
+        "channelId": "UC2gyzKcHbYfqoXA5xbyGXtQ",
+        "videoId": "9QqnfJ0-I_s",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "u-1V9KfhYBpZcxzwAWO17rrGFo4",
+          "id": "UgxwmKYEXx6Yoeq3vhV4AaABAg",
+          "snippet": {
+            "channelId": "UC2gyzKcHbYfqoXA5xbyGXtQ",
+            "videoId": "9QqnfJ0-I_s",
+            "textDisplay": "I rarely leave youtube comments but your projector videos are GOATED. I can actually trust you.",
+            "textOriginal": "I rarely leave youtube comments but your projector videos are GOATED. I can actually trust you.",
+            "authorDisplayName": "@npt327",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIdro_kha02_9Ul-0i7-bVviA0vGlId-liZzPVQMGzeLqnUygpGthuE1DCRL-f9hmm6Y1aUYKw=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/@npt327",
+            "authorChannelId": {
+              "value": "UCB1WLYHpx7OXuEB0Ai1X47g"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 7,
+            "publishedAt": "2025-12-20T17:15:10Z",
+            "updatedAt": "2025-12-20T17:15:10Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "cu2DFLigpmFu9dE50NygejNUTXo",
+      "id": "UgxFWh8JMgq2V0U9EEh4AaABAg",
+      "snippet": {
+        "channelId": "UC2gyzKcHbYfqoXA5xbyGXtQ",
+        "videoId": "9QqnfJ0-I_s",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "dLp4t_Ai2wrsqMQAXIx1AEquJvY",
+          "id": "UgxFWh8JMgq2V0U9EEh4AaABAg",
+          "snippet": {
+            "channelId": "UC2gyzKcHbYfqoXA5xbyGXtQ",
+            "videoId": "9QqnfJ0-I_s",
+            "textDisplay": "Hisense m2 pro advertised contrast only 1000:1 still looks so good?😮",
+            "textOriginal": "Hisense m2 pro advertised contrast only 1000:1 still looks so good?😮",
+            "authorDisplayName": "@dastankuspaev9217",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIdro_m5DHdJOQs40hzoitGNZg5x-fmV6OYmJoszNAslGR0idT_rVnRjRUDprHsTC8XFm7CrIA=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/@dastankuspaev9217",
+            "authorChannelId": {
+              "value": "UCQXThmGnYd5U1jM2lhkPyrA"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2025-12-17T20:06:36Z",
+            "updatedAt": "2025-12-17T20:06:36Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "eGM24296lE9r33-TaGwoQXhzTcc",
+      "id": "UgwdwFPY0MEQcu7UION4AaABAg",
+      "snippet": {
+        "channelId": "UC2gyzKcHbYfqoXA5xbyGXtQ",
+        "videoId": "9QqnfJ0-I_s",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "z5y9N8O5M7Cmk4QkG0A4B1qJOBE",
+          "id": "UgwdwFPY0MEQcu7UION4AaABAg",
+          "snippet": {
+            "channelId": "UC2gyzKcHbYfqoXA5xbyGXtQ",
+            "videoId": "9QqnfJ0-I_s",
+            "textDisplay": "Valerion StreamMaster Plus or formovie x5? They are the same price now",
+            "textOriginal": "Valerion StreamMaster Plus or formovie x5? They are the same price now",
+            "authorDisplayName": "@alexfedereigh4379",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIdro_n0P3r2dt_xOW7IMpld2RrxGBWw0u14CCrewTD_k6rGgh-rAJJjEjQc9tcAQhDqX28vZA=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/@alexfedereigh4379",
+            "authorChannelId": {
+              "value": "UCA4iJn9LyM6yU0aT-YHM4pQ"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 1,
+            "publishedAt": "2025-12-16T11:12:54Z",
+            "updatedAt": "2025-12-16T11:12:54Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 3,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "VExzqznTmbbzrcb9nxZmnE3UI3U",
+      "id": "Ugz8pKkyr9T47dopM6F4AaABAg",
+      "snippet": {
+        "channelId": "UC2gyzKcHbYfqoXA5xbyGXtQ",
+        "videoId": "9QqnfJ0-I_s",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "Zm2w1KADVEO3Jw9SckluBS0xOFA",
+          "id": "Ugz8pKkyr9T47dopM6F4AaABAg",
+          "snippet": {
+            "channelId": "UC2gyzKcHbYfqoXA5xbyGXtQ",
+            "videoId": "9QqnfJ0-I_s",
+            "textDisplay": "XGIMI horizon 20 (base) ordered. It’s great. Even tho it’s not recommended, I use the auto correction. It makes setup so convenient… quality is still awesome.",
+            "textOriginal": "XGIMI horizon 20 (base) ordered. It’s great. Even tho it’s not recommended, I use the auto correction. It makes setup so convenient… quality is still awesome.",
+            "authorDisplayName": "@DragonBallSuperCentralTV",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIdro_k7XXjSjQDbzFLn9co1msXfW7RfsMxuz3jPuho-UxP5qg=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/@DragonBallSuperCentralTV",
+            "authorChannelId": {
+              "value": "UCJA_1UgdVScSxSPHTVkfDRQ"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2025-12-14T16:29:27Z",
+            "updatedAt": "2025-12-14T16:29:27Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "REXlKv-rT3YZ4bCjYUI_N8OMgVE",
+      "id": "Ugy_DKht1U2KCS626J94AaABAg",
+      "snippet": {
+        "channelId": "UC2gyzKcHbYfqoXA5xbyGXtQ",
+        "videoId": "9QqnfJ0-I_s",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "387Cr-7oM7FKMHsgMRKcu8PUBM8",
+          "id": "Ugy_DKht1U2KCS626J94AaABAg",
+          "snippet": {
+            "channelId": "UC2gyzKcHbYfqoXA5xbyGXtQ",
+            "videoId": "9QqnfJ0-I_s",
+            "textDisplay": "Do you think the XGIMI HORIZON 20 is worth $300 more than the XGIMI Horizon S Max (for just tv/movie watching, don’t use for gaming )? I’m a noob but seems like they’re pretty similar…",
+            "textOriginal": "Do you think the XGIMI HORIZON 20 is worth $300 more than the XGIMI Horizon S Max (for just tv/movie watching, don’t use for gaming )? I’m a noob but seems like they’re pretty similar…",
+            "authorDisplayName": "@sgh6339",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIdro_naVtQgGqLR2mEJBYsUptJWeahbG_5vnBCPaDOqBcwUdRBL6bJjSCLq-kGRbS6uIBwmZQ=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/@sgh6339",
+            "authorChannelId": {
+              "value": "UCSpbGsY0m4hpKRg7G6fIsVw"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2025-12-14T16:08:31Z",
+            "updatedAt": "2025-12-14T16:08:31Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "RXxW-X34v1KSt0kcnbDe8zeviFQ",
+      "id": "UgwBWWrZdFCjebUqONx4AaABAg",
+      "snippet": {
+        "channelId": "UC2gyzKcHbYfqoXA5xbyGXtQ",
+        "videoId": "9QqnfJ0-I_s",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "Gzsdy-XV05bW1hcqAXbBhoKCZ4U",
+          "id": "UgwBWWrZdFCjebUqONx4AaABAg",
+          "snippet": {
+            "channelId": "UC2gyzKcHbYfqoXA5xbyGXtQ",
+            "videoId": "9QqnfJ0-I_s",
+            "textDisplay": "Has xgimi fixed the black level issues yet?",
+            "textOriginal": "Has xgimi fixed the black level issues yet?",
+            "authorDisplayName": "@myclassmate7588",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIdro_neAWLH7sZOed0nxggmhltv1elkeHlOQumeJrdVd-uJprIR_0tQYDxrh34wywukW1kbeQ=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/@myclassmate7588",
+            "authorChannelId": {
+              "value": "UCRU-Tp8BTlGTWQQEvC59MRg"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2025-12-14T16:00:13Z",
+            "updatedAt": "2025-12-14T16:00:13Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 1,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "mdkdTtsBkHSBPaS0SiRxlT3QXsQ",
+      "id": "UgxtstSdPvVfPK4d9bR4AaABAg",
+      "snippet": {
+        "channelId": "UC2gyzKcHbYfqoXA5xbyGXtQ",
+        "videoId": "9QqnfJ0-I_s",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "ZzeEQaanJxrO80IaCXIzGwhTGUI",
+          "id": "UgxtstSdPvVfPK4d9bR4AaABAg",
+          "snippet": {
+            "channelId": "UC2gyzKcHbYfqoXA5xbyGXtQ",
+            "videoId": "9QqnfJ0-I_s",
+            "textDisplay": "@18:28 undisputed king - XGIMI 20 🎉🎉🎉",
+            "textOriginal": "@18:28 undisputed king - XGIMI 20 🎉🎉🎉",
+            "authorDisplayName": "@Anllbgates",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIdro_meYAh6NPkc3qZ9RQbztfozX2jknUqc69hcasQTLZa7CCWY6MHmzRI1I6I59gYFhEiQXA=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/@Anllbgates",
+            "authorChannelId": {
+              "value": "UClv84vPxAzJK4qtxrv3hmBQ"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 2,
+            "publishedAt": "2025-12-14T07:42:05Z",
+            "updatedAt": "2025-12-14T07:42:05Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "WM5vv-BBY28szbx-EwtxAr-KpGQ",
+      "id": "UgyOrYpCacZa-OPFlpd4AaABAg",
+      "snippet": {
+        "channelId": "UC2gyzKcHbYfqoXA5xbyGXtQ",
+        "videoId": "9QqnfJ0-I_s",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "AUmHyMVJfURXYzXpxQBzGGaZVGU",
+          "id": "UgyOrYpCacZa-OPFlpd4AaABAg",
+          "snippet": {
+            "channelId": "UC2gyzKcHbYfqoXA5xbyGXtQ",
+            "videoId": "9QqnfJ0-I_s",
+            "textDisplay": "Video idea, make a short video comparison between the winners of the different categories. Eg sub 100 vs sub 500 vs sub 1500 etc.",
+            "textOriginal": "Video idea, make a short video comparison between the winners of the different categories. Eg sub 100 vs sub 500 vs sub 1500 etc.",
+            "authorDisplayName": "@MCoTEDDY",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIdro_lDj0loYhmYEjZGtL-Q3Z19VDh3_FE90sCMIm8aNhmlqQ=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/@MCoTEDDY",
+            "authorChannelId": {
+              "value": "UCunoEK_NnzYH79BNS1w8h5Q"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2025-12-10T09:06:43Z",
+            "updatedAt": "2025-12-10T09:06:43Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 1,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "Q6WKQVizPK0_hyqgXbjmEVtd7_Q",
+      "id": "UgysFvY63KDbilF_Mat4AaABAg",
+      "snippet": {
+        "channelId": "UC2gyzKcHbYfqoXA5xbyGXtQ",
+        "videoId": "9QqnfJ0-I_s",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "Qsz6PRe0yTZLfZvk2_dNeaB5Dfk",
+          "id": "UgysFvY63KDbilF_Mat4AaABAg",
+          "snippet": {
+            "channelId": "UC2gyzKcHbYfqoXA5xbyGXtQ",
+            "videoId": "9QqnfJ0-I_s",
+            "textDisplay": "I need a video like this for ceiling mount... starting to want to replace my old HT3550 (getting noisy)",
+            "textOriginal": "I need a video like this for ceiling mount... starting to want to replace my old HT3550 (getting noisy)",
+            "authorDisplayName": "@icetech6",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIdro_kcve0exjroDrhYmfNlpm6II_hUo5GfYqB7rH96Wolgyw=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/@icetech6",
+            "authorChannelId": {
+              "value": "UC3vFSx_2JkEU67znnWSP_sg"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2025-12-09T14:45:18Z",
+            "updatedAt": "2025-12-09T14:45:18Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "w2GWpdgJVGX2jjporlJrSCwW7Bk",
+      "id": "Ugw-TMbZz8dVOGyy5OF4AaABAg",
+      "snippet": {
+        "channelId": "UC2gyzKcHbYfqoXA5xbyGXtQ",
+        "videoId": "9QqnfJ0-I_s",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "CkoJQhWgr75a6ESS0Jm2w3hok2I",
+          "id": "Ugw-TMbZz8dVOGyy5OF4AaABAg",
+          "snippet": {
+            "channelId": "UC2gyzKcHbYfqoXA5xbyGXtQ",
+            "videoId": "9QqnfJ0-I_s",
+            "textDisplay": "Which is best projected side by side with the wall?",
+            "textOriginal": "Which is best projected side by side with the wall?",
+            "authorDisplayName": "@SiKuyaJustin",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/K67LBOO1IkLABx-1a0mYycOLurmlGmbKg_L97uroWiFBzU_Ha0IMEDDDF4QbYpzppnHJfQI9BQ=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/@SiKuyaJustin",
+            "authorChannelId": {
+              "value": "UCY3DV_qt-hFMf8mrxxCErSQ"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2025-12-07T18:22:33Z",
+            "updatedAt": "2025-12-07T18:22:33Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "rdZuI7zS9iIzAv_rPpllFpFo9Ys",
+      "id": "Ugzc4GIaw4LPDpnAZvl4AaABAg",
+      "snippet": {
+        "channelId": "UC2gyzKcHbYfqoXA5xbyGXtQ",
+        "videoId": "9QqnfJ0-I_s",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "o4QfCmCIJgDVeZo3LqJPcwYFfQI",
+          "id": "Ugzc4GIaw4LPDpnAZvl4AaABAg",
+          "snippet": {
+            "channelId": "UC2gyzKcHbYfqoXA5xbyGXtQ",
+            "videoId": "9QqnfJ0-I_s",
+            "textDisplay": "This is helpful. But what is THE BEST to projector a fake window?!?!",
+            "textOriginal": "This is helpful. But what is THE BEST to projector a fake window?!?!",
+            "authorDisplayName": "@mandynormandin166",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIdro_kcRYhcDL46kBMT5pCp6mihyro3QgeJlNE9eZ2idttwYw0=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/@mandynormandin166",
+            "authorChannelId": {
+              "value": "UCbDALLcYHJW5i08ZgLd8opQ"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2025-12-06T18:26:14Z",
+            "updatedAt": "2025-12-06T18:26:14Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "SxmzR2eXB2im99dzyfeeviNyUm0",
+      "id": "Ugz0ol4B-WuGN9WT2Ep4AaABAg",
+      "snippet": {
+        "channelId": "UC2gyzKcHbYfqoXA5xbyGXtQ",
+        "videoId": "9QqnfJ0-I_s",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "boIvNpzd_VfCuJyEfCJhTImHh_g",
+          "id": "Ugz0ol4B-WuGN9WT2Ep4AaABAg",
+          "snippet": {
+            "channelId": "UC2gyzKcHbYfqoXA5xbyGXtQ",
+            "videoId": "9QqnfJ0-I_s",
+            "textDisplay": "Is difference in overall picture quality between M2pro and valerion significant? I’m stuck between these two. Willing to sacrifice some picture quality for optical zoom on M2 but if difference is big then I will go with valerion. Thanks",
+            "textOriginal": "Is difference in overall picture quality between M2pro and valerion significant? I’m stuck between these two. Willing to sacrifice some picture quality for optical zoom on M2 but if difference is big then I will go with valerion. Thanks",
+            "authorDisplayName": "@mikebor11",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIdro_l-GvTfGw6WpFtDDreMNKt1y8KiuorfkFsIrdvHClE=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/@mikebor11",
+            "authorChannelId": {
+              "value": "UC2ifD4b7gHomqrCiwHLVVpA"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2025-12-05T14:57:17Z",
+            "updatedAt": "2025-12-05T14:57:17Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 1,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "9GzyeN2VQHrq73bOrdxHiB0tpxQ",
+      "id": "Ugw34eBKZ9ubrw_BUgt4AaABAg",
+      "snippet": {
+        "channelId": "UC2gyzKcHbYfqoXA5xbyGXtQ",
+        "videoId": "9QqnfJ0-I_s",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "zR0U3ATfqrw4u25oA1AJw34O_fw",
+          "id": "Ugw34eBKZ9ubrw_BUgt4AaABAg",
+          "snippet": {
+            "channelId": "UC2gyzKcHbYfqoXA5xbyGXtQ",
+            "videoId": "9QqnfJ0-I_s",
+            "textDisplay": "Thanks for this very comprehensive review! For the Hisense M2 Pro that you mentioned being a recommendation for bedside ceiling projection, is there any way to get the image more centered over the bed if placed on a nightstand? The Benq GV50 had an added tilted to the base that helped center the image but didn't see how the Hisense or the JMGO would be able to accomplish something similar.",
+            "textOriginal": "Thanks for this very comprehensive review! For the Hisense M2 Pro that you mentioned being a recommendation for bedside ceiling projection, is there any way to get the image more centered over the bed if placed on a nightstand? The Benq GV50 had an added tilted to the base that helped center the image but didn't see how the Hisense or the JMGO would be able to accomplish something similar.",
+            "authorDisplayName": "@matthewwilliams6573",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIdro_keF4n3ETdKYyaUaGaJpeOcCcP0kgmwfPjJWCpISUk=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/@matthewwilliams6573",
+            "authorChannelId": {
+              "value": "UCmZ_DIT6mlIfaKhmTbA11hg"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2025-12-03T23:48:36Z",
+            "updatedAt": "2025-12-03T23:48:36Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 1,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "IGHlevKA0M6h1E2BLcieYO88bCE",
+      "id": "UgyAWZ3kVZ1BUWB7W4t4AaABAg",
+      "snippet": {
+        "channelId": "UC2gyzKcHbYfqoXA5xbyGXtQ",
+        "videoId": "9QqnfJ0-I_s",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "duCEBhdMY-MfftPOm-iORo1fbpI",
+          "id": "UgyAWZ3kVZ1BUWB7W4t4AaABAg",
+          "snippet": {
+            "channelId": "UC2gyzKcHbYfqoXA5xbyGXtQ",
+            "videoId": "9QqnfJ0-I_s",
+            "textDisplay": "Hi, I received my Xgimi horizon 20, ive been testing doing a little tweak to colors etc.\n\nSo I see the picture washed out from sdr, hdr and dolby vision content, no matter what I do to fix it , its like a sensation of a foggy image. \n\nI was expecting to be blown away by this Horizon 20 because all of the specs on paper.\n\nI have a Dangei Atom and the colors are lively and pop up way more.\n\nIs it something that im doing wrong with the settings? Please if you could help me out with this issue, thanks\n\nOne last thing the enhanced black level does not engage when switchig to on and off, not even turning purple like your video.",
+            "textOriginal": "Hi, I received my Xgimi horizon 20, ive been testing doing a little tweak to colors etc.\n\nSo I see the picture washed out from sdr, hdr and dolby vision content, no matter what I do to fix it , its like a sensation of a foggy image. \n\nI was expecting to be blown away by this Horizon 20 because all of the specs on paper.\n\nI have a Dangei Atom and the colors are lively and pop up way more.\n\nIs it something that im doing wrong with the settings? Please if you could help me out with this issue, thanks\n\nOne last thing the enhanced black level does not engage when switchig to on and off, not even turning purple like your video.",
+            "authorDisplayName": "@adobad5361",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIdro_nTKgy5Ph2gAS9l3qi6VKxDkFp9EmBWnx39K0Gwb70=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/@adobad5361",
+            "authorChannelId": {
+              "value": "UCujiOQYo9bkV1Tbp-DbwuqA"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2025-12-03T21:33:37Z",
+            "updatedAt": "2025-12-03T21:33:37Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 7,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "kEp0q2JdN0PLmghPy5tTt1PQdD4",
+      "id": "Ugw-LP6wv_PqVvjHnax4AaABAg",
+      "snippet": {
+        "channelId": "UC2gyzKcHbYfqoXA5xbyGXtQ",
+        "videoId": "9QqnfJ0-I_s",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "qQRoLCyiSVkKa1pBvQsrZDRC4uE",
+          "id": "Ugw-LP6wv_PqVvjHnax4AaABAg",
+          "snippet": {
+            "channelId": "UC2gyzKcHbYfqoXA5xbyGXtQ",
+            "videoId": "9QqnfJ0-I_s",
+            "textDisplay": "Hi, I have an Optoma UHD50X 4K projector that's now showing many dead pixels. With a budget of about $500, would you recommend buying a new projector that's similar or better, or trying to repair the Optoma? Thanks!",
+            "textOriginal": "Hi, I have an Optoma UHD50X 4K projector that's now showing many dead pixels. With a budget of about $500, would you recommend buying a new projector that's similar or better, or trying to repair the Optoma? Thanks!",
+            "authorDisplayName": "@alejandropalencia12",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIdro_nptncZWYuCljyrIAVTtW6WQ3ua76YbH9wCsql7J0fCUZaJ=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/@alejandropalencia12",
+            "authorChannelId": {
+              "value": "UCr5Nl7phbRT5ziUqjKUoEXA"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2025-12-02T20:03:04Z",
+            "updatedAt": "2025-12-02T20:03:04Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "8WyUQa21rob9jgAnfsuh8zRIwNw",
+      "id": "UgxZVx7tm6eYcgUJG2F4AaABAg",
+      "snippet": {
+        "channelId": "UC2gyzKcHbYfqoXA5xbyGXtQ",
+        "videoId": "9QqnfJ0-I_s",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "EtG5zdlWmtNusqyBnsgyQmZncOg",
+          "id": "UgxZVx7tm6eYcgUJG2F4AaABAg",
+          "snippet": {
+            "channelId": "UC2gyzKcHbYfqoXA5xbyGXtQ",
+            "videoId": "9QqnfJ0-I_s",
+            "textDisplay": "Could you do a double take on the dB output for the JmGO? Other reviews state two 10w speakers same as the m2 pro. Hard to believe it is 3.5x the perceived loudness.",
+            "textOriginal": "Could you do a double take on the dB output for the JmGO? Other reviews state two 10w speakers same as the m2 pro. Hard to believe it is 3.5x the perceived loudness.",
+            "authorDisplayName": "@tobiasjansen9117",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIdro_ntkn4ZIWm-SY5RLbSKTpOM5dJpJHMPpsdZLFEyz_A=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/@tobiasjansen9117",
+            "authorChannelId": {
+              "value": "UC3eC4Q132ZfnjRNubHkpNGg"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2025-12-02T06:04:04Z",
+            "updatedAt": "2025-12-02T06:04:04Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "ITthWsV2twS88vFydIVIdplo4JY",
+      "id": "UgzxaGuI2FCzUGjNvQx4AaABAg",
+      "snippet": {
+        "channelId": "UC2gyzKcHbYfqoXA5xbyGXtQ",
+        "videoId": "9QqnfJ0-I_s",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "MlbCsXjwSVfSqb32iOjm0Yg4WsE",
+          "id": "UgzxaGuI2FCzUGjNvQx4AaABAg",
+          "snippet": {
+            "channelId": "UC2gyzKcHbYfqoXA5xbyGXtQ",
+            "videoId": "9QqnfJ0-I_s",
+            "textDisplay": "I received my Hisense M2 Pro today, and although I'm used to very good picture quality from two OLEDs, including an LG 77 C2, I'm very satisfied with the picture quality.\n\nIn fact, it's even too bright in a completely dark room; I had to turn the brightness down considerably.\n\nThe only noise I notice is the fan; the projector is directly above my head on the bed. It's like a faint whirring sound. I'm worried it will bother me when I'm watching movies.\n\nMy question is: based on the video, the Xgimi Horizon 20 sounds a bit quieter (more of a whoosh than a whir). Is that correct? And is it worth spending over €700 more just for that? (German prices)\nI don't need the increased brightness.",
+            "textOriginal": "I received my Hisense M2 Pro today, and although I'm used to very good picture quality from two OLEDs, including an LG 77 C2, I'm very satisfied with the picture quality.\n\nIn fact, it's even too bright in a completely dark room; I had to turn the brightness down considerably.\n\nThe only noise I notice is the fan; the projector is directly above my head on the bed. It's like a faint whirring sound. I'm worried it will bother me when I'm watching movies.\n\nMy question is: based on the video, the Xgimi Horizon 20 sounds a bit quieter (more of a whoosh than a whir). Is that correct? And is it worth spending over €700 more just for that? (German prices)\nI don't need the increased brightness.",
+            "authorDisplayName": "@MGG2104",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIdro_mtDEHdW1RUDQwVbxwmMa_lik0oc_Ek-AReDnxF_qF_cOhEdVRjvDE00K_nql-4eYPv6V4=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/@MGG2104",
+            "authorChannelId": {
+              "value": "UCisRQ2BN9Pj17me4MAfF8zg"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2025-12-01T21:58:45Z",
+            "updatedAt": "2025-12-01T21:58:45Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "SjtroWGVuDpIw7_zZ8t8J1K0o2I",
+      "id": "Ugw_bf0jxiqQipazXNJ4AaABAg",
+      "snippet": {
+        "channelId": "UC2gyzKcHbYfqoXA5xbyGXtQ",
+        "videoId": "9QqnfJ0-I_s",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "xOZZEQB_3Kvxtzntmk3PEbfkNt4",
+          "id": "Ugw_bf0jxiqQipazXNJ4AaABAg",
+          "snippet": {
+            "channelId": "UC2gyzKcHbYfqoXA5xbyGXtQ",
+            "videoId": "9QqnfJ0-I_s",
+            "textDisplay": "I just want to say - absolutely amazing review. And the way you engage with everyone in the comments and answer their questions is amazing. A lot of the comparisons and questions I had were already asked there and you replied to all of them. Really, kudos - top-notch work!",
+            "textOriginal": "I just want to say - absolutely amazing review. And the way you engage with everyone in the comments and answer their questions is amazing. A lot of the comparisons and questions I had were already asked there and you replied to all of them. Really, kudos - top-notch work!",
+            "authorDisplayName": "@sdery",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIdro_nsruIRqfcMl9AJ9-GSu57RXPwcczl_xOWyzT96qnaApNQ-M3s6Upf5zZJKrA0rVul9Zw=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/@sdery",
+            "authorChannelId": {
+              "value": "UCi6GqutdLG3QJEs8yd2CEBA"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 1,
+            "publishedAt": "2025-12-01T17:54:39Z",
+            "updatedAt": "2025-12-01T17:54:39Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 1,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "u_oaQdIdBo8mcTgIJ-YLW-1nZGg",
+      "id": "Ugy8AgvWJKZDjUs1SOh4AaABAg",
+      "snippet": {
+        "channelId": "UC2gyzKcHbYfqoXA5xbyGXtQ",
+        "videoId": "9QqnfJ0-I_s",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "Gytn4etAfR9cGf94B3kQvBGS3VY",
+          "id": "Ugy8AgvWJKZDjUs1SOh4AaABAg",
+          "snippet": {
+            "channelId": "UC2gyzKcHbYfqoXA5xbyGXtQ",
+            "videoId": "9QqnfJ0-I_s",
+            "textDisplay": "I really love your Videos!\n\nAnd I have a question 🤣\nRight now the JMGO N1S Ultra is in sale for 1300€.The Horizon for 1450€. \nArent These two more comparable than the comparison with the Small JMGo N1 S?\n\nI am going to use it for Movies Most of the time, but if I want to Game with Friends on my Couch I dont want an annoying Input lag.\n\nThe small JMGo N1 S in this Video has a good Input lag, But the bigger one  JMGO N1S Ultra has a very Bad Input lag in one of your older Videos. How does that come?\n\nWhich one should I get?😅",
+            "textOriginal": "I really love your Videos!\n\nAnd I have a question 🤣\nRight now the JMGO N1S Ultra is in sale for 1300€.The Horizon for 1450€. \nArent These two more comparable than the comparison with the Small JMGo N1 S?\n\nI am going to use it for Movies Most of the time, but if I want to Game with Friends on my Couch I dont want an annoying Input lag.\n\nThe small JMGo N1 S in this Video has a good Input lag, But the bigger one  JMGO N1S Ultra has a very Bad Input lag in one of your older Videos. How does that come?\n\nWhich one should I get?😅",
+            "authorDisplayName": "@ChaChaCha1123",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIdro_n68ziQLwlP2zE2AoW58ea3RWol98GNssqM9F9i2ODfKsPj4j3sBfuxm6Wo8-ppOXb3Jw=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/@ChaChaCha1123",
+            "authorChannelId": {
+              "value": "UC894sMN0bgxg2Y50HzKTO1Q"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 1,
+            "publishedAt": "2025-12-01T09:23:12Z",
+            "updatedAt": "2025-12-01T09:23:12Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "pd3X0p98y9Ch0cCC_6DNqHP4F2Y",
+      "id": "Ugzuo-YnFNZ6O5jGAiZ4AaABAg",
+      "snippet": {
+        "channelId": "UC2gyzKcHbYfqoXA5xbyGXtQ",
+        "videoId": "9QqnfJ0-I_s",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "-7OMZ1NPLgSuLkXnQAbwtIXxBm4",
+          "id": "Ugzuo-YnFNZ6O5jGAiZ4AaABAg",
+          "snippet": {
+            "channelId": "UC2gyzKcHbYfqoXA5xbyGXtQ",
+            "videoId": "9QqnfJ0-I_s",
+            "textDisplay": "I got the Horizon 20 for U$S 1180 on black friday sale at Amazon. Can't wait for it to arrive!",
+            "textOriginal": "I got the Horizon 20 for U$S 1180 on black friday sale at Amazon. Can't wait for it to arrive!",
+            "authorDisplayName": "@DesolatorArgentina",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIdro_nZdUYMlomqLBkQ5jwUYK7egIgA0mo043-K586Mbjdseg=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/@DesolatorArgentina",
+            "authorChannelId": {
+              "value": "UCQAsPx7ZlE2zoOGhU9AvBbQ"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 10,
+            "publishedAt": "2025-12-01T04:07:22Z",
+            "updatedAt": "2025-12-01T04:07:22Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 2,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "vb3i8dIip_xkEogMHYepjq3jD8A",
+      "id": "Ugz3bDF3fb5uM635s7B4AaABAg",
+      "snippet": {
+        "channelId": "UC2gyzKcHbYfqoXA5xbyGXtQ",
+        "videoId": "9QqnfJ0-I_s",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "1kwQQOVrldFOvQwg7io6e_G-22E",
+          "id": "Ugz3bDF3fb5uM635s7B4AaABAg",
+          "snippet": {
+            "channelId": "UC2gyzKcHbYfqoXA5xbyGXtQ",
+            "videoId": "9QqnfJ0-I_s",
+            "textDisplay": "XGIMI Horizon 20 is freaking 2800+$ where I live.",
+            "textOriginal": "XGIMI Horizon 20 is freaking 2800+$ where I live.",
+            "authorDisplayName": "@Shobulozahulo",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIdro_n0odCnwjDAKi6eAxJi4oVNHHUS4gz3B-04aLyHwTHsT9s=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/@Shobulozahulo",
+            "authorChannelId": {
+              "value": "UCDPC-7K7m3bB1vZWgdx85xA"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2025-11-30T21:10:57Z",
+            "updatedAt": "2025-11-30T21:11:16Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 1,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "RXKXZmiS7yboir6PSVR0Socr0FQ",
+      "id": "UgwT7cMFvMSfe1PbSHR4AaABAg",
+      "snippet": {
+        "channelId": "UC2gyzKcHbYfqoXA5xbyGXtQ",
+        "videoId": "9QqnfJ0-I_s",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "asMO5-8g8Z1BIv9DRWkwntDc420",
+          "id": "UgwT7cMFvMSfe1PbSHR4AaABAg",
+          "snippet": {
+            "channelId": "UC2gyzKcHbYfqoXA5xbyGXtQ",
+            "videoId": "9QqnfJ0-I_s",
+            "textDisplay": "anyone knows where and how to get the fix to use 15000:1 contrast dynamic ratio that is mentioned in this video ?",
+            "textOriginal": "anyone knows where and how to get the fix to use 15000:1 contrast dynamic ratio that is mentioned in this video ?",
+            "authorDisplayName": "@MGKday",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIdro_nR2wUrc341k8qsH_EEmu092w6ajDZxIhE5Cr2px9iYwg=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/@MGKday",
+            "authorChannelId": {
+              "value": "UCS_ZveZz4PjaxTZb6jiX_6g"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2025-11-30T10:48:01Z",
+            "updatedAt": "2025-11-30T10:48:01Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 1,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "hnDXi61X8ubw5dS8rUNPL3yUO0A",
+      "id": "UgzYHwCBdiF80Y4-X9R4AaABAg",
+      "snippet": {
+        "channelId": "UC2gyzKcHbYfqoXA5xbyGXtQ",
+        "videoId": "9QqnfJ0-I_s",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "YsSCrjfOw26c2ZtWHbQmpFKd01g",
+          "id": "UgzYHwCBdiF80Y4-X9R4AaABAg",
+          "snippet": {
+            "channelId": "UC2gyzKcHbYfqoXA5xbyGXtQ",
+            "videoId": "9QqnfJ0-I_s",
+            "textDisplay": "XGIMI updated their firmware and is talking about improved black levels. Will there be a video about it?)",
+            "textOriginal": "XGIMI updated their firmware and is talking about improved black levels. Will there be a video about it?)",
+            "authorDisplayName": "@TonyStarkProjector",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/m15pJNu_Fl2erqtahPrcFQzClJ2yPqMlyY8k5-IkwEkjMTUXYFbNIleQ2epb8NseaZ4_Wkx4=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/@TonyStarkProjector",
+            "authorChannelId": {
+              "value": "UCUsFyqJCScD-2Omel7pd4xg"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2025-11-29T21:29:51Z",
+            "updatedAt": "2025-11-29T21:29:51Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 1,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "M5lgYbQYzsDLOh0_DDYj7jD4wKc",
+      "id": "UgxNVPeNG7IeR4Ys0dt4AaABAg",
+      "snippet": {
+        "channelId": "UC2gyzKcHbYfqoXA5xbyGXtQ",
+        "videoId": "9QqnfJ0-I_s",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "OXJ57kmLwDoqY1OcnTyZpVAa5z4",
+          "id": "UgxNVPeNG7IeR4Ys0dt4AaABAg",
+          "snippet": {
+            "channelId": "UC2gyzKcHbYfqoXA5xbyGXtQ",
+            "videoId": "9QqnfJ0-I_s",
+            "textDisplay": "Whar about brightness w dE < 3?",
+            "textOriginal": "Whar about brightness w dE < 3?",
+            "authorDisplayName": "@nikilragav",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIdro_nbPrd_1licWysx7u17T19wWXM9kCZJ070B6ltMfJM39lg=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/@nikilragav",
+            "authorChannelId": {
+              "value": "UC-i2fQBMNn3WfeIXvZglQAw"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2025-11-28T19:59:33Z",
+            "updatedAt": "2025-11-28T19:59:33Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "m9Kckgy0DQj7xJlNg7hSkDhwOrM",
+      "id": "Ugy0zYezLctXhNM2AQN4AaABAg",
+      "snippet": {
+        "channelId": "UC2gyzKcHbYfqoXA5xbyGXtQ",
+        "videoId": "9QqnfJ0-I_s",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "Femi5q8WhvXk0zRkhZPJrQ8z1wQ",
+          "id": "Ugy0zYezLctXhNM2AQN4AaABAg",
+          "snippet": {
+            "channelId": "UC2gyzKcHbYfqoXA5xbyGXtQ",
+            "videoId": "9QqnfJ0-I_s",
+            "textDisplay": "Jmgo N1s 4k or xgimi horizon pro?",
+            "textOriginal": "Jmgo N1s 4k or xgimi horizon pro?",
+            "authorDisplayName": "@Primoo92",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIdro_kPnWgPdaEneGRS_lHThnRi4WowEiydFJHvz_TIJ-uZt0uKxLt_qjIlJRs-UBamd5r2HA=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/@Primoo92",
+            "authorChannelId": {
+              "value": "UCjwUsaxHd5QkYGKGCeYDa5w"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2025-11-28T19:57:18Z",
+            "updatedAt": "2025-11-28T19:57:18Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 1,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "LEqzYOdn0ZK6_lLo0-TP8JseqIo",
+      "id": "UgydvTp4q82dU77ogWd4AaABAg",
+      "snippet": {
+        "channelId": "UC2gyzKcHbYfqoXA5xbyGXtQ",
+        "videoId": "9QqnfJ0-I_s",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "nCyQpQA2SEk9f2Z_o2Zf9YkJaV8",
+          "id": "UgydvTp4q82dU77ogWd4AaABAg",
+          "snippet": {
+            "channelId": "UC2gyzKcHbYfqoXA5xbyGXtQ",
+            "videoId": "9QqnfJ0-I_s",
+            "textDisplay": "The horizon 20 is unavailable on Amazon now 😢",
+            "textOriginal": "The horizon 20 is unavailable on Amazon now 😢",
+            "authorDisplayName": "@haackermann13",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIdro_ltNHHZE5DDO9CHQ3k5QtlV8eNLCR2hg_lb5HUb_VcTpMyd=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/@haackermann13",
+            "authorChannelId": {
+              "value": "UCs_EPugrcGLdGpB9jhkTI6A"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 1,
+            "publishedAt": "2025-11-28T17:33:13Z",
+            "updatedAt": "2025-11-28T17:33:13Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 3,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "RWopFB7e4cUWqRctw094UXQd8zs",
+      "id": "UgyouEBVYyIZYoBsHad4AaABAg",
+      "snippet": {
+        "channelId": "UC2gyzKcHbYfqoXA5xbyGXtQ",
+        "videoId": "9QqnfJ0-I_s",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "a4pE0mI6WJqfnpJYGOfKPB6UvsY",
+          "id": "UgyouEBVYyIZYoBsHad4AaABAg",
+          "snippet": {
+            "channelId": "UC2gyzKcHbYfqoXA5xbyGXtQ",
+            "videoId": "9QqnfJ0-I_s",
+            "textDisplay": "Thank you! Now subscribed!  I already had the XGIMI in cart - even less $s now for BF on amazon.  Upgrading from Panasonic PT-AE8000U - so big jump.  What I still need, if you know of one - is a simple (hold position) HDMI splitter = 1 in and 2 out, where the switch HOLDs its position regardless of inputs into the source AV receiver (HDMI output, all individual video/audio sources input to AV receiver, surround sound Bose 5.1 AV Receiver audio output); the splitter I have works but reverts to the first out position (TV) when any source changes (and shrinks the image to a fraction = forces multiple devices resets to get corrected).  So, thank you - this solves my research and I will get the XGIMI, just need a MUCH better HDMI splitter (TV vs Projector). HAPPY GOBBLE!",
+            "textOriginal": "Thank you! Now subscribed!  I already had the XGIMI in cart - even less $s now for BF on amazon.  Upgrading from Panasonic PT-AE8000U - so big jump.  What I still need, if you know of one - is a simple (hold position) HDMI splitter = 1 in and 2 out, where the switch HOLDs its position regardless of inputs into the source AV receiver (HDMI output, all individual video/audio sources input to AV receiver, surround sound Bose 5.1 AV Receiver audio output); the splitter I have works but reverts to the first out position (TV) when any source changes (and shrinks the image to a fraction = forces multiple devices resets to get corrected).  So, thank you - this solves my research and I will get the XGIMI, just need a MUCH better HDMI splitter (TV vs Projector). HAPPY GOBBLE!",
+            "authorDisplayName": "@louritter2809",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIdro_ktmLUShddjl2N1oeWv6IT8ahcShUZTYkCXcXpr77kxxw=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/@louritter2809",
+            "authorChannelId": {
+              "value": "UCZZ19peqGVsdZGmdwxL2BkA"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2025-11-27T01:17:09Z",
+            "updatedAt": "2025-11-27T01:17:27Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "o47x37yMuVejHR7XLQFT89_vScc",
+      "id": "UgzkT4U4bPf5cHFSaQd4AaABAg",
+      "snippet": {
+        "channelId": "UC2gyzKcHbYfqoXA5xbyGXtQ",
+        "videoId": "9QqnfJ0-I_s",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "LxUX7ATdgaX-IMxg7FL9fCt-xRY",
+          "id": "UgzkT4U4bPf5cHFSaQd4AaABAg",
+          "snippet": {
+            "channelId": "UC2gyzKcHbYfqoXA5xbyGXtQ",
+            "videoId": "9QqnfJ0-I_s",
+            "textDisplay": "Have you review the hisense L9Q  since it's November  firmware update if so do u still feel like its not worth the money?  Im looking  at it and the PX3-PRO",
+            "textOriginal": "Have you review the hisense L9Q  since it's November  firmware update if so do u still feel like its not worth the money?  Im looking  at it and the PX3-PRO",
+            "authorDisplayName": "@mrvip299",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIdro_lfYfjcfQ8ARZQdEBxh4E5QKINbCCYyYkYFQiaTUMDu3lM=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/@mrvip299",
+            "authorChannelId": {
+              "value": "UCAT0Oi72xd7xMiOrjY7hPTQ"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2025-11-25T15:47:30Z",
+            "updatedAt": "2025-11-25T15:47:30Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 3,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "_jYvNkzwTrl2_VRHl5yotOxEg68",
+      "id": "UgyWCBTjwnOxOy3cY5R4AaABAg",
+      "snippet": {
+        "channelId": "UC2gyzKcHbYfqoXA5xbyGXtQ",
+        "videoId": "9QqnfJ0-I_s",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "ys8F9UH_kMdm_549eim0H4o3Smc",
+          "id": "UgyWCBTjwnOxOy3cY5R4AaABAg",
+          "snippet": {
+            "channelId": "UC2gyzKcHbYfqoXA5xbyGXtQ",
+            "videoId": "9QqnfJ0-I_s",
+            "textDisplay": "INSANE quality review. Thank you for your excellent work.",
+            "textOriginal": "INSANE quality review. Thank you for your excellent work.",
+            "authorDisplayName": "@bsjohnson9794",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIdro_k2Z6xibrg89ceTOo7QwIhmWgTtrF_4kXgPI5mFtPQPS_pSZElk3qsj1WdP_NCQ-9WqQw=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/@bsjohnson9794",
+            "authorChannelId": {
+              "value": "UCLbhefWtK4sq-YiwoTXfcqQ"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 1,
+            "publishedAt": "2025-11-25T12:51:01Z",
+            "updatedAt": "2025-11-25T12:51:01Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "qFmKNKA2jnoNTTXboC1YC0W31Ks",
+      "id": "Ugz6EiUEyGCvkzQp3jF4AaABAg",
+      "snippet": {
+        "channelId": "UC2gyzKcHbYfqoXA5xbyGXtQ",
+        "videoId": "9QqnfJ0-I_s",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "65GPEFnG5kEbQWw49ZthSvBMPQ0",
+          "id": "Ugz6EiUEyGCvkzQp3jF4AaABAg",
+          "snippet": {
+            "channelId": "UC2gyzKcHbYfqoXA5xbyGXtQ",
+            "videoId": "9QqnfJ0-I_s",
+            "textDisplay": "At $999 would the Valerion be considered the best value on this list?",
+            "textOriginal": "At $999 would the Valerion be considered the best value on this list?",
+            "authorDisplayName": "@Daltonian18",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIdro_mbRm0R1_R8SyasYGx8ONylYOwNJA3lvQAw5Hmwi1s=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/@Daltonian18",
+            "authorChannelId": {
+              "value": "UC7G9lv0K_qg1VLWCeSQTdIw"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2025-11-25T03:36:27Z",
+            "updatedAt": "2025-11-25T03:36:27Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 2,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "3DZu7KicYjlrr1erGFw8-5WM_-I",
+      "id": "UgyZVV-D2tKSEghLpGl4AaABAg",
+      "snippet": {
+        "channelId": "UC2gyzKcHbYfqoXA5xbyGXtQ",
+        "videoId": "9QqnfJ0-I_s",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "UczZUbPKcqi4uanAvTxfQoF2cww",
+          "id": "UgyZVV-D2tKSEghLpGl4AaABAg",
+          "snippet": {
+            "channelId": "UC2gyzKcHbYfqoXA5xbyGXtQ",
+            "videoId": "9QqnfJ0-I_s",
+            "textDisplay": "Hi Bro between these which one is best at all?\n(horizion 20, C2 ultra)\nThanks",
+            "textOriginal": "Hi Bro between these which one is best at all?\n(horizion 20, C2 ultra)\nThanks",
+            "authorDisplayName": "@SoullTeen",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/F8Hv6n8r6a6dFgrPMiIefUrKRlJmtunZlXLyrsPUz1I6fplrPDfAC4iKr69D-ZkPUdpqOEy2=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/@SoullTeen",
+            "authorChannelId": {
+              "value": "UCvzpY0ubbNuYv4_-v423ttw"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2025-11-25T02:50:59Z",
+            "updatedAt": "2025-11-25T02:50:59Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 2,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "5Jsgomql1y5eiAH2eI78WrY3S0A",
+      "id": "UgwA6oAaBiSLqu1bBih4AaABAg",
+      "snippet": {
+        "channelId": "UC2gyzKcHbYfqoXA5xbyGXtQ",
+        "videoId": "9QqnfJ0-I_s",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "bLhEJ7tC6SzPEWh0dF6laI7leew",
+          "id": "UgwA6oAaBiSLqu1bBih4AaABAg",
+          "snippet": {
+            "channelId": "UC2gyzKcHbYfqoXA5xbyGXtQ",
+            "videoId": "9QqnfJ0-I_s",
+            "textDisplay": "I just figured out that I'm very sensitive to the rbe rainbow effect sadly. I keep seeing it all the time and laser puts a lot of strain on my eyes. Even today after watching I start seeing it outside driving the bike through the dark night :((  I think I need to sell m newly bought hisense c2 pro.... which of these has the least 🌈 rainbow effect?",
+            "textOriginal": "I just figured out that I'm very sensitive to the rbe rainbow effect sadly. I keep seeing it all the time and laser puts a lot of strain on my eyes. Even today after watching I start seeing it outside driving the bike through the dark night :((  I think I need to sell m newly bought hisense c2 pro.... which of these has the least 🌈 rainbow effect?",
+            "authorDisplayName": "@Gecko-z6t",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIdro_lnBPtbP1wahUTibFBXckB9MmDz9iLbC7kjCu5F4WT8Mp6TLU2X-XMBvRB0tFwn3YlHnA=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/@Gecko-z6t",
+            "authorChannelId": {
+              "value": "UCNEoUtxJSY-ETDurOQRddaQ"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2025-11-25T00:13:13Z",
+            "updatedAt": "2025-11-25T00:13:13Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 1,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "3Npd5m1Ijt8Lwc_QQvgnY1_lh6I",
+      "id": "UgxquX91vthijF66lW94AaABAg",
+      "snippet": {
+        "channelId": "UC2gyzKcHbYfqoXA5xbyGXtQ",
+        "videoId": "9QqnfJ0-I_s",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "aSDgRfUbMmbhOlZW2PyJs8TmcPI",
+          "id": "UgxquX91vthijF66lW94AaABAg",
+          "snippet": {
+            "channelId": "UC2gyzKcHbYfqoXA5xbyGXtQ",
+            "videoId": "9QqnfJ0-I_s",
+            "textDisplay": "Thanks again,  just purchased the Horizon 20 on your recommendation for $1200 on Amazon.",
+            "textOriginal": "Thanks again,  just purchased the Horizon 20 on your recommendation for $1200 on Amazon.",
+            "authorDisplayName": "@ellos2482",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIdro_najrNirkES91uW9O1x7uafNumbXLKuwgH-mLyamJqgfhwuBIDWRZGGBzH6fCNh-gOl0g=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/@ellos2482",
+            "authorChannelId": {
+              "value": "UC_8ETORHT1guWPYNuv2EGww"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 30,
+            "publishedAt": "2025-11-24T22:01:32Z",
+            "updatedAt": "2025-11-24T22:01:32Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 1,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "uC2k5exYPLSLWYd7CUfb6Bwxzc0",
+      "id": "UgyzqyZWG1vUbaAqsoR4AaABAg",
+      "snippet": {
+        "channelId": "UC2gyzKcHbYfqoXA5xbyGXtQ",
+        "videoId": "9QqnfJ0-I_s",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "O8opnXwikF1zFo2c3vSwAEqhn9o",
+          "id": "UgyzqyZWG1vUbaAqsoR4AaABAg",
+          "snippet": {
+            "channelId": "UC2gyzKcHbYfqoXA5xbyGXtQ",
+            "videoId": "9QqnfJ0-I_s",
+            "textDisplay": "Would the Wemax Nova Pro being $1500 an Amazon make it the best projector under $1500 for a dark room, beating your top pick of rhe Horizon 20 for $1200? Also considering the Epson Home Cinema 3800 4k for S1500. Out of those which would you pick for a dark room ?",
+            "textOriginal": "Would the Wemax Nova Pro being $1500 an Amazon make it the best projector under $1500 for a dark room, beating your top pick of rhe Horizon 20 for $1200? Also considering the Epson Home Cinema 3800 4k for S1500. Out of those which would you pick for a dark room ?",
+            "authorDisplayName": "@ellos2482",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIdro_najrNirkES91uW9O1x7uafNumbXLKuwgH-mLyamJqgfhwuBIDWRZGGBzH6fCNh-gOl0g=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/@ellos2482",
+            "authorChannelId": {
+              "value": "UC_8ETORHT1guWPYNuv2EGww"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2025-11-24T21:18:49Z",
+            "updatedAt": "2025-11-24T21:35:56Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 2,
+        "isPublic": true
+      }
+    }
+  ]
+}

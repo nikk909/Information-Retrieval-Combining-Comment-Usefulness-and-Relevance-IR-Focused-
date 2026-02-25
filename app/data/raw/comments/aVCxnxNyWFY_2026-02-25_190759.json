@@ -1,0 +1,588 @@
+{
+  "kind": "youtube#commentThreadListResponse",
+  "etag": "iEyBa-ZooRvrsaKz9zjyAihPCDM",
+  "pageInfo": {
+    "totalResults": 17,
+    "resultsPerPage": 100
+  },
+  "items": [
+    {
+      "kind": "youtube#commentThread",
+      "etag": "DoS3p7W3vj-81pn8L78cLe8r2i4",
+      "id": "UgzS4SPQ57lBgUowV7V4AaABAg",
+      "snippet": {
+        "channelId": "UCaP1PNnr055fOt89JPry51w",
+        "videoId": "aVCxnxNyWFY",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "MJSioervwWRGQidl3SyJQnExx-c",
+          "id": "UgzS4SPQ57lBgUowV7V4AaABAg",
+          "snippet": {
+            "channelId": "UCaP1PNnr055fOt89JPry51w",
+            "videoId": "aVCxnxNyWFY",
+            "textDisplay": "Hi. Does built in apps like Netflix and prime play dolby Atmos content on external speakers if connected?",
+            "textOriginal": "Hi. Does built in apps like Netflix and prime play dolby Atmos content on external speakers if connected?",
+            "authorDisplayName": "@alfredkevin1995",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIdro_kpXHpoHE-920OwzWx8HiUaT3f9xL8bempru6QCetn4ll0=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/@alfredkevin1995",
+            "authorChannelId": {
+              "value": "UCF6fEGSeqGYouOAle9Rw1kQ"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2025-12-06T06:08:25Z",
+            "updatedAt": "2025-12-06T06:08:25Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "TgFpcHO1PlB7RtQjMpnF2nzEQEw",
+      "id": "Ugyc2S38RCaup_6Z9494AaABAg",
+      "snippet": {
+        "channelId": "UCaP1PNnr055fOt89JPry51w",
+        "videoId": "aVCxnxNyWFY",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "WDF7VaOHizYFD4qu363F06rXVBc",
+          "id": "Ugyc2S38RCaup_6Z9494AaABAg",
+          "snippet": {
+            "channelId": "UCaP1PNnr055fOt89JPry51w",
+            "videoId": "aVCxnxNyWFY",
+            "textDisplay": "How is this one compared to the Hisense C2 Ultra you reviewed a while ago?",
+            "textOriginal": "How is this one compared to the Hisense C2 Ultra you reviewed a while ago?",
+            "authorDisplayName": "@pharsightTV",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/kk6mDLJqdUBODr2Afa1xj1B9PmJaR0N1ZoVnts_BeCK5Bvqqzki8zE7CoBgtLYVkZbIN6vya=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/@pharsightTV",
+            "authorChannelId": {
+              "value": "UCAJ59V3BglUqVtSFafdlJQQ"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2025-11-28T08:50:19Z",
+            "updatedAt": "2025-11-28T08:50:19Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 1,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "6rxH1x1YLArZxtRUxc-4WGhLKsM",
+      "id": "UgzRZfJajV4GzQd7u_d4AaABAg",
+      "snippet": {
+        "channelId": "UCaP1PNnr055fOt89JPry51w",
+        "videoId": "aVCxnxNyWFY",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "Nb43O_j0MEXepnr8wGkrz1yTDIY",
+          "id": "UgzRZfJajV4GzQd7u_d4AaABAg",
+          "snippet": {
+            "channelId": "UCaP1PNnr055fOt89JPry51w",
+            "videoId": "aVCxnxNyWFY",
+            "textDisplay": "You sound like aXGIMI  sale person",
+            "textOriginal": "You sound like aXGIMI  sale person",
+            "authorDisplayName": "@nnn5666",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIdro_kK9JkCIdo3Jo5Ytb0Mi_uiZpovsLuxswrzVWxXRPw=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/@nnn5666",
+            "authorChannelId": {
+              "value": "UC3LNkAP5P7ZDO930tG5kdbQ"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2025-11-10T03:30:19Z",
+            "updatedAt": "2025-11-10T03:30:19Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "asfzWyqm1BpGiWhIvxND_BhWRAo",
+      "id": "UgyVP2FV-cl0d44Oji54AaABAg",
+      "snippet": {
+        "channelId": "UCaP1PNnr055fOt89JPry51w",
+        "videoId": "aVCxnxNyWFY",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "i0EG4gKhId4Z4nHHTBVQIZqP3_8",
+          "id": "UgyVP2FV-cl0d44Oji54AaABAg",
+          "snippet": {
+            "channelId": "UCaP1PNnr055fOt89JPry51w",
+            "videoId": "aVCxnxNyWFY",
+            "textDisplay": "Did you purchased or they send to you for review?",
+            "textOriginal": "Did you purchased or they send to you for review?",
+            "authorDisplayName": "@nnn5666",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIdro_kK9JkCIdo3Jo5Ytb0Mi_uiZpovsLuxswrzVWxXRPw=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/@nnn5666",
+            "authorChannelId": {
+              "value": "UC3LNkAP5P7ZDO930tG5kdbQ"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2025-11-10T03:27:49Z",
+            "updatedAt": "2025-11-10T03:27:49Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "M2tXz6OTm3HYWkD7jiBl0TVt0Rc",
+      "id": "Ugx9ZI1PyT1-fU6v_fF4AaABAg",
+      "snippet": {
+        "channelId": "UCaP1PNnr055fOt89JPry51w",
+        "videoId": "aVCxnxNyWFY",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "Iup4-VO-6HQ8Kaj-263Nu9RfVqE",
+          "id": "Ugx9ZI1PyT1-fU6v_fF4AaABAg",
+          "snippet": {
+            "channelId": "UCaP1PNnr055fOt89JPry51w",
+            "videoId": "aVCxnxNyWFY",
+            "textDisplay": "What's the Speckle and RBE like?",
+            "textOriginal": "What's the Speckle and RBE like?",
+            "authorDisplayName": "@MrFantaman",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIdro_kexSU46w6cYLAw7n2skj-kjy6uv4tRLz7Q3K1rsh5kWb6z0DWyfRdUElppkPxsBgt36Q=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/@MrFantaman",
+            "authorChannelId": {
+              "value": "UC7L5KC0iNPpN85fhTLgRMng"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2025-10-26T19:59:09Z",
+            "updatedAt": "2025-10-26T19:59:09Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "wCFzK8MS_-B-HXQqXkJUfE6qWXQ",
+      "id": "UgxGihH-SA1zuEawTPV4AaABAg",
+      "snippet": {
+        "channelId": "UCaP1PNnr055fOt89JPry51w",
+        "videoId": "aVCxnxNyWFY",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "Jo5kuEuYWWjUOLcbm141uP64-kY",
+          "id": "UgxGihH-SA1zuEawTPV4AaABAg",
+          "snippet": {
+            "channelId": "UCaP1PNnr055fOt89JPry51w",
+            "videoId": "aVCxnxNyWFY",
+            "textDisplay": "Cmon horizon send me one too 😁",
+            "textOriginal": "Cmon horizon send me one too 😁",
+            "authorDisplayName": "@rahool360",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/BfATyIk0WhaeGqIKe8GeC9_ub3MbtcY2usQK9u23weiQmJuNt_QJLfJOofFBzu8sPe6ZZrYLRRY=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/@rahool360",
+            "authorChannelId": {
+              "value": "UCDifdogI0-sKzTDfLhU7lmA"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2025-10-26T15:08:09Z",
+            "updatedAt": "2025-10-26T15:08:09Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "CKBdERtyWT9BUyr_wxph7l_ygv0",
+      "id": "Ugx1bTyQ5rDo1nzvmQ54AaABAg",
+      "snippet": {
+        "channelId": "UCaP1PNnr055fOt89JPry51w",
+        "videoId": "aVCxnxNyWFY",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "xvQ5HCHoWaJYirdGbBJ0NlZuleA",
+          "id": "Ugx1bTyQ5rDo1nzvmQ54AaABAg",
+          "snippet": {
+            "channelId": "UCaP1PNnr055fOt89JPry51w",
+            "videoId": "aVCxnxNyWFY",
+            "textDisplay": "Nice video",
+            "textOriginal": "Nice video",
+            "authorDisplayName": "@aronbhattarai029",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/JN84EisKuZFOQng2tzsofEfj-EzdD3MhZwBDB2ikqc9cErVALeCd4rJloUQhdM_QlH8nD6p8=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/@aronbhattarai029",
+            "authorChannelId": {
+              "value": "UC70jXBQfJjzu3A_UJl-ay7g"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 1,
+            "publishedAt": "2025-10-25T16:23:17Z",
+            "updatedAt": "2025-10-25T16:23:17Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "Y1-78kSLrBv3W8Nii-Ac16vh9-M",
+      "id": "UgylS0d2BG2pSezdy_l4AaABAg",
+      "snippet": {
+        "channelId": "UCaP1PNnr055fOt89JPry51w",
+        "videoId": "aVCxnxNyWFY",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "v96zL9Q1P4ZTFaH7ppx0E9Pr52w",
+          "id": "UgylS0d2BG2pSezdy_l4AaABAg",
+          "snippet": {
+            "channelId": "UCaP1PNnr055fOt89JPry51w",
+            "videoId": "aVCxnxNyWFY",
+            "textDisplay": "It is very good but I will have to buy the Valerion visionmaster Max because of the better optical zoom. With the Valerion, you can have a way bigger image for the same distance. It seems unimportant but people often don't realize that when it comes to 4k content you have to be quite close to actually see the details. Since my room is relatively small I can't go further than about 3 meters distance which gives me 110\" max with the Xgimi but 140\" with the Valerion...",
+            "textOriginal": "It is very good but I will have to buy the Valerion visionmaster Max because of the better optical zoom. With the Valerion, you can have a way bigger image for the same distance. It seems unimportant but people often don't realize that when it comes to 4k content you have to be quite close to actually see the details. Since my room is relatively small I can't go further than about 3 meters distance which gives me 110\" max with the Xgimi but 140\" with the Valerion...",
+            "authorDisplayName": "@wil1080",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIdro_nIz2CZnVHTCZpOwHlL8j9_ZkLx-SSWc9DGVi5gnX31_Q=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/@wil1080",
+            "authorChannelId": {
+              "value": "UCefnhKnXD1oiFdImQwUJrlg"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 1,
+            "publishedAt": "2025-10-25T12:34:58Z",
+            "updatedAt": "2025-10-25T12:34:58Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "vMrwENS5Gs2Wk_mcI4dHOZlu9d0",
+      "id": "UgwRtZmIu-Tn3NfgkFx4AaABAg",
+      "snippet": {
+        "channelId": "UCaP1PNnr055fOt89JPry51w",
+        "videoId": "aVCxnxNyWFY",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "XnotHGanqBnc52JRjOTnJAzkK5o",
+          "id": "UgwRtZmIu-Tn3NfgkFx4AaABAg",
+          "snippet": {
+            "channelId": "UCaP1PNnr055fOt89JPry51w",
+            "videoId": "aVCxnxNyWFY",
+            "textDisplay": "Any idea what price it will be available at?",
+            "textOriginal": "Any idea what price it will be available at?",
+            "authorDisplayName": "@derekwhite6191",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIdro_lb3g3z8_caN4B9E6KBa8PqUwd5Hyk401zEkvjAs64=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/@derekwhite6191",
+            "authorChannelId": {
+              "value": "UCJk5nX5OTE6E2TknACQ6HWw"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2025-10-25T07:25:38Z",
+            "updatedAt": "2025-10-25T07:25:38Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 1,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "AOnyHi_ecuUgyhLmtcENwbjsxic",
+      "id": "Ugze5JzFitNXrkS1TVV4AaABAg",
+      "snippet": {
+        "channelId": "UCaP1PNnr055fOt89JPry51w",
+        "videoId": "aVCxnxNyWFY",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "EV8TI1gDGFfZd7v_TYK0GSNOkfM",
+          "id": "Ugze5JzFitNXrkS1TVV4AaABAg",
+          "snippet": {
+            "channelId": "UCaP1PNnr055fOt89JPry51w",
+            "videoId": "aVCxnxNyWFY",
+            "textDisplay": "You should! I have their UST the Aura 2 and the image quality is amazing with a separate streaming device like Apple TV, Nvidia shield or  Fire Stick.  I wouldn't buy the vividatorm screen though I'll get Nothing Projector screen instead.",
+            "textOriginal": "You should! I have their UST the Aura 2 and the image quality is amazing with a separate streaming device like Apple TV, Nvidia shield or  Fire Stick.  I wouldn't buy the vividatorm screen though I'll get Nothing Projector screen instead.",
+            "authorDisplayName": "@kendrelewis5465",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIdro_ngxgE4VAdwyLM0WVO4eRSA24f2h7-RoUqlnOT6XEHY8Q5K=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/@kendrelewis5465",
+            "authorChannelId": {
+              "value": "UCYzdO8vpEtV1ALKtq7LCwWg"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 1,
+            "publishedAt": "2025-10-25T05:43:18Z",
+            "updatedAt": "2025-10-25T05:43:18Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "PskAZKoM6AfymgV3PamAJ0hjaxg",
+      "id": "Ugyl3s-wPp57lYcKNdx4AaABAg",
+      "snippet": {
+        "channelId": "UCaP1PNnr055fOt89JPry51w",
+        "videoId": "aVCxnxNyWFY",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "sSVJCXwpgpaXJDrxt2hODAMdbbc",
+          "id": "Ugyl3s-wPp57lYcKNdx4AaABAg",
+          "snippet": {
+            "channelId": "UCaP1PNnr055fOt89JPry51w",
+            "videoId": "aVCxnxNyWFY",
+            "textDisplay": "Hey, love your posters and frames with the quotes and cars.\nCould you share where you get them from?",
+            "textOriginal": "Hey, love your posters and frames with the quotes and cars.\nCould you share where you get them from?",
+            "authorDisplayName": "@dhwajjain1546",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIdro_n7ZhQ4m1tlujrgnR7i3-J37EAZYfqrl23Tdw991ddPGsc=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/@dhwajjain1546",
+            "authorChannelId": {
+              "value": "UCubivvf8tL6KuKdtLf03DlQ"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2025-10-25T05:38:57Z",
+            "updatedAt": "2025-10-25T05:38:57Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "s6br-XTOOxHzjZEIj44jozmv8AI",
+      "id": "UgxbfY2Qh4F6qs5hZtF4AaABAg",
+      "snippet": {
+        "channelId": "UCaP1PNnr055fOt89JPry51w",
+        "videoId": "aVCxnxNyWFY",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "_HtZVOWnMjcU0qPX_uyxN3e6d9A",
+          "id": "UgxbfY2Qh4F6qs5hZtF4AaABAg",
+          "snippet": {
+            "channelId": "UCaP1PNnr055fOt89JPry51w",
+            "videoId": "aVCxnxNyWFY",
+            "textDisplay": "Oh wow.  This is nice Justin...😁😁😁👍👍👍",
+            "textOriginal": "Oh wow.  This is nice Justin...😁😁😁👍👍👍",
+            "authorDisplayName": "@patrickcadette",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIdro_l8tid7xiQ0_yNqP0PyiXdRjiYJ7vI7OkP-Z3CklWFiGHo=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/@patrickcadette",
+            "authorChannelId": {
+              "value": "UCrHbcjkVwBbHNKB0abwvSuQ"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2025-10-25T04:01:49Z",
+            "updatedAt": "2025-10-25T04:01:49Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "5UuS-nWS3ZhQk8l0UV88G8qGmnY",
+      "id": "Ugw7s2amJ4rcV7_uvwV4AaABAg",
+      "snippet": {
+        "channelId": "UCaP1PNnr055fOt89JPry51w",
+        "videoId": "aVCxnxNyWFY",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "KX_T9bOl47mFDrCF-DDvQvqO7L4",
+          "id": "Ugw7s2amJ4rcV7_uvwV4AaABAg",
+          "snippet": {
+            "channelId": "UCaP1PNnr055fOt89JPry51w",
+            "videoId": "aVCxnxNyWFY",
+            "textDisplay": "how could this be modern if usb and no usb",
+            "textOriginal": "how could this be modern if usb and no usb",
+            "authorDisplayName": "@stefanfleer6219",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIdro_mSo09B3xXTpZepUw-MnvCmSD3cfLXDFYOHXlGP3IpD93_K=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/@stefanfleer6219",
+            "authorChannelId": {
+              "value": "UCRj8f_I_FnTVVVXdE4cxz4Q"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2025-10-25T03:21:58Z",
+            "updatedAt": "2025-10-25T03:21:58Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "CRueUex2DM91sPTuB0wLzTWQ7EM",
+      "id": "Ugxqyjf3GByVYxODsv94AaABAg",
+      "snippet": {
+        "channelId": "UCaP1PNnr055fOt89JPry51w",
+        "videoId": "aVCxnxNyWFY",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "koOMTQ-jCJeP9KEzNwzwNxZSM78",
+          "id": "Ugxqyjf3GByVYxODsv94AaABAg",
+          "snippet": {
+            "channelId": "UCaP1PNnr055fOt89JPry51w",
+            "videoId": "aVCxnxNyWFY",
+            "textDisplay": "\"horizon\"",
+            "textOriginal": "\"horizon\"",
+            "authorDisplayName": "@hotloins22",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIdro_noHcJt-bLg379pB_zoaECNg5vMwE-saTbbSYDq36kbXkU=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/@hotloins22",
+            "authorChannelId": {
+              "value": "UCgW3G4i2TvwlexiqCtg5R7g"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2025-10-25T02:38:06Z",
+            "updatedAt": "2025-10-25T02:38:06Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "eFCU9VLk6UH7KdugH0Yy6h_sRS0",
+      "id": "UgzDya8F39qC5tZP3W54AaABAg",
+      "snippet": {
+        "channelId": "UCaP1PNnr055fOt89JPry51w",
+        "videoId": "aVCxnxNyWFY",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "tV8o8pV01a_rhzGL3CY8xJYIU2A",
+          "id": "UgzDya8F39qC5tZP3W54AaABAg",
+          "snippet": {
+            "channelId": "UCaP1PNnr055fOt89JPry51w",
+            "videoId": "aVCxnxNyWFY",
+            "textDisplay": "Definitely picking this up",
+            "textOriginal": "Definitely picking this up",
+            "authorDisplayName": "@Technoflage",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIdro_mglSGNWk20-HpB6wp4hDTlkjSknX7Mob79E28e-oGndr22p_2wSbntTBphlxeuIcZhlA=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/@Technoflage",
+            "authorChannelId": {
+              "value": "UC8v4Bnts9HwKNHaWpVY1Y4g"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2025-10-25T01:32:35Z",
+            "updatedAt": "2025-10-25T01:32:35Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 1,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "EcoA6dPDtzFVBD7SIG70Ob61fFY",
+      "id": "Ugw8vnHOm8apfd9hB8V4AaABAg",
+      "snippet": {
+        "channelId": "UCaP1PNnr055fOt89JPry51w",
+        "videoId": "aVCxnxNyWFY",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "zIjs_ptXE-F9WG3eVZgSBylwTeA",
+          "id": "Ugw8vnHOm8apfd9hB8V4AaABAg",
+          "snippet": {
+            "channelId": "UCaP1PNnr055fOt89JPry51w",
+            "videoId": "aVCxnxNyWFY",
+            "textDisplay": "compact? seriously? comon",
+            "textOriginal": "compact? seriously? comon",
+            "authorDisplayName": "@Doraemonhandle",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIdro_nCbkqR5L8XBTe4XCJ_CGAF_BMQnod_Ph10C0HnAs_dPjEFlD7f9eQZxca1IKA1n77VZw=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/@Doraemonhandle",
+            "authorChannelId": {
+              "value": "UCZnh36BhovjS0Xumg2Kz5PA"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 1,
+            "publishedAt": "2025-10-24T23:28:15Z",
+            "updatedAt": "2025-10-24T23:28:15Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 2,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "gahygX-DVlPTBpYJEKbMD2Z6O04",
+      "id": "UgyULv74vnjgLgJZ1WV4AaABAg",
+      "snippet": {
+        "channelId": "UCaP1PNnr055fOt89JPry51w",
+        "videoId": "aVCxnxNyWFY",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "T_rIKGcTniyrtWIp0hxW_clYjhw",
+          "id": "UgyULv74vnjgLgJZ1WV4AaABAg",
+          "snippet": {
+            "channelId": "UCaP1PNnr055fOt89JPry51w",
+            "videoId": "aVCxnxNyWFY",
+            "textDisplay": "First here!",
+            "textOriginal": "First here!",
+            "authorDisplayName": "@Thabo6166",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIdro_lxz3bF7gk64BTtigbCNKYut5spu9NEd8Q3pcHU-KUd_Fc=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/@Thabo6166",
+            "authorChannelId": {
+              "value": "UCg0lRFhOae6i47Kx89s27_w"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2025-10-24T21:57:11Z",
+            "updatedAt": "2025-10-24T21:57:11Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 1,
+        "isPublic": true
+      }
+    }
+  ]
+}

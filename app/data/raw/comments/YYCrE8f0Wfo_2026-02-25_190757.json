@@ -1,0 +1,146 @@
+{
+  "kind": "youtube#commentThreadListResponse",
+  "etag": "p3obr1qxN10uR37I7WTuSF7RgHo",
+  "pageInfo": {
+    "totalResults": 4,
+    "resultsPerPage": 100
+  },
+  "items": [
+    {
+      "kind": "youtube#commentThread",
+      "etag": "W13XOQ_6CoP8PPc0CBFRsLi5jrI",
+      "id": "UgzZKk-VtPEU3hJ7YIB4AaABAg",
+      "snippet": {
+        "channelId": "UCU4xqrR6oX1FTggJ8bVRWhQ",
+        "videoId": "YYCrE8f0Wfo",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "2pHOtbqLfJJ5505HbKgyxJi1vAM",
+          "id": "UgzZKk-VtPEU3hJ7YIB4AaABAg",
+          "snippet": {
+            "channelId": "UCU4xqrR6oX1FTggJ8bVRWhQ",
+            "videoId": "YYCrE8f0Wfo",
+            "textDisplay": "Thanks for the work you put in making this video, but 80% unboxing, seriousl? What's the point of unboxing? Who wories if the batteries are well wrapped or if the manual has pages? No comment on the image quality?? I am just 30 and I am already too old for this society...",
+            "textOriginal": "Thanks for the work you put in making this video, but 80% unboxing, seriousl? What's the point of unboxing? Who wories if the batteries are well wrapped or if the manual has pages? No comment on the image quality?? I am just 30 and I am already too old for this society...",
+            "authorDisplayName": "@Trip_mania",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/vtlA5l8oCZumW_FJiOKLVKjEmrsuBaImG6oxp8nCn3nDCtYPKErBp1ishbpJMk6LIgxX-jOf=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/@Trip_mania",
+            "authorChannelId": {
+              "value": "UCB1MMl4zZX0oDEcLymhAXzQ"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2026-02-16T17:49:28Z",
+            "updatedAt": "2026-02-16T17:49:28Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 2,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "xGqNkd9SH2DFPY3EDSit7La-u1M",
+      "id": "Ugz4_8o4texLs2rTl9x4AaABAg",
+      "snippet": {
+        "channelId": "UCU4xqrR6oX1FTggJ8bVRWhQ",
+        "videoId": "YYCrE8f0Wfo",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "odSKGx_Du4MkJh8bzfFMPD6_hTk",
+          "id": "Ugz4_8o4texLs2rTl9x4AaABAg",
+          "snippet": {
+            "channelId": "UCU4xqrR6oX1FTggJ8bVRWhQ",
+            "videoId": "YYCrE8f0Wfo",
+            "textDisplay": "Is it fully dust proof",
+            "textOriginal": "Is it fully dust proof",
+            "authorDisplayName": "@blueblurry",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/-ibVlHS4wlFgUsdai2EBG3eL7c5wIlmheZyvQBzM_gGBR8hLnl9hMOlvAl9WSDegI6sfQ21CE0w=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/@blueblurry",
+            "authorChannelId": {
+              "value": "UCwGDcfo8nuBbTDDEpVWosIQ"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 1,
+            "publishedAt": "2025-10-14T09:03:40Z",
+            "updatedAt": "2025-10-14T09:03:40Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 1,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "dJfU1Eveo_SDq6xtXNV0AvzXTyI",
+      "id": "UgxR3mpNwqEJvqqs-OV4AaABAg",
+      "snippet": {
+        "channelId": "UCU4xqrR6oX1FTggJ8bVRWhQ",
+        "videoId": "YYCrE8f0Wfo",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "bSi8CHqcVIzLQiSnIuyifLO4ofk",
+          "id": "UgxR3mpNwqEJvqqs-OV4AaABAg",
+          "snippet": {
+            "channelId": "UCU4xqrR6oX1FTggJ8bVRWhQ",
+            "videoId": "YYCrE8f0Wfo",
+            "textDisplay": "that is actually a great idea i might get that",
+            "textOriginal": "that is actually a great idea i might get that",
+            "authorDisplayName": "@noxxspire2680",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/KoQzA1Chz0fKU4ZubnEYZgO8EkN9zd__7Uih1eGeVRLOcC0TQCuyyK6cATuiVWcLaaSvjFBww0k=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/@noxxspire2680",
+            "authorChannelId": {
+              "value": "UCVrIkmxXmEGHRBW6yPTxXjA"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2025-03-25T05:27:15Z",
+            "updatedAt": "2025-03-25T05:27:15Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "pqIxCELqiCMngAY0HHzj7Qb5fJY",
+      "id": "Ugzl3zIgbnbD-CZKf7x4AaABAg",
+      "snippet": {
+        "channelId": "UCU4xqrR6oX1FTggJ8bVRWhQ",
+        "videoId": "YYCrE8f0Wfo",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "KQ1Cw02p-a-_knt2X2jff1xWZto",
+          "id": "Ugzl3zIgbnbD-CZKf7x4AaABAg",
+          "snippet": {
+            "channelId": "UCU4xqrR6oX1FTggJ8bVRWhQ",
+            "videoId": "YYCrE8f0Wfo",
+            "textDisplay": "👾",
+            "textOriginal": "👾",
+            "authorDisplayName": "@ABS.official.3516",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/FiKQ4KM9I49iwTsSNmtBvanMGtTvQSYAug-t9BFtgkpYLYpedVl_Ez2QHMlrcWUQipkJPwAlow=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/@ABS.official.3516",
+            "authorChannelId": {
+              "value": "UClk4_IfOGHFMlVpk2McitGw"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2025-03-24T21:18:36Z",
+            "updatedAt": "2025-03-24T21:18:36Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    }
+  ]
+}

@@ -1,0 +1,826 @@
+{
+  "kind": "youtube#commentThreadListResponse",
+  "etag": "i6B226jLMIU15jqunW0r4oj7__E",
+  "pageInfo": {
+    "totalResults": 24,
+    "resultsPerPage": 100
+  },
+  "items": [
+    {
+      "kind": "youtube#commentThread",
+      "etag": "0J_E5ywsmhCEmL1Lb7jI8lwItH8",
+      "id": "UgyDAbTPHboFC_zsKIB4AaABAg",
+      "snippet": {
+        "channelId": "UC-fsR9vJRgzMKEuxyzCKPAA",
+        "videoId": "YHvNf5dNU4g",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "cedoz5a9c_O64wOE1MrEUd7aQ1Y",
+          "id": "UgyDAbTPHboFC_zsKIB4AaABAg",
+          "snippet": {
+            "channelId": "UC-fsR9vJRgzMKEuxyzCKPAA",
+            "videoId": "YHvNf5dNU4g",
+            "textDisplay": "Buy XGIMI Vibe One (Battery Powered) Google TV 1080p Portable Projector at\r\nAmazon @ https://amzn.to/4a8tGFM\r\nXGIMI US @ https://tidd.ly/4obccwM\r\nXGIMI EU @ https://tidd.ly/4qruzPt\r\nXGIMI DE @ https://tidd.ly/47FbEcz\r\nXGIMI UK @ https://tidd.ly/476IHWR\r\nXGIMI FR @ https://tidd.ly/47ADeI1\r\nXGIMI ES @ https://tidd.ly/4hn5XTY\r\n\r\n✅ Top Projector Chart @ https://s.jayceooi.com/tp ✅\r\n⬆ All the info you need is here ⬆",
+            "textOriginal": "Buy XGIMI Vibe One (Battery Powered) Google TV 1080p Portable Projector at\r\nAmazon @ https://amzn.to/4a8tGFM\r\nXGIMI US @ https://tidd.ly/4obccwM\r\nXGIMI EU @ https://tidd.ly/4qruzPt\r\nXGIMI DE @ https://tidd.ly/47FbEcz\r\nXGIMI UK @ https://tidd.ly/476IHWR\r\nXGIMI FR @ https://tidd.ly/47ADeI1\r\nXGIMI ES @ https://tidd.ly/4hn5XTY\r\n\r\n✅ Top Projector Chart @ https://s.jayceooi.com/tp ✅\r\n⬆ All the info you need is here ⬆",
+            "authorDisplayName": "@jayceooi",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIdro_l-5VFoe9nNSLkirawqD1vJqgY_xMq8WfsFgbOwj4pIgw=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/@jayceooi",
+            "authorChannelId": {
+              "value": "UC-fsR9vJRgzMKEuxyzCKPAA"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 2,
+            "publishedAt": "2025-11-24T03:55:23Z",
+            "updatedAt": "2026-01-18T07:49:14Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "j7a3E90f3TwmTrLm7X31e3aFI5I",
+      "id": "UgyiEa83YcxzntSNGG94AaABAg",
+      "snippet": {
+        "channelId": "UC-fsR9vJRgzMKEuxyzCKPAA",
+        "videoId": "YHvNf5dNU4g",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "onPvlCe0ME5DiX1x7UxYY7fpFvM",
+          "id": "UgyiEa83YcxzntSNGG94AaABAg",
+          "snippet": {
+            "channelId": "UC-fsR9vJRgzMKEuxyzCKPAA",
+            "videoId": "YHvNf5dNU4g",
+            "textDisplay": "Hello, great video. Are you planning to review the new TCL C1 projector?",
+            "textOriginal": "Hello, great video. Are you planning to review the new TCL C1 projector?",
+            "authorDisplayName": "@davidis8066",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIdro_mBVNsGOPmaU5A11ntmIeNgKYqCDoujcui9IgUTGH76DIMXsWCfsYP1u5nTgQTXotUAtA=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/@davidis8066",
+            "authorChannelId": {
+              "value": "UCD51CGv75zrRieQbowsv9Gw"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2026-02-19T15:10:09Z",
+            "updatedAt": "2026-02-19T15:10:09Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 1,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "smXQgOqpN-ZEMGhwkrJmGPORg_Q",
+      "id": "UgzlP5aAGneX9r5U6Hp4AaABAg",
+      "snippet": {
+        "channelId": "UC-fsR9vJRgzMKEuxyzCKPAA",
+        "videoId": "YHvNf5dNU4g",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "if-wcXi58xSfEv5TVRctNmkU7i8",
+          "id": "UgzlP5aAGneX9r5U6Hp4AaABAg",
+          "snippet": {
+            "channelId": "UC-fsR9vJRgzMKEuxyzCKPAA",
+            "videoId": "YHvNf5dNU4g",
+            "textDisplay": "is the xgimi play 6 the same?",
+            "textOriginal": "is the xgimi play 6 the same?",
+            "authorDisplayName": "@KisameSempai",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIdro_mzouqIYI8LHFoQLHKnsuXADdufNNOzBiDX0Pe6Bdj2Mvq8Hcp6Gg-TXS8tLFa3rqDxaA=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/@KisameSempai",
+            "authorChannelId": {
+              "value": "UCcqqsbBM9-uJJVhXC-VLAtQ"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2026-02-02T07:13:13Z",
+            "updatedAt": "2026-02-02T07:13:13Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 3,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "DEXZfhF_7428sPrw4WWoJi8l4OM",
+      "id": "Ugy-T3Vw0DIn0JwWmRd4AaABAg",
+      "snippet": {
+        "channelId": "UC-fsR9vJRgzMKEuxyzCKPAA",
+        "videoId": "YHvNf5dNU4g",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "hAHML_tb9s2878ro5hP3j8ZlW5c",
+          "id": "Ugy-T3Vw0DIn0JwWmRd4AaABAg",
+          "snippet": {
+            "channelId": "UC-fsR9vJRgzMKEuxyzCKPAA",
+            "videoId": "YHvNf5dNU4g",
+            "textDisplay": "Hi Jayce, nice video. I bought this projector and I really like it. Do you have any advice for changing the picture settings to get better quality or colors? Or should I leave it standard?",
+            "textOriginal": "Hi Jayce, nice video. I bought this projector and I really like it. Do you have any advice for changing the picture settings to get better quality or colors? Or should I leave it standard?",
+            "authorDisplayName": "@icon488",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIdro_m7dzMAoiIL7kLCW1OGUDi9o7oKjk6bA9SRfaMXIXkN-JB6=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/@icon488",
+            "authorChannelId": {
+              "value": "UCci_VnKAnQsBPRVG_oEyy0w"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2026-01-20T06:13:42Z",
+            "updatedAt": "2026-01-20T06:13:42Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 1,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "U_GpByuSEJeT94P8Rhvf2A79IG0",
+      "id": "UgwsjPBQUUDDFu8XHOV4AaABAg",
+      "snippet": {
+        "channelId": "UC-fsR9vJRgzMKEuxyzCKPAA",
+        "videoId": "YHvNf5dNU4g",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "L7GFjpoHS6Fw2l2_i_Q4WXV_I4g",
+          "id": "UgwsjPBQUUDDFu8XHOV4AaABAg",
+          "snippet": {
+            "channelId": "UC-fsR9vJRgzMKEuxyzCKPAA",
+            "videoId": "YHvNf5dNU4g",
+            "textDisplay": "Hello.  have a question. Which web browser can I use? Google is pre-installed, but when I open the settings and type Google to add it to the homepage or open it, I only see the \"Uninstall\" option. I can't do anything with that. It's pre-installed, but that's all. I can't use it. The only information I have is that the update was performed on January 6th. Which other browser would you recommend? Is it worth installing the browser recommended by the manufacturer? Thank you very much and best regards.",
+            "textOriginal": "Hello.  have a question. Which web browser can I use? Google is pre-installed, but when I open the settings and type Google to add it to the homepage or open it, I only see the \"Uninstall\" option. I can't do anything with that. It's pre-installed, but that's all. I can't use it. The only information I have is that the update was performed on January 6th. Which other browser would you recommend? Is it worth installing the browser recommended by the manufacturer? Thank you very much and best regards.",
+            "authorDisplayName": "@przemo1438",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIdro_mr37oRls3u6k7EE_8gDqBxn_k1Cw9-a1KK79pSS85YEcYWkOxBOW-pyk2xx5PX-pxcIw=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/@przemo1438",
+            "authorChannelId": {
+              "value": "UCOo-2WBUjEjKqJxWmLYxruw"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2026-01-17T09:36:51Z",
+            "updatedAt": "2026-01-17T09:36:51Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 1,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "iYC-j5KuLgCxEGN99DLiYsctccY",
+      "id": "UgxOrLWM4FFrurK1dzR4AaABAg",
+      "snippet": {
+        "channelId": "UC-fsR9vJRgzMKEuxyzCKPAA",
+        "videoId": "YHvNf5dNU4g",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "QNDBjx4Rl32FID2jc2XlWSNJ7m4",
+          "id": "UgxOrLWM4FFrurK1dzR4AaABAg",
+          "snippet": {
+            "channelId": "UC-fsR9vJRgzMKEuxyzCKPAA",
+            "videoId": "YHvNf5dNU4g",
+            "textDisplay": "Hi \nConnect with power bank ?",
+            "textOriginal": "Hi \nConnect with power bank ?",
+            "authorDisplayName": "@shashankjadhav7476",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIdro_lGFge8YWPWwppFXX_-BD7N8IuEHD04dKh3kon5M5ihO5I=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/@shashankjadhav7476",
+            "authorChannelId": {
+              "value": "UCP8XB3LGg-egQlKmdcpm0hw"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2026-01-17T07:07:05Z",
+            "updatedAt": "2026-01-17T07:07:05Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 1,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "-3bGIJwdhq61PUl9et5f6kquWyw",
+      "id": "UgzYaFmVm5Gji3niaN14AaABAg",
+      "snippet": {
+        "channelId": "UC-fsR9vJRgzMKEuxyzCKPAA",
+        "videoId": "YHvNf5dNU4g",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "uWtchS5o6IHRUhWWAnHYTJXtUlI",
+          "id": "UgzYaFmVm5Gji3niaN14AaABAg",
+          "snippet": {
+            "channelId": "UC-fsR9vJRgzMKEuxyzCKPAA",
+            "videoId": "YHvNf5dNU4g",
+            "textDisplay": "Hello. I have a question, maybe a bit silly. Does the projector support a standard Google browser, so I can browse websites? Thank you and best regards.",
+            "textOriginal": "Hello. I have a question, maybe a bit silly. Does the projector support a standard Google browser, so I can browse websites? Thank you and best regards.",
+            "authorDisplayName": "@przemo1438",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIdro_mr37oRls3u6k7EE_8gDqBxn_k1Cw9-a1KK79pSS85YEcYWkOxBOW-pyk2xx5PX-pxcIw=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/@przemo1438",
+            "authorChannelId": {
+              "value": "UCOo-2WBUjEjKqJxWmLYxruw"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2026-01-14T19:10:27Z",
+            "updatedAt": "2026-01-14T19:10:27Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 3,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "2oHEuwPEYSS7camldgo9lX_vsGE",
+      "id": "UgxD7sZo8mW1oXa_-V14AaABAg",
+      "snippet": {
+        "channelId": "UC-fsR9vJRgzMKEuxyzCKPAA",
+        "videoId": "YHvNf5dNU4g",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "ygZGFxXV6HndxCMIqEph2Bm58ZA",
+          "id": "UgxD7sZo8mW1oXa_-V14AaABAg",
+          "snippet": {
+            "channelId": "UC-fsR9vJRgzMKEuxyzCKPAA",
+            "videoId": "YHvNf5dNU4g",
+            "textDisplay": "What is the battery life on it ?",
+            "textOriginal": "What is the battery life on it ?",
+            "authorDisplayName": "@mouhebkhateeb5609",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIdro_nyWmLICUxANXGy_oawiaAic_wAGp__4DKUtII5h4QlXOgs=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/@mouhebkhateeb5609",
+            "authorChannelId": {
+              "value": "UCZ216CVRuoZ4pZiEcekOGwg"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2026-01-06T20:17:46Z",
+            "updatedAt": "2026-01-06T20:17:46Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 1,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "TprkafS9A-eYCY1g-7jjMnO_lls",
+      "id": "Ugx0o-ZFE-WlnaVG8bp4AaABAg",
+      "snippet": {
+        "channelId": "UC-fsR9vJRgzMKEuxyzCKPAA",
+        "videoId": "YHvNf5dNU4g",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "ZQ5Utl6bJRuIJdj3evwW-Y-BawA",
+          "id": "Ugx0o-ZFE-WlnaVG8bp4AaABAg",
+          "snippet": {
+            "channelId": "UC-fsR9vJRgzMKEuxyzCKPAA",
+            "videoId": "YHvNf5dNU4g",
+            "textDisplay": "how can we setup home theater with this? how can we connect speakers while watching in netflix in native app",
+            "textOriginal": "how can we setup home theater with this? how can we connect speakers while watching in netflix in native app",
+            "authorDisplayName": "@jayareddy424",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIdro_n8n5hceUtN3yziqty4ExwmbiigQ8osPjeT14h3N_SJ6z8=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/@jayareddy424",
+            "authorChannelId": {
+              "value": "UCIJk0uZaKp76ttoYWaP06uw"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2025-12-31T06:14:58Z",
+            "updatedAt": "2025-12-31T06:14:58Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 3,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "l0Bn_T6KtFkhdN6PhSKUB3jIW3A",
+      "id": "UgzsVWbcTU2yLnx49X54AaABAg",
+      "snippet": {
+        "channelId": "UC-fsR9vJRgzMKEuxyzCKPAA",
+        "videoId": "YHvNf5dNU4g",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "BS5SMGkWwHuyq1mUE9I9Fw8v-bg",
+          "id": "UgzsVWbcTU2yLnx49X54AaABAg",
+          "snippet": {
+            "channelId": "UC-fsR9vJRgzMKEuxyzCKPAA",
+            "videoId": "YHvNf5dNU4g",
+            "textDisplay": "Est ce qu'il fait la fonction mirror screen depuis mon smartphone Android ?",
+            "textOriginal": "Est ce qu'il fait la fonction mirror screen depuis mon smartphone Android ?",
+            "authorDisplayName": "@fabiengromeo3982",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIdro_mkzhZObpxkNl0CcZThmCduGi3qYuxYkB14-H6od1A=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/@fabiengromeo3982",
+            "authorChannelId": {
+              "value": "UCK7qcpWNLZkbdiDid-TBYBg"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2025-12-29T21:23:10Z",
+            "updatedAt": "2025-12-29T21:23:10Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 1,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "Ae8LN_fVHrBoJ4oHcJobs4V5AIg",
+      "id": "UgxsrpiPFmuJUbBPEHt4AaABAg",
+      "snippet": {
+        "channelId": "UC-fsR9vJRgzMKEuxyzCKPAA",
+        "videoId": "YHvNf5dNU4g",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "0CAMni8Ul3PjTHCVFmCn7h6UXEs",
+          "id": "UgxsrpiPFmuJUbBPEHt4AaABAg",
+          "snippet": {
+            "channelId": "UC-fsR9vJRgzMKEuxyzCKPAA",
+            "videoId": "YHvNf5dNU4g",
+            "textDisplay": "Hey Jayce can you help me with a dilemma between two projektors ? witch one would you prefer : XGIMI Vibe One or WANBO VALI 1 thak you for your answer .",
+            "textOriginal": "Hey Jayce can you help me with a dilemma between two projektors ? witch one would you prefer : XGIMI Vibe One or WANBO VALI 1 thak you for your answer .",
+            "authorDisplayName": "@adamvarga8287",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIdro_n3xjNZLsWe4RIspDFXLuoSyUIl6rYjJLsS_59Zgfs=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/@adamvarga8287",
+            "authorChannelId": {
+              "value": "UCXDYih_7i_dhaUsoLJGXWQQ"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2025-12-22T12:44:24Z",
+            "updatedAt": "2025-12-22T12:44:24Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 1,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "IbHok4gM-VqV26ogjxo0DKdDBVE",
+      "id": "Ugxa6RV98PhSPeJjsZV4AaABAg",
+      "snippet": {
+        "channelId": "UC-fsR9vJRgzMKEuxyzCKPAA",
+        "videoId": "YHvNf5dNU4g",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "xVL2bihfjByuaxeAqxnzjR6qrBA",
+          "id": "Ugxa6RV98PhSPeJjsZV4AaABAg",
+          "snippet": {
+            "channelId": "UC-fsR9vJRgzMKEuxyzCKPAA",
+            "videoId": "YHvNf5dNU4g",
+            "textDisplay": "Telefondan Bluetooth ile bağlanamadım",
+            "textOriginal": "Telefondan Bluetooth ile bağlanamadım",
+            "authorDisplayName": "@muhammedhanefi933",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIdro_lk-L3uiEvUMU826x-beYfiwdYLkKHB57B3wkJA8nBSY3g=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/@muhammedhanefi933",
+            "authorChannelId": {
+              "value": "UCpraKKsVwwicyC197ALL1ww"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2025-12-13T19:33:30Z",
+            "updatedAt": "2025-12-13T19:33:30Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 1,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "hm6ZXLBC3ytGO6qhY-zgpl6bN1U",
+      "id": "Ugw0zoR5aerEo9pUdul4AaABAg",
+      "snippet": {
+        "channelId": "UC-fsR9vJRgzMKEuxyzCKPAA",
+        "videoId": "YHvNf5dNU4g",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "wgGpk2d2lesqtVzR-ypO6CVAQR4",
+          "id": "Ugw0zoR5aerEo9pUdul4AaABAg",
+          "snippet": {
+            "channelId": "UC-fsR9vJRgzMKEuxyzCKPAA",
+            "videoId": "YHvNf5dNU4g",
+            "textDisplay": "Vibe one or elfin flip mainly for ofline usb 4k movies with fast response, and fast \"OS\" response.\nThankyou",
+            "textOriginal": "Vibe one or elfin flip mainly for ofline usb 4k movies with fast response, and fast \"OS\" response.\nThankyou",
+            "authorDisplayName": "@Art3miz_f0WL",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/NisO9U00diDoMk3B6mMRAqM9YziLBbXSkui7ds73HcRMFDnOTfCYyfjSRobVzzVQI745wZ-0bPc=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/@Art3miz_f0WL",
+            "authorChannelId": {
+              "value": "UCgaN2aTcNWPjua7_9fNsLEQ"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2025-12-04T16:06:17Z",
+            "updatedAt": "2025-12-04T16:10:04Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 1,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "-OP3cLlq9g34QQHA4Tp2KLEU0Ow",
+      "id": "UgxRbCDkR1XeHNaflIR4AaABAg",
+      "snippet": {
+        "channelId": "UC-fsR9vJRgzMKEuxyzCKPAA",
+        "videoId": "YHvNf5dNU4g",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "LI1D8wnmu7N4-kfZtPZtiCVg61s",
+          "id": "UgxRbCDkR1XeHNaflIR4AaABAg",
+          "snippet": {
+            "channelId": "UC-fsR9vJRgzMKEuxyzCKPAA",
+            "videoId": "YHvNf5dNU4g",
+            "textDisplay": "I'm seeing this for $239 and no cheaper, when/where is it available for under $200?",
+            "textOriginal": "I'm seeing this for $239 and no cheaper, when/where is it available for under $200?",
+            "authorDisplayName": "@swirle13",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIdro_k9a21IdqYUtgotAZD15BLV0Vrsl6zdo4X4SPRtNa5Mef-u=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/@swirle13",
+            "authorChannelId": {
+              "value": "UCqZOLqPWja-rAFsA43yCfpg"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2025-12-04T00:09:12Z",
+            "updatedAt": "2025-12-04T00:09:12Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 2,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "UEH7XGlqgVe7NWfwE4wm8Q9CRdM",
+      "id": "UgzTNp99iSyidDOYukN4AaABAg",
+      "snippet": {
+        "channelId": "UC-fsR9vJRgzMKEuxyzCKPAA",
+        "videoId": "YHvNf5dNU4g",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "Jg0Blh0mZ9lJdH2x1Fz7Opvgo4Y",
+          "id": "UgzTNp99iSyidDOYukN4AaABAg",
+          "snippet": {
+            "channelId": "UC-fsR9vJRgzMKEuxyzCKPAA",
+            "videoId": "YHvNf5dNU4g",
+            "textDisplay": "Honestly .. I don't care about Netflix Certified anymore. After it gave me 420p quality on uncertified projector I decided to cancel my subscription, and resorted to other means of gettign series.",
+            "textOriginal": "Honestly .. I don't care about Netflix Certified anymore. After it gave me 420p quality on uncertified projector I decided to cancel my subscription, and resorted to other means of gettign series.",
+            "authorDisplayName": "@winnie8614",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/3kLBxEzTPTqDbgR5gs7c8tJTegbEP8e1QWKag7ir1mH27xe88umTEv8ibpjdoALP32cT-jfs=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/@winnie8614",
+            "authorChannelId": {
+              "value": "UC-Jip3Kqmh4aosuwiY9lWfQ"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2025-12-03T12:36:30Z",
+            "updatedAt": "2025-12-03T12:36:30Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "BCKPdogDhfIqtTI0tGx4rMY8USY",
+      "id": "Ugw-rQbbiKcs2WjhYEx4AaABAg",
+      "snippet": {
+        "channelId": "UC-fsR9vJRgzMKEuxyzCKPAA",
+        "videoId": "YHvNf5dNU4g",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "rsgmn7fiI_c_RqO3C8sbsXUJuoA",
+          "id": "Ugw-rQbbiKcs2WjhYEx4AaABAg",
+          "snippet": {
+            "channelId": "UC-fsR9vJRgzMKEuxyzCKPAA",
+            "videoId": "YHvNf5dNU4g",
+            "textDisplay": "Would you say this is the best portable projector under $200 this is a time sensitive question",
+            "textOriginal": "Would you say this is the best portable projector under $200 this is a time sensitive question",
+            "authorDisplayName": "@B-28",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/sJhK-8QoIEWod302Hlk4tQ0dWXhXGKrYPRAxMU2niuGMswZE15NQ4FRXHi2VRQa6eb0Xi__6=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/@B-28",
+            "authorChannelId": {
+              "value": "UCvQPNEof5ENk5DuVmbLeoPw"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2025-11-28T21:43:09Z",
+            "updatedAt": "2025-11-28T21:43:09Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 3,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "Vvx5MFiH7Tuo-G6pqrkty6nHusc",
+      "id": "UgwmxRDV45unQpLgIVB4AaABAg",
+      "snippet": {
+        "channelId": "UC-fsR9vJRgzMKEuxyzCKPAA",
+        "videoId": "YHvNf5dNU4g",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "ttCwcLCp9qSnw1wGpH8EpojCe8s",
+          "id": "UgwmxRDV45unQpLgIVB4AaABAg",
+          "snippet": {
+            "channelId": "UC-fsR9vJRgzMKEuxyzCKPAA",
+            "videoId": "YHvNf5dNU4g",
+            "textDisplay": "This or Mogo 3 Pro for 150€ more ?",
+            "textOriginal": "This or Mogo 3 Pro for 150€ more ?",
+            "authorDisplayName": "@Jansonj-y2t",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/i6iPXbPq5ChP8kuhUGQlBOxji6M9sgQzuHVqgycMbSY4VD81ISqoaXvVXTt5AmTguoxQCXbdQg=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/@Jansonj-y2t",
+            "authorChannelId": {
+              "value": "UCJPzYaq24q8nYrgSA8jhY-g"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2025-11-28T06:07:03Z",
+            "updatedAt": "2025-11-28T06:07:03Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 1,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "MkHXXWLKkR_YwdXeuXXR41yMrZw",
+      "id": "UgxD89KYQgq1vYoxtpd4AaABAg",
+      "snippet": {
+        "channelId": "UC-fsR9vJRgzMKEuxyzCKPAA",
+        "videoId": "YHvNf5dNU4g",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "7CQ328orJWtPSkTTqDCDT7ut_XU",
+          "id": "UgxD89KYQgq1vYoxtpd4AaABAg",
+          "snippet": {
+            "channelId": "UC-fsR9vJRgzMKEuxyzCKPAA",
+            "videoId": "YHvNf5dNU4g",
+            "textDisplay": "Nice explanation Jayce",
+            "textOriginal": "Nice explanation Jayce",
+            "authorDisplayName": "@nishu_jainn",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/VMfFleSMyVJmz2-j6XOGNUzUvlb-406lSVO1Ya3dGIu_39vi0Ps-QSweQNN1B7_NleDjz19rPg=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/@nishu_jainn",
+            "authorChannelId": {
+              "value": "UCi4b0i3VYMuOMLHalGnU4lg"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 2,
+            "publishedAt": "2025-11-26T15:52:54Z",
+            "updatedAt": "2025-11-26T15:52:54Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 1,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "j-oM-VvYiIr1J9J63g2NSAXpoLU",
+      "id": "Ugyv2SZg9EG8Yvm45Xt4AaABAg",
+      "snippet": {
+        "channelId": "UC-fsR9vJRgzMKEuxyzCKPAA",
+        "videoId": "YHvNf5dNU4g",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "GkGNxLEJMLalSpqoHsZhp-u-vzI",
+          "id": "Ugyv2SZg9EG8Yvm45Xt4AaABAg",
+          "snippet": {
+            "channelId": "UC-fsR9vJRgzMKEuxyzCKPAA",
+            "videoId": "YHvNf5dNU4g",
+            "textDisplay": "hallo ist es möglich Daten vom  i pad oder  über bluetooth zu verbinden ohne internetkabel? ich muss pdf auf einen Tisch projektieren",
+            "textOriginal": "hallo ist es möglich Daten vom  i pad oder  über bluetooth zu verbinden ohne internetkabel? ich muss pdf auf einen Tisch projektieren",
+            "authorDisplayName": "@camarok2805",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIdro_mR5JSkst0wdLZzxglh1kk43fFcDqBpow3mzCsLhMIebBo=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/@camarok2805",
+            "authorChannelId": {
+              "value": "UCU2Fizd4ZeGbyn_vJjbhEPg"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2025-11-26T12:43:39Z",
+            "updatedAt": "2025-11-26T12:43:39Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 3,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "yYD62483mu_hnohVBCg8jxjehCI",
+      "id": "Ugw2onrijS6teJVlYNh4AaABAg",
+      "snippet": {
+        "channelId": "UC-fsR9vJRgzMKEuxyzCKPAA",
+        "videoId": "YHvNf5dNU4g",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "oj1fwgu5020c4XLJrCqHT2y6HSU",
+          "id": "Ugw2onrijS6teJVlYNh4AaABAg",
+          "snippet": {
+            "channelId": "UC-fsR9vJRgzMKEuxyzCKPAA",
+            "videoId": "YHvNf5dNU4g",
+            "textDisplay": "Hey Jayce, I am stuck between the Magcubic HY310x and the Magcubic HY320ntv. I've seen your comparisons with the older models of these lines, but would you have any recommendation between these more updated models?",
+            "textOriginal": "Hey Jayce, I am stuck between the Magcubic HY310x and the Magcubic HY320ntv. I've seen your comparisons with the older models of these lines, but would you have any recommendation between these more updated models?",
+            "authorDisplayName": "@rosexa2091",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIdro_l_rHub11nw1Y1CfjIskVuKh05NILQDBC7yzwJO7DCGrKA=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/@rosexa2091",
+            "authorChannelId": {
+              "value": "UC96xYMGtSSeEaxLXqEMnI2g"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2025-11-24T23:38:39Z",
+            "updatedAt": "2025-11-24T23:38:39Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 1,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "HbbNvoN32xE5gDxZ9OPvO6Bha_8",
+      "id": "UgyQ8rk_T7o4_Z_TgHF4AaABAg",
+      "snippet": {
+        "channelId": "UC-fsR9vJRgzMKEuxyzCKPAA",
+        "videoId": "YHvNf5dNU4g",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "Z06PkFAmgjhzV2Xzk5Zz_3Gnc58",
+          "id": "UgyQ8rk_T7o4_Z_TgHF4AaABAg",
+          "snippet": {
+            "channelId": "UC-fsR9vJRgzMKEuxyzCKPAA",
+            "videoId": "YHvNf5dNU4g",
+            "textDisplay": "Please add it to your best projector excel sheet.\n\nHow does it compare to the Velec TP350 NTV ? Better?",
+            "textOriginal": "Please add it to your best projector excel sheet.\n\nHow does it compare to the Velec TP350 NTV ? Better?",
+            "authorDisplayName": "@Gho5tface",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIdro_mHNv3eXGVTgYhdTqraVvsl6eFcIdE33dbUYYSiWbyi-A=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/@Gho5tface",
+            "authorChannelId": {
+              "value": "UCtkUl6vyV3PWY7MBxJU4-9A"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2025-11-24T18:23:26Z",
+            "updatedAt": "2025-11-24T18:23:26Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 2,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "Pt0Io0MaYhbR40jxWVUc1lNLcKw",
+      "id": "UgxcRWYOTiXy3__5VVF4AaABAg",
+      "snippet": {
+        "channelId": "UC-fsR9vJRgzMKEuxyzCKPAA",
+        "videoId": "YHvNf5dNU4g",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "f_m-K8_59R1hsq5dFdlnF_GmxXc",
+          "id": "UgxcRWYOTiXy3__5VVF4AaABAg",
+          "snippet": {
+            "channelId": "UC-fsR9vJRgzMKEuxyzCKPAA",
+            "videoId": "YHvNf5dNU4g",
+            "textDisplay": "Thanks for the review!\nI want to get a portable projector, but I’m torn between the XGIMI Vibe, MoGo 2 Pro, MoGo 3 Pro, or maybe something similar.\nI’m leaning toward a projector (instead of a TV) because I have a fairly small room and don’t plan to use it constantly. I’d mostly use it for:\n- watching ~4 football matches per week\n- movies and series occasionally\n- maybe a little bit of gaming\n- i find the portability feature a nice thing to have\n- it would be nice, if I could use the projector in the room also with light (lamp/ or day light from the window)\nBased on that, which projector would you recommend?",
+            "textOriginal": "Thanks for the review!\nI want to get a portable projector, but I’m torn between the XGIMI Vibe, MoGo 2 Pro, MoGo 3 Pro, or maybe something similar.\nI’m leaning toward a projector (instead of a TV) because I have a fairly small room and don’t plan to use it constantly. I’d mostly use it for:\n- watching ~4 football matches per week\n- movies and series occasionally\n- maybe a little bit of gaming\n- i find the portability feature a nice thing to have\n- it would be nice, if I could use the projector in the room also with light (lamp/ or day light from the window)\nBased on that, which projector would you recommend?",
+            "authorDisplayName": "@ballistic8060",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIdro_nuvxjINpW7HyePVswJVGL6C4ki3x6tRK1ShHbU1OvJ1Q=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/@ballistic8060",
+            "authorChannelId": {
+              "value": "UCz_Zd-lWycwArzjlKPTu0LQ"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2025-11-24T18:00:50Z",
+            "updatedAt": "2025-11-24T18:00:50Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 1,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "DD6C2ywaIluPj2Dr6y42litAeug",
+      "id": "UgyufO51ZXaaysKk6dB4AaABAg",
+      "snippet": {
+        "channelId": "UC-fsR9vJRgzMKEuxyzCKPAA",
+        "videoId": "YHvNf5dNU4g",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "PwEHqGSi-pWFVxfNXgdRBuz4lOk",
+          "id": "UgyufO51ZXaaysKk6dB4AaABAg",
+          "snippet": {
+            "channelId": "UC-fsR9vJRgzMKEuxyzCKPAA",
+            "videoId": "YHvNf5dNU4g",
+            "textDisplay": "good review to share",
+            "textOriginal": "good review to share",
+            "authorDisplayName": "@ooisuchyi2736",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIdro_nuMxXhzihOD2LWO6f2ubDqh1-CddZ3El6PY2cH4hp62orsHLfgccgUJryPjCxoYorJGQ=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/@ooisuchyi2736",
+            "authorChannelId": {
+              "value": "UCB7gexjaikiBJ5lgY-EKVzQ"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 1,
+            "publishedAt": "2025-11-24T09:38:04Z",
+            "updatedAt": "2025-11-24T09:38:04Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 1,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "kfls2F4qDDp1wslR34ejd_nJnIQ",
+      "id": "UgwnPF3FRI795NW1MEJ4AaABAg",
+      "snippet": {
+        "channelId": "UC-fsR9vJRgzMKEuxyzCKPAA",
+        "videoId": "YHvNf5dNU4g",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "g7gq-0GVl9lHCiKJVih2P4rtPkY",
+          "id": "UgwnPF3FRI795NW1MEJ4AaABAg",
+          "snippet": {
+            "channelId": "UC-fsR9vJRgzMKEuxyzCKPAA",
+            "videoId": "YHvNf5dNU4g",
+            "textDisplay": "Xgimi vibe one are 4k or not",
+            "textOriginal": "Xgimi vibe one are 4k or not",
+            "authorDisplayName": "@yakubmoviestek148",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIdro_nMUuUDi14XyhxI9QU3xHK1l2oM2J3D_bujyIPLQIDKeg=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/@yakubmoviestek148",
+            "authorChannelId": {
+              "value": "UCQUk6_yqOY-NwakZvH3Elyg"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2025-11-24T07:55:07Z",
+            "updatedAt": "2025-11-24T07:55:18Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 5,
+        "isPublic": true
+      }
+    }
+  ]
+}
