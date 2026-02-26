@@ -14,13 +14,14 @@ from bm25_engine import BM25Index, load_and_tokenize_csv, tokenize_and_expand_qu
 
 
 def minmax_normalize(values):
-    """将数值列表线性缩放到 [0, 1]。若全部相同则返回 0.5 避免除零。"""
+    """Normalize values to [0, 1] using MinMaxScaler."""
+    #reshape the values to a column vector
     arr = np.array(values, dtype=float).reshape(-1, 1)
     return MinMaxScaler().fit_transform(arr).flatten().tolist()
 
 
 def log_minmax_normalize(values):
-    """先做 log(1+x)，再缩放到 [0, 1]。适用于点赞数等非负稀疏值。"""
+    """Normalize values to [0, 1] using MinMaxScaler after log(1+x). Suitable for non-negative sparse values like likes."""
     log_arr = np.log1p(np.array(values, dtype=float)).reshape(-1, 1)
     return MinMaxScaler().fit_transform(log_arr).flatten().tolist()
 
