@@ -1,4 +1,4 @@
-## Information Retrieval Combining Comment Usefulness and Relevance (IR-Focused)
+## YouTube-BM25-Ranker
 
 ### Dataset
 
